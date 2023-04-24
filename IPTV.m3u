@@ -27,6 +27,8 @@ http://51.91.8.161:18000/Nova/hls/playlist.m3u8
 http://51.91.8.161:18000/Divinity/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD", BE MAD
 http://51.91.8.161:18000/BE_MAD/hls/playlist.m3u8
+#EXTINF:-1,DKISS ES *ID=1439*
+http://45.141.194.9:9000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSAGA", M+ Sagas
 http://51.91.8.161:18000/M_Sagas/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1", M+ Estrenos
@@ -53,6 +55,8 @@ http://51.91.8.161:18000/M_Series_2/hls/playlist.m3u8
 http://51.91.8.161:18000/Canal_Cocina/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA", Canal Decasa
 http://51.91.8.161:18000/Canal_Decasa/hls/playlist.m3u8
+#EXTINF:-1,AMC BREAK
+http://45.141.194.9:9000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/FOXGE", Fox
 http://51.91.8.161:18000/Fox/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AXN", AXN
@@ -95,6 +99,8 @@ http://51.91.8.161:18000/Historia/hls/playlist.m3u8
 http://51.91.8.161:18000/Discovery/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA", Odisea
 http://51.91.8.161:18000/Odisea/hls/playlist.m3u8
+#EXTINF:-1,Dviaje ES
+http://45.141.194.9:9000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV3", M+ #0
 http://51.91.8.161:18000/M_0/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VAMOSD", M+ #Vamos
@@ -177,6 +183,8 @@ http://51.91.8.161:18000/Ubeat/hls/playlist.m3u8
 http://51.91.8.161:18000/Baby_TV/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PLAYDC", Disney Junior
 http://51.91.8.161:18000/Disney_Junior/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PANDA", Enfamilia
+http://51.91.8.161:18000/ENFAMILIA/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICKJR", NICK JR
 http://51.91.8.161:18000/NICK_JR/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICK", Nickelodeon
@@ -192,9 +200,15 @@ http://51.91.8.161:18000/Clan_TVE/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SOMOS", Somos
 http://51.91.8.161:18000/Somos/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s
-http://51.91.8.161:18000/MTV_00s/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MTV", MTV
-http://51.91.8.161:18000/MTV/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s
+http://45.141.194.9:9000/play/a01h/index.m3u8
+#EXTINF:-1,MTV 80s
+http://45.141.194.9:9000/play/a02l/index.m3u8
+#EXTINF:-1,MTV Live HD ES *ID=1619*
+http://45.141.194.9:9000/play/a01n/index.m3u8
+#EXTINF:-1,MTV Rocks ES
+http://45.141.194.9:9000/play/a02m/index.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SOLMUS", Sol Musica
 http://51.91.8.161:18000/Sol_Musica/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/24H", 24 Horas
@@ -203,26 +217,46 @@ http://51.91.8.161:18000/24_Horas/hls/playlist.m3u8
 http://51.91.8.161:18000/El_Toro_TV/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEGOTV", Negocios TV
 http://51.91.8.161:18000/Negocios_TV/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV", Canal Sur Andalucia
-http://51.91.8.161:18000/Canal_Sur_Andalucia/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD", Telemadrid
+http://51.91.8.161:18000/Telemadrid/hls/playlist.m3u8
+#EXTINF:-1,La Otra ES *ID=1686*
+http://45.141.194.9:9000/play/a02j/index.m3u8
+#EXTINF:-1,8 Madrid ES *ID=1690*
+http://45.141.194.9:9000/play/a027/index.m3u8
+#EXTINF:-1,Castilla la Mancha HD ES
+http://45.141.194.9:9000/play/a031/index.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM", Canal Extremadura Sat
-http://51.91.8.161:18000/Canal_Extremadura_Sat/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVC", TV3 Cat
-http://51.91.8.161:18000/TV3_Cat/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CL13", 13 Trece
-http://51.91.8.161:18000/13_TRECE/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV", Canal Sur Andalucia
+http://45.141.194.9:9000/play/a00h/index.m3u8
+#EXTINF:-1,Canal Sur 2 ES *ID=13*
+http://45.141.194.9:9000/play/a02b/index.m3u8
+#EXTINF:-1,Canal Sur Huelva HD ES
+http://45.141.194.9:9000/play/a02c/index.m3u8
+#EXTINF:-1,Canal Luz ES *ID=1710*
+http://45.141.194.9:9000/play/a02a/index.m3u8
+#EXTINF:-1,Canalcosta ES
+http://45.141.194.9:9000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON", Aragon TV Int
 http://51.91.8.161:18000/Aragon_TV_Int/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CANSUR", Canal Sur
-http://51.91.8.161:18000/Canal_Sur/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL", TVG -TV Galicia
 http://51.91.8.161:18000/TVG_-TV_Galicia/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL", TV Galicia2
 http://51.91.8.161:18000/TV_Galicia_2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD", Telemadrid
-http://51.91.8.161:18000/Telemadrid/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ETB1", ETB 1
 http://51.91.8.161:18000/ETB_1/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVC", TV3 Cat
+http://51.91.8.161:18000/TV3_Cat/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CL13", 13 Trece
+http://51.91.8.161:18000/13_TRECE/hls/playlist.m3u8
+#EXTINF:-1,Cines Verdi TV ES
+http://51.91.8.161:18000/13_TRECE/hls/playlist.m3u8
+#EXTINF:-1,Cine Feel Good Verdi TV ES
+http://45.141.194.9:9000/play/a02f/index.m3u8
+#EXTINF:-1,Real Madrid TV ES *ID=1498*
+http://45.141.194.9:9000/play/a02e/index.m3u8
+#EXTINF:-1,Barca TV ES *ID=1630*
+http://45.141.194.9:9000/play/a017/index.m3u8
 #EXTINF:-1,SuperSport 1
 http://31.171.154.21:9898/play/a008
 #EXTINF:-1,SuperSport 2
@@ -387,8 +421,10 @@ http://5.255.90.238:5002/play/a02g/index.m3u8
 http://5.255.90.238:5001/play/a00u/index.m3u8
 #EXTINF:-1,Eleven Sports HD
 http://5.255.90.238:5002/play/a007/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://45.141.194.9:9000/play/a00p/index.m3u8
 #EXTINF:-1,Eurosport 2 HD
-http://5.255.90.238:5002/play/a015/index.m3u8
+http://45.141.194.9:9000/play/a00q/index.m3u8
 #EXTINF:-1,Extreme Sports HD
 http://5.255.90.238:5002/play/a00z/index.m3u8
 #EXTINF:-1,Fightklub HD
@@ -427,3 +463,5 @@ http://88.99.144.223:1234/play/a001/index.m3u8
 http://88.99.144.223:1234/play/a002/index.m3u8
 #EXTINF: -1, SPORT 5 HD
 http://88.99.144.223:1234/play/a005/index.m3u8
+#EXTINF:-1,Fight Time HD ES *ID=1636*
+http://45.141.194.9:9000/play/a00s/index.m3u8
