@@ -225,14 +225,6 @@ http://51.91.8.161:18000/TV_Galicia_2/hls/playlist.m3u8
 http://51.91.8.161:18000/Telemadrid/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ETB1", ETB 1
 http://51.91.8.161:18000/ETB_1/hls/playlist.m3u8
-#EXTINF:-1,ESPN
-http://206.85.3.186:7979/play/a08s/index.m3u8
-#EXTINF:-1,ESPN 2
-http://206.85.3.186:7979/play/a08t/index.m3u8
-#EXTINF:-1,ESPN 3
-http://206.85.3.186:7979/play/a08e/index.m3u8
-#EXTINF:-1,ESPN 4
-http://206.85.3.186:7979/play/a0a1/index.m3u8
 #EXTINF:-1,SuperSport 1
 http://31.171.154.21:9898/play/a008
 #EXTINF:-1,SuperSport 2
