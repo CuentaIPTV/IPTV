@@ -177,8 +177,6 @@ http://51.91.8.161:18000/Ubeat/hls/playlist.m3u8
 http://51.91.8.161:18000/Baby_TV/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PLAYDC", Disney Junior
 http://51.91.8.161:18000/Disney_Junior/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PANDA", Enfamilia
-http://51.91.8.161:18000/ENFAMILIA/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICKJR", NICK JR
 http://51.91.8.161:18000/NICK_JR/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICK", Nickelodeon
