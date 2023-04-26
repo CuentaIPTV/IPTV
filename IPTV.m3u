@@ -27,7 +27,7 @@ http://51.91.8.161:18000/Nova/hls/playlist.m3u8
 http://51.91.8.161:18000/Divinity/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD", BE MAD
 http://51.91.8.161:18000/BE_MAD/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/DKISS_2019_logo.svg/revision/latest?cb=20190917090833, DKISS
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dkiss.png", DKISS
 http://45.141.194.9:9000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSAGA", M+ Sagas
 http://51.91.8.161:18000/M_Sagas/hls/playlist.m3u8
@@ -55,7 +55,7 @@ http://51.91.8.161:18000/M_Series_2/hls/playlist.m3u8
 http://51.91.8.161:18000/Canal_Cocina/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA", Canal Decasa
 http://51.91.8.161:18000/Canal_Decasa/hls/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/AMC_Break.svg/revision/latest?cb=20220419183550", AMC BREAK
+#EXTINF:-1  tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/04/logo_amc_break.png?ssl=1", AMC BREAK
 http://45.141.194.9:9000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/FOXGE", Fox
 http://51.91.8.161:18000/Fox/hls/playlist.m3u8
@@ -71,7 +71,7 @@ http://51.91.8.161:18000/Calle_13/hls/playlist.m3u8
 http://51.91.8.161:18000/COSMO/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AMC", AMC
 http://51.91.8.161:18000/AMC/hls/playlist.m3u8
-#EXTINF:-4 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Xtrm_2021.svg/revision/latest?cb=20211217183602", XTRM
+#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png", XTRM
 http://51.91.8.161:18000/XTRM/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET", AXN White
 http://51.91.8.161:18000/AXN_White/hls/playlist.m3u8
@@ -107,7 +107,7 @@ http://51.91.8.161:18000/M_0/hls/playlist.m3u8
 http://51.91.8.161:18000/M_Vamos/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA", M+ LaLiga
 http://51.91.8.161:18000/M_LaLiga/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG", LaLiga SB
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/laliga-smartbank-logo-vector.png", LaLiga SmartBank
 http://51.91.8.161:18000/LaLiga_SB/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG2", M LaLiga 2
 http://51.91.8.161:18000/M_LaLiga_2/hls/playlist.m3u8
@@ -207,7 +207,7 @@ http://45.141.194.9:9000/play/a01h/index.m3u8
 http://45.141.194.9:9000/play/a02l/index.m3u8
 #EXTINF:-6 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/MTV_Live_2021.svg/revision/latest/scale-to-width-down/1000?cb=20211008002311&path-prefix=es", MTV Life
 http://45.141.194.9:9000/play/a01n/index.m3u8
-#EXTINF:-7 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/MTV_Rocks_Europe.svg/revision/latest?cb=20191208004630", MTV Rocks
+#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MTV_ROCKS_logo.svg/493px-MTV_ROCKS_logo.svg.png", MTV Rocks
 http://45.141.194.9:9000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SOLMUS", Sol Musica
 http://51.91.8.161:18000/Sol_Musica/hls/playlist.m3u8
@@ -219,7 +219,7 @@ http://51.91.8.161:18000/El_Toro_TV/hls/playlist.m3u8
 http://51.91.8.161:18000/Negocios_TV/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD", Telemadrid
 http://51.91.8.161:18000/Telemadrid/hls/playlist.m3u8
-#EXTINF:-8 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/LaOtra.svg/revision/latest?cb=20180520124607", La Otra
+#EXTINF:-8 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/LaOtra_logo_2005_rojo.gif/revision/latest?cb=20110815001554", La Otra
 http://45.141.194.9:9000/play/a02j/index.m3u8
 #EXTINF:-11 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/8madrid.png?w=96&h=72&tok=0d4545", 8 Madrid
 http://45.141.194.9:9000/play/a027/index.m3u8
