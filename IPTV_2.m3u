@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVE", LA 1
+http://45.141.194.9:9000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/LA2", LA 2
+http://45.141.194.9:9000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/A3", Antena 3
+http://45.141.194.9:9000/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/C4", Cuatro
+http://45.141.194.9:9000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/T5", Telecinco
+http://45.141.194.9:9000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SEXTA", La Sexta
+http://45.141.194.9:9000/play/a010/index.m3u8
+#EXTINF:-3 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/revision/latest/scale-to-width-down/1000?cb=20181124123209", Factoría de Ficción
+http://45.141.194.9:9000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEOX", Neox
+http://45.141.194.9:9000/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ENERGY", Energy
+http://45.141.194.9:9000/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEGA", Mega
+http://45.141.194.9:9000/play/a011/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png", DMAX
+http://45.141.194.9:9000/play/a022/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ATRESS", Atreseries
+http://45.141.194.9:9000/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA", Nova
+http://45.141.194.9:9000/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DIVINI", Divinity
+http://45.141.194.9:9000/play/a023/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD", BE MAD
+http://45.141.194.9:9000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dkiss.png", DKISS
+http://45.141.194.9:9000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSAGA", M+ Sagas
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1", M+ Estrenos
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEST2", M+ Estrenos 2
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS", M+ Clasicos
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPACCI", M+ Accion
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOME", M+ Comedia
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOLE", M+ Drama
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP", M+ Cine Espanol
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MONFIR", M+ Fest
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV2", M+ Series
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPSER", M+ Series 2
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC", Canal Cocina
+http://45.141.194.9:9000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC", Canal Cocina
+http://45.141.194.9:9000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA", Canal Decasa
+http://45.141.194.9:9000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA", Canal Decasa
+http://45.141.194.9:9000/play/a02y/index.m3u8
+#EXTINF:-1  tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/04/logo_amc_break.png?ssl=1", AMC BREAK
+http://45.141.194.9:9000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/FOXGE", Fox
+http://45.141.194.9:9000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AXN", AXN
+http://45.141.194.9:9000/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TNT", WARNER TV
+http://45.141.194.9:9000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PCM", Comedy Central
+http://45.141.194.9:9000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CL13", Calle 13
+http://45.141.194.9:9000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/COSMO", COSMO
+http://45.141.194.9:9000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AMC", AMC
+http://45.141.194.9:9000/play/a01y/index.m3u8
+#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png", XTRM
+http://45.141.194.9:9000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET", AXN White
+http://45.141.194.9:9000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SCI-FI", SYFY
+http://45.141.194.9:9000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TCM", TCM
+http://45.141.194.9:9000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HOLLYW", Hollywood
+http://45.141.194.9:9000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SUNDAN", Sundance
+http://45.141.194.9:9000/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DARK", DARK
+http://45.141.194.9:9000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PARCH", Paramount Channel
+http://45.141.194.9:9000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO", National Geographic
+http://45.141.194.9:9000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGW", Nat Geo Wild
+http://45.141.194.9:9000/play/a012/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HIST", Historia
+http://45.141.194.9:9000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR", Discovery
+http://45.141.194.9:9000/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA", Odisea
+http://45.141.194.9:9000/play/a01m/index.m3u8
+#EXTINF:-2 tvg-logo="https://nuestratv.es/wp-content/uploads/2022/04/dviaje.png", DVIAJE
+http://45.141.194.9:9000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PLAYDC", Disney Junior
+http://45.141.194.9:9000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PANDA", Enfamilia
+http://45.141.194.9:9000/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICKJR", NICK JR
+http://45.141.194.9:9000/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICK", Nickelodeon
+http://45.141.194.9:9000/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCH", Disney Channel
+http://45.141.194.9:9000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BOING", Boing
+http://45.141.194.9:9000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CLANTV", Clan TVE
+http://45.141.194.9:9000/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SOMOS", Somos
+http://45.141.194.9:9000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s
+http://45.141.194.9:9000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s
+http://45.141.194.9:9000/play/a01h/index.m3u8
+#EXTINF:-5 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/MTV_80s_2020_variante.png/revision/latest?cb=20201008163441&path-prefix=es", MTV 80s
+http://45.141.194.9:9000/play/a02l/index.m3u8
+#EXTINF:-6 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/MTV_Live_2021.svg/revision/latest/scale-to-width-down/1000?cb=20211008002311&path-prefix=es", MTV Life
+http://45.141.194.9:9000/play/a01n/index.m3u8
+#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MTV_ROCKS_logo.svg/493px-MTV_ROCKS_logo.svg.png", MTV Rocks
+http://45.141.194.9:9000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD", Telemadrid
+http://45.141.194.9:9000/play/a02n/index.m3u8
+#EXTINF:-8 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/LaOtra_logo_2005_rojo.gif/revision/latest?cb=20110815001554", La Otra
+http://45.141.194.9:9000/play/a02j/index.m3u8
+#EXTINF:-11 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/8madrid.png?w=96&h=72&tok=0d4545", 8 Madrid
+http://45.141.194.9:9000/play/a027/index.m3u8
+#EXTINF:-10 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CASMAN.png", Castilla La Mancha TV
+http://45.141.194.9:9000/play/a031/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM", Canal Extremadura Sat
+http://45.141.194.9:9000/play/a02q/index.m3u8
