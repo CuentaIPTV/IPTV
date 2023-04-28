@@ -73,3 +73,38 @@ http://51.159.99.183:18000/M_Deportes_5/hls/playlist.m3u8
 http://51.159.99.183:18000/M_Deportes_6/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg", MundoToro
 http://lamejor.selfip.org:8000/IvanPerla/Mu6xXXpefL/1052
+#EXTINF:-1,ESPN
+http://186.96.111.23:8000/play/a01q
+#EXTINF:-1,ESPN 2 HD
+http://186.96.111.23:8000/play/a01i
+#EXTINF:-1,ESPN 4
+http://186.96.111.23:8000/play/a01k
+#EXTINF:-1,ESPN EXTRA HD
+http://186.96.111.23:8000/play/a01e
+#EXTINF:-1,FOX Sports 2 HD
+http://186.96.111.23:8000/play/a01l
+#EXTINF:-1,Fox Sports 1
+http://186.96.111.23:8000/play/a01h
+#EXTINF:-1,Fox Sports 3
+http://186.96.111.23:8000/play/a01f
+#EXTINF:-1,BEIN SPORTS EXTRA Ñ
+http://181.78.11.238:6837/play/a02s
+#EXTINF:-1,BEIN SPORTS Ñ
+http://181.78.11.238:6837/play/a02o
+#EXTINF:-1,Sport TV 1
+http://176.79.71.171:8001/play/a016/index.m3u8
+#EXTINF:-1,Sport TV 2
+http://176.79.71.171:8001/play/a00z/index.m3u8
+#EXTINF:-1,Sport TV 3
+http://176.79.71.171:8001/play/a010/index.m3u8
+#EXTINF:-1,Sport TV 4
+http://176.79.71.171:8001/play/a011/index.m3u8
+#EXTINF:-1,Sport TV 5
+http://176.79.71.171:8001/play/a012/index.m3u8
+#EXTINF:-1,BEIN Sports Premium 1
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
+#EXTINF:-1,BEIN Sports Premium 2
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+#EXTINF:-1,BEIN Sports Premium 3
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test
+
