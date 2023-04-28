@@ -32,19 +32,19 @@ http://45.141.194.9:9000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dkiss.png", DKISS
 http://45.141.194.9:9000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSAGA", M+ Sagas
-
+http://51.159.99.183:18000/M_Sagas/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1", M+ Estrenos
-
+http://51.159.99.183:18000/M_Estrenos/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEST2", M+ Estrenos 2
-
+http://51.159.99.183:18000/M_Estrenos_2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS", M+ Clasicos
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPACCI", M+ Accion
-
+http://51.159.99.183:18000/M_Acción/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOME", M+ Comedia
-
+http://51.159.99.183:18000/M_Comedia/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOLE", M+ Drama
-
+http://51.159.99.183:18000/M_Drama/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP", M+ Cine Espanol
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MONFIR", M+ Fest
