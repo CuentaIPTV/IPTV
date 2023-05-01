@@ -1,0 +1,289 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" ,LA 1 FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92195
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 FHD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" ,LA 2 FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48628
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 FHD" tvg-logo=" https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" ,ANTENA 3 FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/525
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO FHD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" ,CUATRO FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48629
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO FHD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" ,TELECINCO FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48630
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" ,LA SEXTA FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48770
+#EXTINF:-1 tvg-id="" tvg-name="FDF FHD" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" ,FDF FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48647
+#EXTINF:-1 tvg-id="" tvg-name="NEOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" ,NEOX HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93045
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" ,ENERGY SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48650
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" ,MEGA HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48675
+#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" ,ATRESERIES HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48649
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA", Nova
+http://51.91.8.161:18000/Nova/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" ,DIVINITY FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48673
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" ,BE MAD FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48676
+#EXTINF:-1 tvg-id="" tvg-name="DKISS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/448px-DKiss.svg.png" ,DKISS SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93275
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png", DMAX
+http://45.141.194.9:9000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR OSCAR FHD" tvg-logo="" ,MOVISTAR OSCAR FHD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/148872
+#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M. ESTRENOS FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48651
+#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" ,M. ESTRENOS 2 FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48652
+#EXTINF:-1 tvg-id="" tvg-name="M. CLASICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M. CLASICOS HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/115835
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" ,M. ACCION FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48653
+#EXTINF:-1 tvg-id="" tvg-name="M. COMEDIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" ,M. COMEDIA FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48654
+#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" ,M. DRAMA FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48655
+#EXTINF:-1 tvg-id="" tvg-name="M. CINE Ñ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" ,M. CINE Ñ FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48656
+#EXTINF:-1 tvg-id="" tvg-name="M. FEST FHD" tvg-logo="" group-title="MUSICA",M. FEST FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/115839
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" ,M. SERIES FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48635
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC", Canal Cocina
+http://45.141.194.9:9000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA", Canal Decasa
+http://45.141.194.9:9000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Enfamilia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" ,CANAL Enfamilia
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/148954
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" ,AMC BREAK FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/503
+#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" ,FOX FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48636
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" ,AXN FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48637
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" ,AXN WHITE FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48644
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" ,WARNER TV FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48710
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" ,COMEDY CENTRAL FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48639
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" ,CALLE 13 FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48640
+#EXTINF:-1 tvg-id="" tvg-name="COSMO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" ,COSMO FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48641
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" ,AMC FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48642
+#EXTINF:-1 tvg-id="" tvg-name="XTRM FHD" tvg-logo="https://www.contenidostv.es/media/k2/items/cache/052250dc50138371fd04f19c188f0143_XL.jpg" ,XTRM FHD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/164186
+#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" ,SYFY FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48645
+#EXTINF:-1 tvg-id="" tvg-name="TCM FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" ,TCM FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48657
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" ,HOLLYWOOD FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48818
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" ,SUNDANCE FHD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/164184
+#EXTINF:-1 tvg-id="" tvg-name="DARK FHD" tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" ,DARK FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48779
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" ,PARAMOUNT CHANNEL SD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/148891
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" ,NATIONAL GEOGRAPHIC FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48666
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" ,NAT GEO WILD FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48759
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" ,HISTORIA FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48760
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://www.tradingpedia.com/wp-content/uploads/2017/01/discovery-channel.png" ,DISCOVERY CHANNEL HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48885
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" ,ODISEA
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48670
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN + INVESTIGACION SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" ,CRIMEN + INVESTIGACION SD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/148991
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" ,SOMOS FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48690
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" ,DREAMWORKS FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93115
+#EXTINF:-1 tvg-id="" tvg-name="#0 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png" ,#0 FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48632
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png" ,#VAMOS FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48633
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE FHD" tvg-logo="http://meteoalcorcon.es/1_0_1_76A3_41E_1_C00000_0_0_0.png" ,MULTIDEPORTE FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48857
+#EXTINF:-1 tvg-id="" tvg-name="1- M. LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,1- M. LA LIGA
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48853
+#EXTINF:-1 tvg-id="" tvg-name="1- M. LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,1- M. LA LIGA
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48855
+#EXTINF:-1 tvg-id="" tvg-name="2-M. LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,2-M. LA LIGA
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48829
+#EXTINF:-1 tvg-id="" tvg-name="3- M. LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,3- M. LA LIGA
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/74444
+#EXTINF:-1 tvg-id="" tvg-name="4-M. LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,4-M. LA LIGA
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/74445
+#EXTINF:-1 tvg-id="" tvg-name="5-M. LA LIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,5-M. LA LIGA SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/74446
+#EXTINF:-1 tvg-id="" tvg-name="4-M. LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,4-M. LA LIGA
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/74447
+#EXTINF:-1 tvg-id="" tvg-name="4-M. LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,4-M. LA LIGA
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/74448
+#EXTINF:-1 tvg-id="" tvg-name="4-M. LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,4-M. LA LIGA
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/74449
+#EXTINF:-1 tvg-id="" tvg-name="4-M. LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,4-M. LA LIGA
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/99093
+#EXTINF:-1 tvg-id="" tvg-name="4-M. LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,4-M. LA LIGA
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/99094
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LA LIGA FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/104713
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" ,DAZN LA LIGA 2 FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/104712
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA SMARTBANKTV M3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LALIGA SMARTBANKTV M3 FHD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/305894
+#EXTINF:-1 tvg-id="" tvg-name="7- LALIGA TVBAR HD" tvg-logo="https://laligatvbar.es/meta-image.jpg" ,7- LALIGA TVBAR HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/49230
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES FHD" tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M. DEPORTES FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93131
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M. DEPORTES 6 SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48659
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 2 HD" tvg-logo="https://imgbox.es/images/2020/01/24/movistar_es_deportes_2701a75b2077322e9.png" ,M. DEPORTES 2 HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93116
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M. DEPORTES 3 HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93117
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M. DEPORTES 4 HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93118
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M. DEPORTES 4 HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93119
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M. DEPORTES 4 HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93118
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M. DEPORTES 4 HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93118
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ELLAS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,MOVISTAR ELLAS FHD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/310436
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN 1 FHD" tvg-logo="https://i.pinimg.com/564x/7a/ca/6f/7aca6ffec719da865eb46d6aaf8741ed.jpg" ,M. DAZN 1 FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48879
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN 2 FHD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.jpg" ,M. DAZN 2 FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48858
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN 3 FHD" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" ,M. DAZN 3 FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48880
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN 4 FHD" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" ,M. DAZN 4 FHD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/171430
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 4K
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48830
+#EXTINF:-1 tvg-id="" tvg-name="4-M. CAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,4-M. CAMPEONES HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48851
+#EXTINF:-1 tvg-id="" tvg-name="5-M. CAMPEONES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,5-M. CAMPEONES SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48875
+#EXTINF:-1 tvg-id="" tvg-name="6-M. CAMPEONES 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" ,6-M. CAMPEONES 2
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48873
+#EXTINF:-1 tvg-id="" tvg-name="8-M. CAMPEONES 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,8-M. CAMPEONES 3
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48852
+#EXTINF:-1 tvg-id="" tvg-name="9-M. CAMPEONES 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,9-M. CAMPEONES 4 SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48871
+#EXTINF:-1 tvg-id="" tvg-name="10-M. CAMPEONES 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,10-M. CAMPEONES 5 SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48870
+#EXTINF:-1 tvg-id="" tvg-name="11-M. CAMPEONES 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,11-M. CAMPEONES 6 SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48869
+#EXTINF:-1 tvg-id="" tvg-name="12-M. CAMPEONES 7 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,12-M. CAMPEONES 7 SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48868
+#EXTINF:-1 tvg-id="" tvg-name="13-M. CAMPEONES 8 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,13-M. CAMPEONES 8 SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48867
+#EXTINF:-1 tvg-id="" tvg-name="14-M. CAMPEONES 9 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" ,14-M. CAMPEONES 9 SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/104717
+#EXTINF:-1 tvg-id="" tvg-name="15-M. CAMPEONES 10 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" ,15-M. CAMPEONES 10 SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/104718
+#EXTINF:-1 tvg-id="" tvg-name="16-M. CAMPEONES 11 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP10.png" ,16-M. CAMPEONES 11 SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/104719
+#EXTINF:-1 tvg-id="" tvg-name="17-M. CAMPEONES 12 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" ,17-M. CAMPEONES 12 SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/104720
+#EXTINF:-1 tvg-id="" tvg-name="17-M. CAMPEONES 12 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" ,17-M. CAMPEONES 12 SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/141654
+#EXTINF:-1 tvg-id="" tvg-name="E.1 EVENTOS PREMIUM" tvg-logo="https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg" ,E.1 EVENTOS PREMIUM
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/189051
+#EXTINF:-1 tvg-id="" tvg-name="E.2 EVENTOS PREMIUM" tvg-logo="https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg" ,E.2 EVENTOS PREMIUM
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/189054
+#EXTINF:-1 tvg-id="" tvg-name="E.3  EVENTOS PREMIUM" tvg-logo="https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg" ,E.3  EVENTOS PREMIUM
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/189057
+#EXTINF:-1 tvg-id="" tvg-name="E.4 EVENTOS PREMIUM" tvg-logo="https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg" ,E.4 EVENTOS PREMIUM
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/196676
+#EXTINF:-1 tvg-id="" tvg-name="E.5 EVENTOS PREMIUM" tvg-logo="https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg" ,E.5 EVENTOS PREMIUM
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/223243
+#EXTINF:-1 tvg-id="" tvg-name="E.6 EVENTOS PREMIUM" tvg-logo="https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg" ,E.6 EVENTOS PREMIUM
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/274374
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" ,M. GOLF FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48850
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,EUROSPORT 1 FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48841
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,EUROSPORT 2 FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/104724
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV FHD" tvg-logo="https://www.noticanarias.com/wp-content/uploads/2020/06/Logo-GOL.jpg" ,GOL TV FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/502
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="" ,Real Madrid TV
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93290
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA FHD" tvg-logo="http://storage.anacondatv.me/logos/spain/Caza_y_Pesca.jpg" ,CAZA Y PESCA FHD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/149464
+#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION FHD" tvg-logo="http://eter-picons.one/picons/Cazavision.png" ,CAZAVISION FHD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/210619
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% CAZA FHD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" ,IBERALIA 100% CAZA FHD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/279833
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% PESCA FHD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" ,IBERALIA 100% PESCA FHD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/279834
+#EXTINF:-1 tvg-id="" tvg-name="DBIKE FHD" tvg-logo="https://dbikechannel.es/wp-content/uploads/2020/02/cropped-d_bike1-e1581972680494.png" ,DBIKE FHD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/296046
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/149344
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s
+http://45.141.194.9:9000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s
+http://45.141.194.9:9000/play/a01h/index.m3u8
+#EXTINF:-5 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/MTV_80s_2020_variante.png/revision/latest?cb=20201008163441&path-prefix=es", MTV 80s
+http://45.141.194.9:9000/play/a02l/index.m3u8
+#EXTINF:-6 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/MTV_Live_2021.svg/revision/latest/scale-to-width-down/1000?cb=20211008002311&path-prefix=es", MTV Life
+http://45.141.194.9:9000/play/a01n/index.m3u8
+#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MTV_ROCKS_logo.svg/493px-MTV_ROCKS_logo.svg.png", MTV Rocks
+http://45.141.194.9:9000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD", Telemadrid
+http://51.91.8.161:18000/Telemadrid/hls/playlist.m3u8
+#EXTINF:-8 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/LaOtra_logo_2005_rojo.gif/revision/latest?cb=20110815001554", La Otra
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93845
+#EXTINF:-11 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/8madrid.png?w=96&h=72&tok=0d4545", 8 Madrid
+http://45.141.194.9:9000/play/a027/index.m3u8
+#EXTINF:-10 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CASMAN.png", Castilla La Mancha TV
+http://45.141.194.9:9000/play/a031/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM", Canal Extremadura Sat
+http://45.141.194.9:9000/play/a02q/index.m3u8
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV", Canal Sur Andalucia
+http://45.141.194.9:9000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" ,MUNDOTORO HD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/142425
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" ,MUNDOTORO SD
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/148929
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/344496
+#EXTINF:-1 tvg-id="" tvg-name="TOROLE HD" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" ,TOROLE HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48816
+#EXTINF:-0 tvg-id="" tvg-name="Nickelodeon"
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48680
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES | La Resistenciaⓧ HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/104696
+#EXTINF:-0 tvg-id="" tvg-name="Movistar Alquiler 1"
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48808
+#EXTINF:-0 tvg-id="" tvg-name="Movistar Alquiler 2"
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48809
+#EXTINF:-0 tvg-id="" tvg-name="Movistar Alquiler 3"
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48810
+#EXTINF:-0 tvg-id="" tvg-name="Movistar Alquiler 4"
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48811
+#EXTINF:-0 tvg-id="" tvg-name="Movistar Alquiler 5"
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/48812
+#EXTINF:-0 tvg-id="" tvg-name="Movistar Alquiler 6"
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93120
+#EXTINF:-0 tvg-id="" tvg-name="Movistar Alquiler 7"
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93121
+#EXTINF:-0 tvg-id="" tvg-name="Movistar Alquiler 8"
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93122
+#EXTINF:-0 tvg-id="" tvg-name="Movistar Alquiler 9"
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/93123
+#EXTINF:-0 tvg-id="" tvg-name="Rakuten Family"
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/104839
+#EXTINF:-0 tvg-id="" tvg-name="Rakuten Top 1"
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/104837
+#EXTINF:-0 tvg-id="" tvg-name="Rakuten Top 2"
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/104838
