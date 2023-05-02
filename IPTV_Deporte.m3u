@@ -161,4 +161,211 @@ http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
 #EXTINF:-1,BEIN Sports Premium 3
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test
-
+#EXTINF:-1,SuperSport 1
+http://31.171.154.21:9898/play/a008
+#EXTINF:-1,SuperSport 2
+http://31.171.154.21:9898/play/a009
+#EXTINF:-1,SuperSport 3
+http://31.171.154.21:9898/play/a00a
+#EXTINF:-1,SuperSport 4
+http://31.171.154.21:9898/play/a00b
+#EXTINF:-1,SuperSport 5
+http://31.171.154.21:9898/play/a00c
+#EXTINF:-1,Cblenet1
+http://141.95.65.201:60707/play/a00j
+#EXTINF:-1,Cblenet2
+http://141.95.65.201:60707/play/a00k
+#EXTINF:-1,Cblenet3
+http://141.95.65.201:60707/play/cble3
+#EXTINF:-1,Cos1
+http://141.95.65.201:60707/play/c1
+#EXTINF:-1,Cos2
+http://141.95.65.201:60707/play/c2
+#EXTINF:-1,Cos3
+http://141.95.65.201:60707/play/c3
+#EXTINF:-1,Cos4
+http://141.95.65.201:60707/play/c4
+#EXTINF:-1,Cos4K
+http://141.95.65.201:60707/play/cos4k
+#EXTINF:-1,Cos5
+http://141.95.65.201:60707/play/c5
+#EXTINF:-1,Cos6
+http://141.95.65.201:60707/play/c6
+#EXTINF:-1,Cos7
+http://141.95.65.201:60707/play/c7
+#EXTINF:-1,Cos8
+http://141.95.65.201:60707/play/c8
+#EXTINF:-1,Cos9
+http://141.95.65.201:60707/play/c9
+#EXTINF:-1,CosH
+http://141.95.65.201:60707/play/ch
+#EXTINF:-1,Cyta1
+http://141.95.65.201:60707/play/cyta1
+#EXTINF:-1,Cyta2
+http://141.95.65.201:60707/play/cyta2
+#EXTINF:-1,Cyta3
+http://141.95.65.201:60707/play/cyta3
+#EXTINF:-1,Cyta4
+http://141.95.65.201:60707/play/cyta4
+#EXTINF:-1,Cyta5
+http://141.95.65.201:60707/play/cyta5
+#EXTINF:-1,Cyta6
+http://141.95.65.201:60707/play/cyta6
+#EXTINF:-1,Cyta7
+http://141.95.65.201:60707/play/cyta7
+#EXTINF:-1,Mad Viral
+http://141.95.65.201:60707/play/madviral
+#EXTINF:-1,Novalife
+http://141.95.65.201:60707/play/novalife
+#EXTINF:-1,Novasports 24 HD
+http://141.95.65.201:60707/play/a001
+#EXTINF:-1,Novasports Premier League
+http://141.95.65.201:60707/play/a002
+#EXTINF:-1,Novasports Prime HD
+http://141.95.65.201:60707/play/a003
+#EXTINF:-1,Novasports Start HD
+http://141.95.65.201:60707/play/a004
+#EXTINF:-1,Novasports1HD
+http://141.95.65.201:60707/play/a005
+#EXTINF:-1,Novasports2HD
+http://141.95.65.201:60707/play/a006
+#EXTINF:-1,Novasports3HD
+http://141.95.65.201:60707/play/a007
+#EXTINF:-1,Novasports4HD
+http://141.95.65.201:60707/play/a008
+#EXTINF:-1,Novasports5HD
+http://141.95.65.201:60707/play/a009
+#EXTINF:-1,Novasports6HD
+http://141.95.65.201:60707/play/a00a
+#EXTINF:-1,Novasportsextra1HD
+http://141.95.65.201:60707/play/a00b
+#EXTINF:-1,Novasportsextra2HD
+http://141.95.65.201:60707/play/a00c
+#EXTINF:-1,Novasportsextra3HD
+http://141.95.65.201:60707/play/a00d
+#EXTINF:-1,Novasportsextra4HD
+http://141.95.65.201:60707/play/a00e
+#EXTINF:-1,Novastars
+http://141.95.65.201:60707/play/stars
+#EXTINF:-1,Primetel1
+http://141.95.65.201:60707/play/primetel1
+#EXTINF:-1,Primetel2
+http://141.95.65.201:60707/play/primetel2
+#EXTINF:-1,Primetel3
+http://141.95.65.201:60707/play/primetel3
+#EXTINF:-1,ESPN
+http://186.96.111.23:8000/play/a01q
+#EXTINF:-1,ESPN 2 HD
+http://186.96.111.23:8000/play/a01i
+#EXTINF:-1,ESPN 4
+http://186.96.111.23:8000/play/a01k
+#EXTINF:-1,ESPN EXTRA HD
+http://186.96.111.23:8000/play/a01e
+#EXTINF:-1,FOX Sports 2 HD
+http://186.96.111.23:8000/play/a01l
+#EXTINF:-1,Fox Sports 1
+http://186.96.111.23:8000/play/a01h
+#EXTINF:-1,Fox Sports 3
+http://186.96.111.23:8000/play/a01f
+#EXTINF:-1,BEIN SPORTS EXTRA Ñ
+http://181.78.11.238:6837/play/a02s
+#EXTINF:-1,BEIN SPORTS Ñ
+http://181.78.11.238:6837/play/a02o
+#EXTINF:-1,Sport TV 1
+http://176.79.71.171:8001/play/a016/index.m3u8
+#EXTINF:-1,Sport TV 2
+http://176.79.71.171:8001/play/a00z/index.m3u8
+#EXTINF:-1,Sport TV 3
+http://176.79.71.171:8001/play/a010/index.m3u8
+#EXTINF:-1,Sport TV 4
+http://176.79.71.171:8001/play/a011/index.m3u8
+#EXTINF:-1,Sport TV 5
+http://176.79.71.171:8001/play/a012/index.m3u8
+#EXTINF:-1,FOX Sports 1 HD
+http://5.255.90.192:4000/play/a035
+#EXTINF:-1,FOX Sports 2 HD int
+http://5.255.90.192:4000/play/a02z
+#EXTINF:-1,FOX Sports EDL 1 HD
+http://5.255.90.192:4000/play/a00h
+#EXTINF:-1,FOX Sports EDL 3 HD
+http://5.255.90.192:4000/play/a02t
+#EXTINF:-1,CANAL+ SPORT HD
+http://5.255.90.238:5001/play/a003/index.m3u8
+#EXTINF:-1,CANAL+ SPORT 2 HD
+http://5.255.90.238:5002/play/a02j/index.m3u8
+#EXTINF:-1,CANAL+ SPORT 2 HD
+http://5.255.90.238:5002/play/a02i/index.m3u8
+#EXTINF:-1,Eleven Extra HD
+http://5.255.90.238:5002/play/a008/index.m3u8
+#EXTINF:-1,CANAL+ SPORT 3 HD
+http://5.255.90.238:5001/play/a01c/index.m3u8
+#EXTINF:-1,CANAL+ SPORT 3 HD
+http://5.255.90.238:5001/play/a019/index.m3u8
+#EXTINF:-1,CANAL+ SPORT 3 HD
+http://5.255.90.238:5001/play/a014/index.m3u8
+#EXTINF:-1,CANAL+ SPORT 4 HD
+http://5.255.90.238:5001/play/a01d/index.m3u8
+#EXTINF:-1,CANAL+ SPORT 4 HD
+http://5.255.90.238:5001/play/a01a/index.m3u8
+#EXTINF:-1,CANAL+ SPORT 4 HD
+http://5.255.90.238:5001/play/a015/index.m3u8
+#EXTINF:-1,CANAL+ SPORT 5 HD
+http://5.255.90.238:5001/play/a01b/index.m3u8
+#EXTINF:-1,CANAL+ SPORT 5 HD
+http://5.255.90.238:5001/play/a017/index.m3u8
+#EXTINF:-1,CANAL+ SPORT 5 HD
+http://5.255.90.238:5001/play/a016/index.m3u8
+#EXTINF:-1,Eleven HD
+http://5.255.90.238:5002/play/a005/index.m3u8
+#EXTINF:-1,Eleven Sports 2 HD
+http://5.255.90.238:5002/play/a02f/index.m3u8
+#EXTINF:-1,Eleven Sports 3 HD
+http://5.255.90.238:5002/play/a02g/index.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://5.255.90.238:5001/play/a00u/index.m3u8
+#EXTINF:-1,Eleven Sports HD
+http://5.255.90.238:5002/play/a007/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://45.141.194.9:9000/play/a00p/index.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://45.141.194.9:9000/play/a00q/index.m3u8
+#EXTINF:-1,Extreme Sports HD
+http://5.255.90.238:5002/play/a00z/index.m3u8
+#EXTINF:-1,Fightklub HD
+http://5.255.90.238:5002/play/a02a/index.m3u8
+#EXTINF:-1,Fightklub HD
+http://5.255.90.238:5002/play/a004/index.m3u8
+#EXTINF:-1,Polsat Sport Fight HD
+http://5.255.90.238:5002/play/a016/index.m3u8
+#EXTINF:-1,Polsat Sport News HD
+http://5.255.90.238:5002/play/a02c/index.m3u8
+#EXTINF:-1,TVP Sport HD
+http://5.255.90.238:5001/play/a018/index.m3u8
+#EXTINF:-1,nSport+ HD
+http://5.255.90.238:5001/play/a00d/index.m3u8
+#EXTINF:-1,ARENA 1x2
+http://82.118.0.14:8000/play/9/index.m3u8
+#EXTINF:-1,ARENA PREMIUM 1 BIH
+http://82.118.0.14:8000/play/5100/index.m3u8
+#EXTINF:-1,ARENA PREMIUM 2 BIH
+http://82.118.0.14:8000/play/5110/index.m3u8
+#EXTINF:-1,ARENA PREMIUM 3 BIH
+http://82.118.0.14:8000/play/5120/index.m3u8
+#EXTINF:-1,AS BIH 4 HD
+http://82.118.0.14:8000/play/10/index.m3u8
+#EXTINF:-1,AS BIH 5 HD
+http://82.118.0.14:8000/play/11/index.m3u8
+#EXTINF:-1,AS BIH 6 HD
+http://82.118.0.14:8000/play/12/index.m3u8
+#EXTINF: -1, SPORT 1 HD
+http://88.99.144.223:1234/play/a004/index.m3u8
+#EXTINF: -1, SPORT 2 HD
+http://88.99.144.223:1234/play/a003/index.m3u8
+#EXTINF: -1, SPORT 3 HD
+http://88.99.144.223:1234/play/a001/index.m3u8
+#EXTINF: -1, SPORT 4 HD
+http://88.99.144.223:1234/play/a002/index.m3u8
+#EXTINF: -1, SPORT 5 HD
+http://88.99.144.223:1234/play/a005/index.m3u8
+#EXTINF:-1,Fight Time HD ES *ID=1636*
+http://45.141.194.9:9000/play/a00s/index.m3u8
