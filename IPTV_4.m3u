@@ -1,0 +1,306 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" ,LA 1
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96139
+#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" ,LA 2
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96141
+#EXTINF:-1 tvg-logo=" https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" ,ANTENA 3
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96145
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" ,CUATRO
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96148
+#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" ,TELECINCO
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96151
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" ,LA SEXTA
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96154
+#EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" ,FDF
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96295
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" ,NEOX
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96302
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" ,ENERGY
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96293
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" ,MEGA
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96444
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" ,ATRESERIES
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96248
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA", Nova
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96306
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" ,DIVINITY
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96304
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" ,BE MAD
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96441
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/448px-DKiss.svg.png" ,DKISS
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96463
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" ,DMAX
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" ,MOVISTAR SuperAgentes
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96314
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M. ESTRENOS
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96228
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" ,M. ESTRENOS 2
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96231
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M. CLASICOS
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96317
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" ,M. ACCION
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96243
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" ,M. COMEDIA
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96234
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" ,M. DRAMA
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96240
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" ,M. CINE Ñ
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96246
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" , M. FEST
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96466
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" ,M. SERIES
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96251
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" ,M. SERIES 2
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96254
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC", Canal Cocina 4K
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96453
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA", Canal Decasa 4K
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96429
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" ,CANAL Enfamilia
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96482
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC", Canal Cocina
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA", Canal Decasa
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" ,AMC BREAK
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96262
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" ,FOX
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96267
+#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" ,AXN
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96276
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" ,AXN WHITE
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96279
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" ,WARNER TV
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96282
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" ,COMEDY CENTRAL
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96237
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" ,CALLE 13
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96270
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" ,COSMO
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96285
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" ,AMC
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96259
+#EXTINF:-1 tvg-logo="https://www.contenidostv.es/media/k2/items/cache/052250dc50138371fd04f19c188f0143_XL.jpg" ,XTRM
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96298
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" ,SYFY
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96288
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" ,TCM
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96291
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" ,HOLLYWOOD
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96225
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" ,SUNDANCE
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96273
+#EXTINF:-1 tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" ,DARK
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96256
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" ,PARAMOUNT CHANNEL
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96300
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" ,NATIONAL GEOGRAPHIC
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96417
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" ,NAT GEO WILD
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96438
+#EXTINF:-1 tvg-logo="https://www3.gobiernodecanarias.org/medusa/ecoescuela/recursosdigitales/files/formidable/HISTORIA.png" ,HISTORIA
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96450
+#EXTINF:-1 tvg-logo="https://www.tradingpedia.com/wp-content/uploads/2017/01/discovery-channel.png" ,DISCOVERY CHANNEL
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96435
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" ,ODISEA
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96447
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" ,AMC CRIME
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96264
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" ,SOMOS
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96423
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png" ,#0
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96309
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png" ,#VAMOS
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151419
+#EXTINF:-1 tvg-logo="http://meteoalcorcon.es/1_0_1_76A3_41E_1_C00000_0_0_0.png" ,MULTIDEPORTE
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. LA LIGA
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151355
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" , M. LA LIGA
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,2-M. LA LIGA
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151358
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,3- M. LA LIGA
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151361
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,4-M. LA LIGA
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,5-M. LA LIGA
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,6-M. LA LIGA
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,7-M. LA LIGA
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,8-M. LA LIGA
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,9-M. LA LIGA
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,10-M. LA LIGA
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LA LIGA
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151337
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" ,DAZN LA LIGA 2
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151340
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LALIGA SMARTBANK
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151343
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LALIGA SMARTBANK 2
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151346
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LALIGA SMARTBANK 3
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151349
+#EXTINF:-1 tvg-logo="https://laligatvbar.es/meta-image.jpg" ,7- LALIGA TVBAR
+
+#EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M. DEPORTES
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151430
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M. DEPORTES 1
+
+#EXTINF:-1 tvg-logo="https://imgbox.es/images/2020/01/24/movistar_es_deportes_2701a75b2077322e9.png" ,M. DEPORTES 2
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151433
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M. DEPORTES 3
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151436
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M. DEPORTES 4
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151439
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M. DEPORTES 5
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151442
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,MOVISTAR ELLAS
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7a/ca/6f/7aca6ffec719da865eb46d6aaf8741ed.jpg" ,M. DAZN 1
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151404
+#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.jpg" ,M. DAZN 2
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151407
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" ,M. DAZN 3
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151410
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" ,M. DAZN 4
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151413
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151416
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,4-M. CAMPEONES
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151365
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M. CAMPEONES 1
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" ,M. CAMPEONES 2
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151368
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,M. CAMPEONES 3
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151371
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,M. CAMPEONES 4
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151374
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,1M. CAMPEONES 5
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151377
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,M. CAMPEONES
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151380
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,M. CAMPEONES 7
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151383
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,M. CAMPEONES 8
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151386
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" ,M. CAMPEONES 9
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151389
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" ,M. CAMPEONES 10
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151392
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP10.png" ,M. CAMPEONES 11
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151395
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" ,M. CAMPEONES 12
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151398
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" ,M. CAMPEONES 13
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151401
+#EXTINF:-1 tvg-logo="https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg" ,E.1 EVENTOS PREMIUM
+
+#EXTINF:-1 tvg-logo="https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg" ,E.2 EVENTOS PREMIUM
+
+#EXTINF:-1 tvg-logo="https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg" ,E.3  EVENTOS PREMIUM
+
+#EXTINF:-1 tvg-logo="https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg" ,E.4 EVENTOS PREMIUM
+
+#EXTINF:-1 tvg-logo="https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg" ,E.5 EVENTOS PREMIUM
+
+#EXTINF:-1 tvg-logo="https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg" ,E.6 EVENTOS PREMIUM
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" ,M. GOLF
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151451
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,EUROSPORT 1
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151424
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,EUROSPORT 2
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151427
+#EXTINF:-1 tvg-logo="https://www.noticanarias.com/wp-content/uploads/2020/06/Logo-GOL.jpg" ,GOL TV
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/151457
+#EXTINF:-1 tvg-logo="" ,Real Madrid TV
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/217662
+#EXTINF:-1 tvg-logo="http://storage.anacondatv.me/logos/spain/Caza_y_Pesca.jpg" ,CAZA Y PESCA
+
+#EXTINF:-1 tvg-logo="http://eter-picons.one/picons/Cazavision.png" ,CAZAVISION
+
+#EXTINF:-1 tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" ,IBERALIA 100% CAZA
+
+#EXTINF:-1 tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" ,IBERALIA 100% PESCA
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" ,MUNDOTORO HD
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96431
+#EXTINF:-1 tvg-logo="https://www.netvoz.eu/wp-content/uploads/2021/11/torole.png" ,Torolé
+
+#EXTINF:-1 tvg-logo="https://dbikechannel.es/wp-content/uploads/2020/02/cropped-d_bike1-e1581972680494.png" ,DBIKE
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s
+
+#EXTINF:-5 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/MTV_80s_2020_variante.png/revision/latest?cb=20201008163441&path-prefix=es", MTV 80s
+
+#EXTINF:-6 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/MTV_Live_2021.svg/revision/latest/scale-to-width-down/1000?cb=20211008002311&path-prefix=es", MTV Life
+
+#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MTV_ROCKS_logo.svg/493px-MTV_ROCKS_logo.svg.png" ,MTV Rocks
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD", Telemadrid
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96159
+#EXTINF:-8 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/LaOtra_logo_2005_rojo.gif/revision/latest?cb=20110815001554", La Otra
+
+#EXTINF:-11 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/8madrid.png?w=96&h=72&tok=0d4545", 8 Madrid
+
+#EXTINF:-10 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CASMAN.png", Castilla La Mancha TV
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM", Canal Extremadura Sat
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV", Canal Sur Andalucia
+
+#EXTINF:-1,Canal Sur 2 ES *ID=13*
+
+#EXTINF:-1,Canal Sur Huelva HD ES
+
+#EXTINF:-1,Canal Luz ES *ID=1710*
+
+#EXTINF:-1,Canalcosta ES
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON", Aragon TV Int
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL", TVG -TV Galicia
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL", TV Galicia2
+
+#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/702/13/png-transparent-nickelodeon-logo-wikipedia-logo-nickelodeon-movies-speechlanguage-pathology-nickelodeon-splat-orange-text-line.png" ,NICKELODEON
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96491
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" ,Disney Channel
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96488
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" ,Disney Channel
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96485
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" ,DREAMWORKS
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96479
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" ,Nick Jr
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/147302
+#EXTINF:-1 tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" ,Alquiler 1
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96503
+#EXTINF:-1 tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" ,Alquiler 2
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96504
+#EXTINF:-1 tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" ,Alquiler 3
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96505
+#EXTINF:-1 tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" ,Alquiler 4
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96506
+#EXTINF:-1 tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" ,Alquiler 5
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96507
+#EXTINF:-1 tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" ,Alquiler 6
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96508
+#EXTINF:-1 tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" ,Alquiler 7
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96509
+#EXTINF:-1 tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" ,Alquiler 8
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96510
+#EXTINF:-1 tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" ,Alquiler 9
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/96511
+#EXTINF:-1 tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" ,Alquiler 10
+http://es.zenmanager.xyz:2052/8024301883535223ff55/8024682712357853/255726
