@@ -40,11 +40,11 @@ http://51.159.99.183:18000/M_Estrenos_2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS", M+ Clasicos
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPACCI", M+ Accion
-http://51.159.99.183:18000/M_Acción/hls/playlist.m3u8
+http://5.255.90.184:2001/play/a048
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOME", M+ Comedia
-http://51.159.99.183:18000/M_Comedia/hls/playlist.m3u8
+http://5.255.90.184:2001/play/a05f
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOLE", M+ Drama
-http://51.159.99.183:18000/M_Drama/hls/playlist.m3u8
+http://5.255.90.184:2001/play/a057
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP", M+ Cine Espanol
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MONFIR", M+ Fest
