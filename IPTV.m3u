@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" ,LA 1
 http://234f.pls45tv.site:80/tvsstv/tv.ss/134205
@@ -47,13 +46,13 @@ http://234f.pls45tv.site:80/tvsstv/tv.ss/134262
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" ,M. DRAMA
 http://234f.pls45tv.site:80/tvsstv/tv.ss/134259
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" ,M. CINE Ñ
-
+http://germanydnsx13.com:8080/kemalso/arya20182021/94034
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" , M. FEST
 http://234f.pls45tv.site:80/tvsstv/tv.ss/134267
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" ,M. SERIES
 http://234f.pls45tv.site:80/tvsstv/tv.ss/134255
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" ,M. SERIES 2
-
+http://germanydnsx13.com:8080/kemalso/arya20182021/94012
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC", Canal Cocina 4K
 http://234f.pls45tv.site:80/tvsstv/tv.ss/134312
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA", Canal Decasa 4K
@@ -247,13 +246,13 @@ http://234f.pls45tv.site:80/tvsstv/tv.ss/134323
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD", Telemadrid
 http://234f.pls45tv.site:80/tvsstv/tv.ss/134220
 #EXTINF:-8 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/LaOtra_logo_2005_rojo.gif/revision/latest?cb=20110815001554", La Otra
-
+http://45.141.194.9:9000/play/a02j/index.m3u8
 #EXTINF:-11 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/8madrid.png?w=96&h=72&tok=0d4545", 8 Madrid
 
 #EXTINF:-10 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CASMAN.png", Castilla La Mancha TV
-
+http://45.141.194.9:9000/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM", Canal Extremadura Sat
-
+http://45.141.194.9:9000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV", Canal Sur Andalucia
 
 #EXTINF:-1,Canal Sur 2 ES *ID=13*
@@ -265,9 +264,9 @@ http://234f.pls45tv.site:80/tvsstv/tv.ss/134220
 #EXTINF:-1,Canalcosta ES
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON", Aragon TV Int
-
+http://germanydnsx13.com:8080/kemalso/arya20182021/94087
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL", TVG -TV Galicia
-
+http://germanydnsx13.com:8080/kemalso/arya20182021/94084
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL", TV Galicia2
 
 #EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/702/13/png-transparent-nickelodeon-logo-wikipedia-logo-nickelodeon-movies-speechlanguage-pathology-nickelodeon-splat-orange-text-line.png" ,NICKELODEON
@@ -277,7 +276,7 @@ http://234f.pls45tv.site:80/tvsstv/tv.ss/134329
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" ,Disney Channel
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" ,DREAMWORKS
-
+http://germanydnsx13.com:8080/kemalso/arya20182021/94073
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" ,Nick Jr
 http://234f.pls45tv.site:80/tvsstv/tv.ss/134331
 #EXTINF:-1 tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png" ,Alquiler 1
