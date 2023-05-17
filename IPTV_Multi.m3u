@@ -365,6 +365,285 @@ http://germanydnsx13.com:8080/kemalso/arya20182021/94073
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="IPTV_2"",Nick Jr
 http://45.141.194.9:9000/play/a014/index.m3u8
 
+#EXTINF:-1 group-title="IPTV_3", AXN WHITE HD
+http://5.255.90.184:2002/play/a01r
+#EXTINF:-1 group-title="IPTV_3", BABY TV
+http://5.255.90.184:2002/play/a01v
+#EXTINF:-1 group-title="IPTV_3", BARCA TV
+http://5.255.90.184:2002/play/a01z
+#EXTINF:-1 group-title="IPTV_3", BEIN LALIGA
+http://5.255.90.184:2002/play/a02f
+#EXTINF:-1 group-title="IPTV_3", BEIN SPORTS HD
+http://5.255.90.184:2002/play/a01f
+#EXTINF:-1 group-title="IPTV_3", BOING
+http://5.255.90.184:2002/play/a01x
+#EXTINF:-1 group-title="IPTV_3", CALLE 13
+http://5.255.90.184:2002/play/a02b
+#EXTINF:-1 group-title="IPTV_3", CANAL DECASA
+http://5.255.90.184:2002/play/a02d
+#EXTINF:-1 group-title="IPTV_3", CANAL ODISEA
+http://5.255.90.184:2002/play/a026
+#EXTINF:-1 group-title="IPTV_3", COMEDYCENTRALHD
+http://5.255.90.184:2002/play/a01k
+#EXTINF:-1 group-title="IPTV_3", COSMO HD
+http://5.255.90.184:2002/play/a01j
+#EXTINF:-1 group-title="IPTV_3", DIVINITY
+http://5.255.90.184:2002/play/a01t
+#EXTINF:-1 group-title="IPTV_3", ENERGY
+http://5.255.90.184:2002/play/a01y
+#EXTINF:-1 group-title="IPTV_3", EUROSPORT 1
+http://5.255.90.184:2002/play/a020
+#EXTINF:-1 group-title="IPTV_3", FOX LIFE HD
+http://5.255.90.184:2002/play/a01g
+#EXTINF:-1 group-title="IPTV_3", FOX NEWS
+http://5.255.90.184:2002/play/a01u
+#EXTINF:-1 group-title="IPTV_3", GOL
+http://5.255.90.184:2002/play/a022
+#EXTINF:-1 group-title="IPTV_3", LALIGATV BAR
+http://5.255.90.184:2002/play/a02c
+#EXTINF:-1 group-title="IPTV_3", LTC
+http://5.255.90.184:2002/play/a01w
+#EXTINF:-1 group-title="IPTV_3", M. DEP 1
+http://5.255.90.184:2002/play/a02a
+#EXTINF:-1 group-title="IPTV_3", M. DEP 2 HD
+http://5.255.90.184:2002/play/a01p
+#EXTINF:-1 group-title="IPTV_3", M. F.TBOL
+http://5.255.90.184:2002/play/a029
+#EXTINF:-1 group-title="IPTV_3", M. GOLF
+http://5.255.90.184:2002/play/a025
+#EXTINF:-1 group-title="IPTV_3", M. GOLF HD
+http://5.255.90.184:2002/play/a01i
+#EXTINF:-1 group-title="IPTV_3", M. LaLiga
+http://5.255.90.184:2002/play/a02h
+#EXTINF:-1 group-title="IPTV_3", M. SeriesXtraHD
+http://5.255.90.184:2002/play/a01h
+#EXTINF:-1 group-title="IPTV_3", M. XTRA HD
+http://5.255.90.184:2002/play/a01q
+#EXTINF:-1 group-title="IPTV_3", M.ESTRENOSHD
+http://5.255.90.184:2002/play/a01o
+#EXTINF:-1 group-title="IPTV_3", M.FORMULA1
+http://5.255.90.184:2002/play/a023
+#EXTINF:-1 group-title="IPTV_3", M.LCAMPEONES
+http://5.255.90.184:2002/play/a02g
+#EXTINF:-1 group-title="IPTV_3", MTV ESPA¹A
+http://5.255.90.184:2002/play/a021
+#EXTINF:-1 group-title="IPTV_3", NAT GEOGRAPH
+http://5.255.90.184:2002/play/a028
+#EXTINF:-1 group-title="IPTV_3", SYFY
+http://5.255.90.184:2002/play/a02e
+#EXTINF:-1 group-title="IPTV_3", SYFY HD
+http://5.255.90.184:2002/play/a01m
+#EXTINF:-1 group-title="IPTV_3", VIAJAR HD
+http://5.255.90.184:2002/play/a01n
+#EXTINF:-1 group-title="IPTV_3", ALQUILER HD
+http://5.255.90.184:2001/play/a05c
+#EXTINF:-1 group-title="IPTV_3", AXN HD
+http://5.255.90.184:2001/play/a05e
+#EXTINF:-1 group-title="IPTV_3", AXN HD
+http://5.255.90.184:2001/play/a03x
+#EXTINF:-1 group-title="IPTV_3", BEIN LALIGA
+http://5.255.90.184:2001/play/a04b
+#EXTINF:-1 group-title="IPTV_3", BEIN MAX 1
+http://5.255.90.184:2001/play/a042
+#EXTINF:-1 group-title="IPTV_3", BEIN MAX 2
+http://5.255.90.184:2001/play/a044
+#EXTINF:-1 group-title="IPTV_3", BEINLALIGA1
+http://5.255.90.184:2001/play/a03u
+#EXTINF:-1 group-title="IPTV_3", BEINLALIGA2
+http://5.255.90.184:2001/play/a03w
+#EXTINF:-1 group-title="IPTV_3", CALLE 13 HD
+http://5.255.90.184:2001/play/a04f
+#EXTINF:-1 group-title="IPTV_3", DAZN 1 HD
+http://5.255.90.184:2001/play/a05d
+#EXTINF:-1 group-title="IPTV_3", DAZN 2 HD
+http://5.255.90.184:2001/play/a05h
+#EXTINF:-1 group-title="IPTV_3", EUROSPORT1HD
+http://5.255.90.184:2001/play/a04g
+#EXTINF:-1 group-title="IPTV_3", FOX HD
+http://5.255.90.184:2001/play/a047
+#EXTINF:-1 group-title="IPTV_3", HOLLYWOODHD
+http://5.255.90.184:2001/play/a04a
+#EXTINF:-1 group-title="IPTV_3", LA 1 HD
+http://5.255.90.184:2001/play/a05i
+#EXTINF:-1 group-title="IPTV_3", LA 1 HD
+http://5.255.90.184:2001/play/a043
+#EXTINF:-1 group-title="IPTV_3", LALIGATV BAR
+http://5.255.90.184:2001/play/a05g
+#EXTINF:-1 group-title="IPTV_3", LALIGATV BAR
+http://5.255.90.184:2001/play/a03z
+#EXTINF:-1 group-title="IPTV_3", M. ACCI©N HD
+http://5.255.90.184:2001/play/a048
+#EXTINF:-1 group-title="IPTV_3", M. DCINE HD
+http://5.255.90.184:2001/play/a049
+#EXTINF:-1 group-title="IPTV_3", M. DEP 1 HD
+http://5.255.90.184:2001/play/a04h
+#EXTINF:-1 group-title="IPTV_3", M. DRAMA HD
+http://5.255.90.184:2001/play/a057
+#EXTINF:-1 group-title="IPTV_3", M. F.TBOL HD
+http://5.255.90.184:2001/play/a046
+#EXTINF:-1 group-title="IPTV_3", M. LaLiga 1 HD
+http://5.255.90.184:2001/play/a058
+#EXTINF:-1 group-title="IPTV_3", M. LaLiga 2 HD
+http://5.255.90.184:2001/play/a05a
+#EXTINF:-1 group-title="IPTV_3", M. LaLiga 3 HD
+http://5.255.90.184:2001/play/a05b
+#EXTINF:-1 group-title="IPTV_3", M. LaLiga HD
+http://5.255.90.184:2001/play/a059
+#EXTINF:-1 group-title="IPTV_3", M.COMEDIA HD
+http://5.255.90.184:2001/play/a05f
+#EXTINF:-1 group-title="IPTV_3", M.COMEDIA HD
+http://5.255.90.184:2001/play/a03y
+#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON1
+http://5.255.90.184:2001/play/a055
+#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON1
+http://5.255.90.184:2001/play/a050
+#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON2
+http://5.255.90.184:2001/play/a056
+#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON2
+http://5.255.90.184:2001/play/a051
+#EXTINF:-1 group-title="IPTV_3", M.PartidazoHD
+http://5.255.90.184:2001/play/a041
+#EXTINF:-1 group-title="IPTV_3", MEZZO LIVE HD
+http://5.255.90.184:2001/play/a04e
+#EXTINF:-1 group-title="IPTV_3", NAT GEO HD
+http://5.255.90.184:2001/play/a04i
+#EXTINF:-1 group-title="IPTV_3", NICKELODEONHD
+http://5.255.90.184:2001/play/a04d
+#EXTINF:-1 group-title="IPTV_3", TOROS TV HD
+http://5.255.90.184:2001/play/a04j
+#EXTINF:-1 group-title="IPTV_3", #0 HD
+http://5.255.90.184:2004/play/a007/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", AMC HD
+http://5.255.90.184:2004/play/a00c/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", ANTENA 3 HD
+http://5.255.90.184:2004/play/a00d/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", CAZAyPESCA HD
+http://5.255.90.184:2004/play/a008/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", CUATRO HD
+http://5.255.90.184:2004/play/a00e/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", DISNEY CH HD
+http://5.255.90.184:2004/play/a006/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", LA SEXTA HD
+http://5.255.90.184:2004/play/a00g/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", M. SERIES HD
+http://5.255.90.184:2004/play/a002/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", M.FORMULA1HD
+http://5.255.90.184:2004/play/a00a/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", M.MOTOGPHD
+http://5.255.90.184:2004/play/a00b/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", NG WILD HD
+http://5.255.90.184:2004/play/a005/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", TCM HD
+http://5.255.90.184:2004/play/a003/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", TELECINCO HD
+http://5.255.90.184:2004/play/a00f/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", TNT HD
+http://5.255.90.184:2004/play/a004/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", CALLE 13 HD
+http://5.255.90.184:2001/play/a04f
+#EXTINF:-1 group-title="IPTV_3", ALQUILER HD
+http://5.255.90.184:2001/play/a05c
+#EXTINF:-1 group-title="IPTV_3", AXN HD
+http://5.255.90.184:2001/play/a05e
+#EXTINF:-1 group-title="IPTV_3", AXN HD
+http://5.255.90.184:2001/play/a03x
+#EXTINF:-1 group-title="IPTV_3", BEIN LALIGA
+http://5.255.90.184:2001/play/a04b
+#EXTINF:-1 group-title="IPTV_3", BEIN MAX 1
+http://5.255.90.184:2001/play/a042
+#EXTINF:-1 group-title="IPTV_3", BEIN MAX 2
+http://5.255.90.184:2001/play/a044
+#EXTINF:-1 group-title="IPTV_3", BEINLALIGA1
+http://5.255.90.184:2001/play/a03u
+#EXTINF:-1 group-title="IPTV_3", BEINLALIGA2
+http://5.255.90.184:2001/play/a03w
+#EXTINF:-1 group-title="IPTV_3", DAZN 1 HD
+http://5.255.90.184:2001/play/a05d
+#EXTINF:-1 group-title="IPTV_3", DAZN 2 HD
+http://5.255.90.184:2001/play/a05h
+#EXTINF:-1 group-title="IPTV_3", EUROSPORT1HD
+http://5.255.90.184:2001/play/a04g
+#EXTINF:-1 group-title="IPTV_3", FOX HD
+http://5.255.90.184:2001/play/a047
+#EXTINF:-1 group-title="IPTV_3", HOLLYWOODHD
+http://5.255.90.184:2001/play/a04a
+#EXTINF:-1 group-title="IPTV_3", LA 1 HD
+http://5.255.90.184:2001/play/a05i
+#EXTINF:-1 group-title="IPTV_3", LA 1 HD
+http://5.255.90.184:2001/play/a043
+#EXTINF:-1 group-title="IPTV_3", LALIGATV BAR
+http://5.255.90.184:2001/play/a05g
+#EXTINF:-1 group-title="IPTV_3", LALIGATV BAR
+http://5.255.90.184:2001/play/a03z
+#EXTINF:-1 group-title="IPTV_3", M. ACCI©N HD
+http://5.255.90.184:2001/play/a048
+#EXTINF:-1 group-title="IPTV_3", M. DCINE HD
+http://5.255.90.184:2001/play/a049
+#EXTINF:-1 group-title="IPTV_3", M. DEP 1 HD
+http://5.255.90.184:2001/play/a04h
+#EXTINF:-1 group-title="IPTV_3", M. DRAMA HD
+http://5.255.90.184:2001/play/a057
+#EXTINF:-1 group-title="IPTV_3", M. F.TBOL HD
+http://5.255.90.184:2001/play/a046
+#EXTINF:-1 group-title="IPTV_3", M. LaLiga 1 HD
+http://5.255.90.184:2001/play/a058
+#EXTINF:-1 group-title="IPTV_3", M. LaLiga 2 HD
+http://5.255.90.184:2001/play/a05a
+#EXTINF:-1 group-title="IPTV_3", M. LaLiga 3 HD
+http://5.255.90.184:2001/play/a05b
+#EXTINF:-1 group-title="IPTV_3", M. LaLiga HD
+http://5.255.90.184:2001/play/a059
+#EXTINF:-1 group-title="IPTV_3", M.COMEDIA HD
+http://5.255.90.184:2001/play/a05f
+#EXTINF:-1 group-title="IPTV_3", M.COMEDIA HD
+http://5.255.90.184:2001/play/a03y
+#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON1
+http://5.255.90.184:2001/play/a055
+#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON1
+http://5.255.90.184:2001/play/a050
+#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON2
+http://5.255.90.184:2001/play/a056
+#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON2
+http://5.255.90.184:2001/play/a051
+#EXTINF:-1 group-title="IPTV_3", M.PartidazoHD
+http://5.255.90.184:2001/play/a041
+#EXTINF:-1 group-title="IPTV_3", MEZZO LIVE HD
+http://5.255.90.184:2001/play/a04e
+#EXTINF:-1 group-title="IPTV_3", NAT GEO HD
+http://5.255.90.184:2001/play/a04i
+#EXTINF:-1 group-title="IPTV_3", NICKELODEONHD
+http://5.255.90.184:2001/play/a04d
+#EXTINF:-1 group-title="IPTV_3", TOROS TV HD
+http://5.255.90.184:2001/play/a04j
+#EXTINF:-1 group-title="IPTV_3", #0 HD
+http://5.255.90.184:2004/play/a007/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", AMC HD
+http://5.255.90.184:2004/play/a00c/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", ANTENA 3 HD
+http://5.255.90.184:2004/play/a00d/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", CAZAyPESCA HD
+http://5.255.90.184:2004/play/a008/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", CUATRO HD
+http://5.255.90.184:2004/play/a00e/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", DISNEY CH HD
+http://5.255.90.184:2004/play/a006/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", LA SEXTA HD
+http://5.255.90.184:2004/play/a00g/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", M. SERIES HD
+http://5.255.90.184:2004/play/a002/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", M.FORMULA1HD
+http://5.255.90.184:2004/play/a00a/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", M.MOTOGPHD
+http://5.255.90.184:2004/play/a00b/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", NG WILD HD
+http://5.255.90.184:2004/play/a005/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", TCM HD
+http://5.255.90.184:2004/play/a003/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", TELECINCO HD
+http://5.255.90.184:2004/play/a00f/index.m3u8
+#EXTINF:-1 group-title="IPTV_3", TNT HD
+http://5.255.90.184:2004/play/a004/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="Servidor1",LA 1
 http://germanydnsx13.com:8080/kemalso/arya20182021/94000
 #EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="Servidor1",LA 2
