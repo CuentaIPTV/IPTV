@@ -1,228 +1,228 @@
 #EXTM3U
 
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" tvg-id="5e3e50d87c8d28aa95ef9f316c27afaa" , group-title="IPTV_1", tvg-chno="1",LA 1
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" tvg-id="5e3e50d87c8d28aa95ef9f316c27afaa"group-title="IPTV_1", LA 1
 http://91.126.182.211:9981/stream/channelid/1481653854?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" tvg-id="6d1bdbdeeb1bd784ab175914129a9cf7" , group-title="IPTV_1", tvg-chno="2",LA 2
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" tvg-id="6d1bdbdeeb1bd784ab175914129a9cf7" group-title="IPTV_1", LA 2
 http://91.126.182.211:9981/stream/channelid/1591417709?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" tvg-id="6682e9f85e027d11715f237c22028e41" , group-title="IPTV_1", tvg-chno="3",Antena 3
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" tvg-id="6682e9f85e027d11715f237c22028e41" group-title="IPTV_1", Antena 3
 http://91.126.182.211:9981/stream/channelid/2028569190?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" tvg-id="70f47ca24351923bdf72a676576e96fc" group-title="IPTV_1", tvg-chno="4",Cuatro
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" tvg-id="70f47ca24351923bdf72a676576e96fc" group-title="IPTV_1", Cuatro
 http://91.126.182.211:9981/stream/channelid/578614384?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" tvg-id="366f1eeaba6a7fc6625d014ad94da376" group-title="IPTV_1", tvg-chno="5",Telecinco
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" tvg-id="366f1eeaba6a7fc6625d014ad94da376" group-title="IPTV_1", Telecinco
 http://91.126.182.211:9981/stream/channelid/1780379446?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" tvg-id="d7a7cc31dc3a7136e981418603debaf5" group-title="IPTV_1", tvg-chno="6",La Sexta
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" tvg-id="d7a7cc31dc3a7136e981418603debaf5" group-title="IPTV_1", La Sexta
 http://91.126.182.211:9981/stream/channelid/835495895?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" tvg-id="fbcf7552e93afcb9c5fe8f6e01f8e502" group-title="IPTV_1", tvg-chno="7",M+ #0
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" tvg-id="fbcf7552e93afcb9c5fe8f6e01f8e502" group-title="IPTV_1", M+ #0
 http://91.126.182.211:9981/stream/channelid/1383452667?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" tvg-id="5b6887d275e7da92fd1d430ddde9a547" group-title="IPTV_1", tvg-chno="11",M+ Estrenos
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" tvg-id="5b6887d275e7da92fd1d430ddde9a547" group-title="IPTV_1", M+ Estrenos
 http://91.126.182.211:9981/stream/channelid/1384605787?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" tvg-id="1d0fee07e8858b265c71e6bed1980821" group-title="IPTV_1", tvg-chno="12",M+ Estrenos 2
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" tvg-id="1d0fee07e8858b265c71e6bed1980821" group-title="IPTV_1", M+ Estrenos 2
 http://91.126.182.211:9981/stream/channelid/133041949?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" tvg-id="c58639f73664740329d423634468cf2c" group-title="IPTV_1", tvg-chno="15",M+ Clásicos
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" tvg-id="c58639f73664740329d423634468cf2c" group-title="IPTV_1", M+ Clásicos
 http://91.126.182.211:9981/stream/channelid/2000258757?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" tvg-id="3798e60e5cee95dac21e9ae494c362cc" group-title="IPTV_1", tvg-chno="16",M+ Acción
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" tvg-id="3798e60e5cee95dac21e9ae494c362cc" group-title="IPTV_1", M+ Acción
 http://91.126.182.211:9981/stream/channelid/249993271?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" tvg-id="9ddf7106f0e9a8b0983ed518721c9e03" group-title="IPTV_1", tvg-chno="17",M+ Comedia
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" tvg-id="9ddf7106f0e9a8b0983ed518721c9e03" group-title="IPTV_1", M+ Comedia
 http://91.126.182.211:9981/stream/channelid/108126109?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" tvg-id="b7277507ff7ef513f0138f912ac00bfa" group-title="IPTV_1", tvg-chno="18",M+ Drama
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" tvg-id="b7277507ff7ef513f0138f912ac00bfa" group-title="IPTV_1", M+ Drama
 http://91.126.182.211:9981/stream/channelid/125118391?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" tvg-id="436d8247b56f73210e18b993edd756d8" group-title="IPTV_1", tvg-chno="19",M+ Cine Español
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" tvg-id="436d8247b56f73210e18b993edd756d8" group-title="IPTV_1", M+ Cine Español
 http://91.126.182.211:9981/stream/channelid/1199729987?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" tvg-id="8fd9abb9e17cc37b57446f9121b54286" group-title="IPTV_1", tvg-chno="20",M+ Fest
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" tvg-id="8fd9abb9e17cc37b57446f9121b54286" group-title="IPTV_1", M+ Fest
 http://91.126.182.211:9981/stream/channelid/967563663?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png" tvg-id="f9eb3fcd260e7684e6fb995395a2101e" group-title="IPTV_1", tvg-chno="21",LA Resistencia 24H
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png" tvg-id="f9eb3fcd260e7684e6fb995395a2101e" group-title="IPTV_1", LA Resistencia 24H
 http://91.126.182.211:9981/stream/channelid/1296034809?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" tvg-id="e532f92c36e9561f05b18948ca11faea" group-title="IPTV_1", tvg-chno="23",Hollywood
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" tvg-id="e532f92c36e9561f05b18948ca11faea" group-title="IPTV_1", Hollywood
 http://91.126.182.211:9981/stream/channelid/754528997?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" tvg-id="a597c7367527d4b7865649e95d83a718" group-title="IPTV_1", tvg-chno="25",Sundance
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" tvg-id="a597c7367527d4b7865649e95d83a718" group-title="IPTV_1", Sundance
 http://91.126.182.211:9981/stream/channelid/919050149?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png" tvg-id="d3a120a887e3faf09a11944900c64c3f" group-title="IPTV_1", tvg-chno="27",Somos
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png" tvg-id="d3a120a887e3faf09a11944900c64c3f" group-title="IPTV_1", Somos
 http://91.126.182.211:9981/stream/channelid/673227219?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOMCIN.png" tvg-id="8dfa0c3cc89746b0e6fc6a779de36d7e" group-title="IPTV_1", tvg-chno="28",BOM Cine
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOMCIN.png" tvg-id="8dfa0c3cc89746b0e6fc6a779de36d7e" group-title="IPTV_1", BOM Cine
 http://91.126.182.211:9981/stream/channelid/1007483533?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" tvg-id="d8b67f941d09bec59a605d3027f6359e" group-title="IPTV_1", tvg-chno="29",Paramount Channel
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" tvg-id="d8b67f941d09bec59a605d3027f6359e" group-title="IPTV_1", Paramount Channel
 http://91.126.182.211:9981/stream/channelid/343914200?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" tvg-id="74ec4278abc6b3935af31f45b5e8c4ef" group-title="IPTV_1", tvg-chno="31",M+ Series
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" tvg-id="74ec4278abc6b3935af31f45b5e8c4ef" group-title="IPTV_1", M+ Series
 http://91.126.182.211:9981/stream/channelid/2017651828?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" tvg-id="b7d20ba670f52f6c865128a31f8d7b6f" group-title="IPTV_1", tvg-chno="32",M+ Series 2
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" tvg-id="b7d20ba670f52f6c865128a31f8d7b6f" group-title="IPTV_1", M+ Series 2
 http://91.126.182.211:9981/stream/channelid/638309047?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/FoxGE.png" tvg-id="8af395c02cf323ed29fd6865fabdb0ae" group-title="IPTV_1", tvg-chno="33",Fox
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/FoxGE.png" tvg-id="8af395c02cf323ed29fd6865fabdb0ae" group-title="IPTV_1", Fox
 http://91.126.182.211:9981/stream/channelid/1083569034?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" tvg-id="ab2a646aa04968ddcce2063075668ea1" group-title="IPTV_1", tvg-chno="35",TNT
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" tvg-id="ab2a646aa04968ddcce2063075668ea1" group-title="IPTV_1", TNT
 http://91.126.182.211:9981/stream/channelid/1784949419?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" tvg-id="5b71abca88c4014d3b5177d5971df0f3" group-title="IPTV_1", tvg-chno="36",Comedy Central
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" tvg-id="5b71abca88c4014d3b5177d5971df0f3" group-title="IPTV_1", Comedy Central
 http://91.126.182.211:9981/stream/channelid/1252749659?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" tvg-id="a67877df18a9e59fd8531a21ee8434ac" group-title="IPTV_1", tvg-chno="37",Calle 13
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" tvg-id="a67877df18a9e59fd8531a21ee8434ac" group-title="IPTV_1", Calle 13
 http://91.126.182.211:9981/stream/channelid/1601665190?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" tvg-id="a39029c6a8426d70d6a2731724be0629" group-title="IPTV_1", tvg-chno="38",COSMO
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" tvg-id="a39029c6a8426d70d6a2731724be0629" group-title="IPTV_1", COSMO
 http://91.126.182.211:9981/stream/channelid/1177129123?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" tvg-id="f676ae562de175b39a6e0b9dd7841b4c" group-title="IPTV_1", tvg-chno="39",AMC
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" tvg-id="f676ae562de175b39a6e0b9dd7841b4c" group-title="IPTV_1", AMC
 http://91.126.182.211:9981/stream/channelid/1454274294?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" tvg-id="96b428ec75afe0458827389cb7d16b7f" group-title="IPTV_1", tvg-chno="40",AXN White
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" tvg-id="96b428ec75afe0458827389cb7d16b7f" group-title="IPTV_1", AXN White
 http://91.126.182.211:9981/stream/channelid/1814606998?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" tvg-id="b5a3238c1ae0530948526849dcb11e86" group-title="IPTV_1", tvg-chno="41",SYFY
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" tvg-id="b5a3238c1ae0530948526849dcb11e86" group-title="IPTV_1", SYFY
 http://91.126.182.211:9981/stream/channelid/203662261?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" tvg-id="5dd2f0559268737914df275896801d6d" group-title="IPTV_1", tvg-chno="42",Trece
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" tvg-id="5dd2f0559268737914df275896801d6d" group-title="IPTV_1", Trece
 http://91.126.182.211:9981/stream/channelid/1441845853?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" tvg-id="0d363faee01f9ee1ac2c409379545ff1" group-title="IPTV_1", tvg-chno="44",Energy
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" tvg-id="0d363faee01f9ee1ac2c409379545ff1" group-title="IPTV_1", Energy
 http://91.126.182.211:9981/stream/channelid/775894541?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" tvg-id="82ecb63ae37a55edfb7c0f9afc8aea66" group-title="IPTV_1", tvg-chno="45",Factoría de Ficción
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" tvg-id="82ecb63ae37a55edfb7c0f9afc8aea66" group-title="IPTV_1", Factoría de Ficción
 http://91.126.182.211:9981/stream/channelid/985066626?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" tvg-id="c245df11a71c933e69beff7d9503a242" group-title="IPTV_1", tvg-chno="46",Neox
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" tvg-id="c245df11a71c933e69beff7d9503a242" group-title="IPTV_1", Neox
 http://91.126.182.211:9981/stream/channelid/299845058?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" tvg-id="d8aa7c698c1785784837185cf9ef20a8" group-title="IPTV_1", tvg-chno="47",Atreseries
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" tvg-id="d8aa7c698c1785784837185cf9ef20a8" group-title="IPTV_1", Atreseries
 http://91.126.182.211:9981/stream/channelid/1769777880?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" tvg-id="a78b6753b59c5d925b3855daeddf64fb" group-title="IPTV_1", tvg-chno="50",M+ #Vamos
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" tvg-id="a78b6753b59c5d925b3855daeddf64fb" group-title="IPTV_1", M+ #Vamos
 http://91.126.182.211:9981/stream/channelid/1399294887?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" tvg-id="1b187b3e1c3201cd07be64492218e455" group-title="IPTV_1", tvg-chno="51",M+ Ellas #V
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" tvg-id="1b187b3e1c3201cd07be64492218e455" group-title="IPTV_1", M+ Ellas #V
 http://91.126.182.211:9981/stream/channelid/1048254491?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-id="27ba0b98a2274caafce06b12f55283a0" group-title="IPTV_1", tvg-chno="52",M+ LaLigaTV
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-id="27ba0b98a2274caafce06b12f55283a0" group-title="IPTV_1", M+ LaLigaTV
 http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" tvg-id="9927d4ece7887009a209b328d049a9c9" group-title="IPTV_1", tvg-chno="53",DAZN LaLiga
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" tvg-id="9927d4ece7887009a209b328d049a9c9" group-title="IPTV_1", DAZN LaLiga
 http://91.126.182.211:9981/stream/channelid/1825843097?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" tvg-id="6f4a2122441273d814f4e567fa5f9ef3" group-title="IPTV_1", tvg-chno="54",LaLiga SmartbankTV
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" tvg-id="6f4a2122441273d814f4e567fa5f9ef3" group-title="IPTV_1", LaLiga SmartbankTV
 http://91.126.182.211:9981/stream/channelid/572607087?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" tvg-id="8e51f55de402dc8c34aa703d5908eea9" group-title="IPTV_1", tvg-chno="55",M+ LaLigaTV 2
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" tvg-id="8e51f55de402dc8c34aa703d5908eea9" group-title="IPTV_1", M+ LaLigaTV 2
 http://91.126.182.211:9981/stream/channelid/1576358286?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" tvg-id="6112f177bd0109d5087e19a7f698f2f0" group-title="IPTV_1", tvg-chno="56",M+ Liga de Campeones
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" tvg-id="6112f177bd0109d5087e19a7f698f2f0" group-title="IPTV_1", M+ Liga de Campeones
 http://91.126.182.211:9981/stream/channelid/2012287585?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" tvg-id="55b690b1dad6fd7a8253f2161d1f7362" group-title="IPTV_1", tvg-chno="57",M+ Liga de Campeones 2
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" tvg-id="55b690b1dad6fd7a8253f2161d1f7362" group-title="IPTV_1", M+ Liga de Campeones 2
 http://91.126.182.211:9981/stream/channelid/831567445?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" tvg-id="ffda95c6f8e61a21e5858686b10f11bb" group-title="IPTV_1", tvg-chno="58",M+ Liga de Campeones 3
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" tvg-id="ffda95c6f8e61a21e5858686b10f11bb" group-title="IPTV_1", M+ Liga de Campeones 3
 http://91.126.182.211:9981/stream/channelid/1184226047?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" tvg-id="e0e3fb1fe07ef034d865e0f685e8ec5b" group-title="IPTV_1", tvg-chno="59",M+ Deportes
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" tvg-id="e0e3fb1fe07ef034d865e0f685e8ec5b" group-title="IPTV_1", M+ Deportes
 http://91.126.182.211:9981/stream/channelid/536601568?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" tvg-id="0d23f45eaa37d114612a989335c433b1" group-title="IPTV_1", tvg-chno="60",M+ Deportes 2
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" tvg-id="0d23f45eaa37d114612a989335c433b1" group-title="IPTV_1", M+ Deportes 2
 http://91.126.182.211:9981/stream/channelid/1593058061?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" tvg-id="e20ff0e2715549c925d33a7ca6c7d3a1" group-title="IPTV_1", tvg-chno="61",M+ Deportes 3
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" tvg-id="e20ff0e2715549c925d33a7ca6c7d3a1" group-title="IPTV_1", M+ Deportes 3
 http://91.126.182.211:9981/stream/channelid/1659899874?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" tvg-id="3f2ff34bef8b827da0979110a3a082fd" group-title="IPTV_1", tvg-chno="62",M+ Golf
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" tvg-id="3f2ff34bef8b827da0979110a3a082fd" group-title="IPTV_1", M+ Golf
 http://91.126.182.211:9981/stream/channelid/1274228543?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" tvg-id="2e95f648af17f2e0a2a3bfe111e13b1d" group-title="IPTV_1", tvg-chno="63",DAZN F1
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" tvg-id="2e95f648af17f2e0a2a3bfe111e13b1d" group-title="IPTV_1", DAZN F1
 http://91.126.182.211:9981/stream/channelid/1224119598?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" tvg-id="ea8bbead5cb3ceffa011ac4dced7640d" group-title="IPTV_1", tvg-chno="64",DAZN 1
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" tvg-id="ea8bbead5cb3ceffa011ac4dced7640d" group-title="IPTV_1", DAZN 1
 http://91.126.182.211:9981/stream/channelid/767462378?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" tvg-id="ab01c58dfda1f718de1e663e139015b7" group-title="IPTV_1", tvg-chno="65",DAZN 2
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" tvg-id="ab01c58dfda1f718de1e663e139015b7" group-title="IPTV_1", DAZN 2
 http://91.126.182.211:9981/stream/channelid/231014827?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" tvg-id="001b1a153cfcbcc4519e543b088b6e77" group-title="IPTV_1", tvg-chno="66",Eurosport
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" tvg-id="001b1a153cfcbcc4519e543b088b6e77" group-title="IPTV_1", Eurosport
 http://91.126.182.211:9981/stream/channelid/354032384?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" tvg-id="8441785215522f996afb98ec36c71289" group-title="IPTV_1", tvg-chno="67",Eurosport 2
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" tvg-id="8441785215522f996afb98ec36c71289" group-title="IPTV_1", Eurosport 2
 http://91.126.182.211:9981/stream/channelid/1383612804?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" tvg-id="fc59e6a5d9cb574145303402d77adc9e" group-title="IPTV_1", tvg-chno="69",GOL PLAY
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" tvg-id="fc59e6a5d9cb574145303402d77adc9e" group-title="IPTV_1", GOL PLAY
 http://91.126.182.211:9981/stream/channelid/635853308?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" tvg-id="2f76ff85bfbdfbc280ba3e4c6141544b" group-title="IPTV_1", tvg-chno="70",Teledeporte
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" tvg-id="2f76ff85bfbdfbc280ba3e4c6141544b" group-title="IPTV_1", Teledeporte
 http://91.126.182.211:9981/stream/channelid/100628015?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" tvg-id="551089264731685a75124bd1297c5076" group-title="IPTV_1", tvg-chno="71",Caza y Pesca
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" tvg-id="551089264731685a75124bd1297c5076" group-title="IPTV_1", Caza y Pesca
 http://91.126.182.211:9981/stream/channelid/646516821?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" tvg-id="d93ce18e37b517bc08e2a373726091ec" group-title="IPTV_1", tvg-chno="72",Iberalia TV
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" tvg-id="d93ce18e37b517bc08e2a373726091ec" group-title="IPTV_1", Iberalia TV
 http://91.126.182.211:9981/stream/channelid/249642201?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" tvg-id="aad3f55a48d6e399a059aa9bf898ed72" group-title="IPTV_1", tvg-chno="73",Toros
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" tvg-id="aad3f55a48d6e399a059aa9bf898ed72" group-title="IPTV_1", Toros
 http://91.126.182.211:9981/stream/channelid/1526059946?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" tvg-id="37d8803eecd04dca793a0d07afd68470" group-title="IPTV_1", tvg-chno="74",Real Madrid TV
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" tvg-id="37d8803eecd04dca793a0d07afd68470" group-title="IPTV_1", Real Madrid TV
 http://91.126.182.211:9981/stream/channelid/1048631351?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" tvg-id="0ec1247c6b1c0b076d3b36f0fdd8097b" group-title="IPTV_1", tvg-chno="75",Barça TV
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" tvg-id="0ec1247c6b1c0b076d3b36f0fdd8097b" group-title="IPTV_1", Barça TV
 http://91.126.182.211:9981/stream/channelid/2082783502?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" tvg-id="d685be6944c705aae08903165466b36e" group-title="IPTV_1", tvg-chno="80",National Geographic
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" tvg-id="d685be6944c705aae08903165466b36e" group-title="IPTV_1", National Geographic
 http://91.126.182.211:9981/stream/channelid/1774093782?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" tvg-id="18e95cf750ff0038f8544f4c299a99c7" group-title="IPTV_1", tvg-chno="81",Nat Geo Wild
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" tvg-id="18e95cf750ff0038f8544f4c299a99c7" group-title="IPTV_1", Nat Geo Wild
 http://91.126.182.211:9981/stream/channelid/2002577688?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" tvg-id="5f5310a1375a814a2c61c912cc2a95e3" group-title="IPTV_1", tvg-chno="82",Historia
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" tvg-id="5f5310a1375a814a2c61c912cc2a95e3" group-title="IPTV_1", Historia
 http://91.126.182.211:9981/stream/channelid/554718047?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" tvg-id="9541c1e506aa58d67b78c375b1f558e1" group-title="IPTV_1", tvg-chno="83",Discovery
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" tvg-id="9541c1e506aa58d67b78c375b1f558e1" group-title="IPTV_1", Discovery
 http://91.126.182.211:9981/stream/channelid/1707164053?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" tvg-id="ab5f69e9cf963984a598f06b2e02c31c" group-title="IPTV_1", tvg-chno="84",Odisea
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" tvg-id="ab5f69e9cf963984a598f06b2e02c31c" group-title="IPTV_1", Odisea
 http://91.126.182.211:9981/stream/channelid/1768513451?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" tvg-id="44d858aead2b0530085df16f08adf0f6" group-title="IPTV_1", tvg-chno="85",AMC Break
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" tvg-id="44d858aead2b0530085df16f08adf0f6" group-title="IPTV_1", AMC Break
 http://91.126.182.211:9981/stream/channelid/777574468?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" tvg-id="1e4724287498cd7ed34d68fc3dfefb7d" group-title="IPTV_1", tvg-chno="87",DMAX
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" tvg-id="1e4724287498cd7ed34d68fc3dfefb7d" group-title="IPTV_1", DMAX
 http://91.126.182.211:9981/stream/channelid/673466142?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" tvg-id="fde32d51eae2d6b7b8387896127ebce3" group-title="IPTV_1", tvg-chno="88",AMC Crime
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" tvg-id="fde32d51eae2d6b7b8387896127ebce3" group-title="IPTV_1", AMC Crime
 http://91.126.182.211:9981/stream/channelid/1361961981?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" tvg-id="801074d09b24fccdb69a2f0a55864cde" group-title="IPTV_1", tvg-chno="90",Canal Cocina
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" tvg-id="801074d09b24fccdb69a2f0a55864cde" group-title="IPTV_1", Canal Cocina
 http://91.126.182.211:9981/stream/channelid/1349783680?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" tvg-id="a46d90f850616dd8ddf043a896f18eab" group-title="IPTV_1", tvg-chno="91",Decasa
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" tvg-id="a46d90f850616dd8ddf043a896f18eab" group-title="IPTV_1", Decasa
 http://91.126.182.211:9981/stream/channelid/2022731172?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png" tvg-id="f2abff6eca07f3a6b2ca3fcb645c33bb" group-title="IPTV_1", tvg-chno="92",DKISS
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png" tvg-id="f2abff6eca07f3a6b2ca3fcb645c33bb" group-title="IPTV_1", DKISS
 http://91.126.182.211:9981/stream/channelid/1862249458?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" tvg-id="6260d248edfb2115e844f1aa857db231" group-title="IPTV_1", tvg-chno="93",Divinity
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" tvg-id="6260d248edfb2115e844f1aa857db231" group-title="IPTV_1", Divinity
 http://91.126.182.211:9981/stream/channelid/1221746786?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" tvg-id="d2c27feb3d8e01d31292686c3e4781bf" group-title="IPTV_1", tvg-chno="94",Nova
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" tvg-id="d2c27feb3d8e01d31292686c3e4781bf" group-title="IPTV_1", Nova
 http://91.126.182.211:9981/stream/channelid/1803535058?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" tvg-id="28744d73a7cac895b425a8120a9c3192" group-title="IPTV_1", tvg-chno="95",Mega
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" tvg-id="28744d73a7cac895b425a8120a9c3192" group-title="IPTV_1", Mega
 http://91.126.182.211:9981/stream/channelid/1934455848?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" tvg-id="2b81e0573094ec40c16d0d7724f631c8" group-title="IPTV_1", tvg-chno="96",BE MAD
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" tvg-id="2b81e0573094ec40c16d0d7724f631c8" group-title="IPTV_1", BE MAD
 http://91.126.182.211:9981/stream/channelid/1474330923?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" tvg-id="ebb6a23bd372344a63a01bf6cc71a9e9" group-title="IPTV_1", tvg-chno="97",Ten
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" tvg-id="ebb6a23bd372344a63a01bf6cc71a9e9" group-title="IPTV_1", Ten
 http://91.126.182.211:9981/stream/channelid/1000519403?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" tvg-id="0cf1b852fe83cde7f1bbca37184c2f39" group-title="IPTV_1", tvg-chno="110",Baby TV
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" tvg-id="0cf1b852fe83cde7f1bbca37184c2f39" group-title="IPTV_1", Baby TV
 http://91.126.182.211:9981/stream/channelid/1387852044?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" tvg-id="a6a04dfdfd307624f924c8097c645842" group-title="IPTV_1", tvg-chno="111",Disney Junior
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" tvg-id="a6a04dfdfd307624f924c8097c645842" group-title="IPTV_1", Disney Junior
 http://91.126.182.211:9981/stream/channelid/2102239398?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" tvg-id="5b688db447adc3a220825cb6e073d03b" group-title="IPTV_1", tvg-chno="112",Enfamilia
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" tvg-id="5b688db447adc3a220825cb6e073d03b" group-title="IPTV_1", Enfamilia
 http://91.126.182.211:9981/stream/channelid/881682523?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" tvg-id="8a6f94a53178dc21bbf8b454f4faf410" group-title="IPTV_1", tvg-chno="113",Nick JR
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" tvg-id="8a6f94a53178dc21bbf8b454f4faf410" group-title="IPTV_1", Nick JR
 http://91.126.182.211:9981/stream/channelid/630484874?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" tvg-id="7b4473bd52432f0fe187011eafcf6cca" group-title="IPTV_1", tvg-chno="114",Dreamworks
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" tvg-id="7b4473bd52432f0fe187011eafcf6cca" group-title="IPTV_1", Dreamworks
 http://91.126.182.211:9981/stream/channelid/1030964347?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" tvg-id="1b66a71d6e80fd00707724ec6afc0f8e" group-title="IPTV_1", tvg-chno="114",Nickelodeon
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" tvg-id="1b66a71d6e80fd00707724ec6afc0f8e" group-title="IPTV_1", Nickelodeon
 http://91.126.182.211:9981/stream/channelid/497509915?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" tvg-id="f829bdf106ecee76c171242cc5f17d85" group-title="IPTV_1", tvg-chno="116",Disney Channel
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" tvg-id="f829bdf106ecee76c171242cc5f17d85" group-title="IPTV_1", Disney Channel
 http://91.126.182.211:9981/stream/channelid/1908222456?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" tvg-id="9235c0be72ee0ba281dbf397407ac677" group-title="IPTV_1", tvg-chno="117",Boing
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" tvg-id="9235c0be72ee0ba281dbf397407ac677" group-title="IPTV_1", Boing
 http://91.126.182.211:9981/stream/channelid/1052784018?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" tvg-id="f99dae1323f108d561f8c5a8b0cac36b" group-title="IPTV_1", tvg-chno="118",Clan
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" tvg-id="f99dae1323f108d561f8c5a8b0cac36b" group-title="IPTV_1", Clan
 http://91.126.182.211:9981/stream/channelid/330210809?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" tvg-id="2db3cb255958a5a4eabdc3a6c539a563" group-title="IPTV_1", tvg-chno="120",MTV
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" tvg-id="2db3cb255958a5a4eabdc3a6c539a563" group-title="IPTV_1", MTV
 http://91.126.182.211:9981/stream/channelid/634106669?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEZOHD.png" tvg-id="4b60ccd331a4d7579c5be01216d265d5" group-title="IPTV_1", tvg-chno="124",Mezzo Live HD
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEZOHD.png" tvg-id="4b60ccd331a4d7579c5be01216d265d5" group-title="IPTV_1", Mezzo Live HD
 http://91.126.182.211:9981/stream/channelid/1405902923?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLASSD.png" tvg-id="d0efe15c221a5ef0a6b74dfa3691598d" group-title="IPTV_1", tvg-chno="125",Classica
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLASSD.png" tvg-id="d0efe15c221a5ef0a6b74dfa3691598d" group-title="IPTV_1", Classica
 http://91.126.182.211:9981/stream/channelid/1558310864?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" tvg-id="6f653d0fbf3e2dd86a82dd7d519d110c" group-title="IPTV_1", tvg-chno="127",24h
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" tvg-id="6f653d0fbf3e2dd86a82dd7d519d110c" group-title="IPTV_1", 24h
 http://91.126.182.211:9981/stream/channelid/255681903?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXNWS.png" tvg-id="95cb499871d4fe5409c5fe294f377a0a" group-title="IPTV_1", tvg-chno="130",Fox News
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXNWS.png" tvg-id="95cb499871d4fe5409c5fe294f377a0a" group-title="IPTV_1", Fox News
 http://91.126.182.211:9981/stream/channelid/407489429?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGON.png" tvg-id="97d33f6fcc45f7fcac230a826d0c1e9c" group-title="IPTV_1", tvg-chno="151",Aragón TV Int
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGON.png" tvg-id="97d33f6fcc45f7fcac230a826d0c1e9c" group-title="IPTV_1", Aragón TV Int
 http://91.126.182.211:9981/stream/channelid/1866453911?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANTV.png" tvg-id="856731138179746837ddcb791ca9c028" group-title="IPTV_1", tvg-chno="151",Canal Sur Andalucía
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANTV.png" tvg-id="856731138179746837ddcb791ca9c028" group-title="IPTV_1", Canal Sur Andalucía
 http://91.126.182.211:9981/stream/channelid/322004869?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" tvg-id="56bc39921d9368e5d59895f7720c06f5" group-title="IPTV_1", tvg-chno="167",M+ LaLigaTV 3
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" tvg-id="56bc39921d9368e5d59895f7720c06f5" group-title="IPTV_1", M+ LaLigaTV 3
 http://91.126.182.211:9981/stream/channelid/305773654?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" tvg-id="fe88dc11927e97b5bc420c189376046b" group-title="IPTV_1", tvg-chno="172",DAZN LaLiga 2
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" tvg-id="fe88dc11927e97b5bc420c189376046b" group-title="IPTV_1", DAZN LaLiga 2
 http://91.126.182.211:9981/stream/channelid/299665662?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" tvg-id="8285be9d9702c68a9776818b4fb01dcf" group-title="IPTV_1", tvg-chno="177",LaLiga SmartbankTV 2
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" tvg-id="8285be9d9702c68a9776818b4fb01dcf" group-title="IPTV_1", LaLiga SmartbankTV 2
 http://91.126.182.211:9981/stream/channelid/499025282?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" tvg-id="6dfa14c5720d6f4f624c78777bace2f9" group-title="IPTV_1", tvg-chno="178",LaLiga SmartbankTV 3
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" tvg-id="6dfa14c5720d6f4f624c78777bace2f9" group-title="IPTV_1", LaLiga SmartbankTV 3
 http://91.126.182.211:9981/stream/channelid/1159002733?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" tvg-id="07bbf07dba741f3b66848736c65b2ba4" group-title="IPTV_1", tvg-chno="180",M+ Liga de Campeones 4
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" tvg-id="07bbf07dba741f3b66848736c65b2ba4" group-title="IPTV_1", M+ Liga de Campeones 4
 http://91.126.182.211:9981/stream/channelid/2112928519?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" tvg-id="ac6865e505a20ce260e65e11e4c7636a" group-title="IPTV_1", tvg-chno="181",M+ Liga de Campeones 5
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" tvg-id="ac6865e505a20ce260e65e11e4c7636a" group-title="IPTV_1", M+ Liga de Campeones 5
 http://91.126.182.211:9981/stream/channelid/1701144748?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" tvg-id="2ef6b2d1f942a4eab1337d6673c49993" group-title="IPTV_1", tvg-chno="182",M+ Liga de Campeones 6
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" tvg-id="2ef6b2d1f942a4eab1337d6673c49993" group-title="IPTV_1", M+ Liga de Campeones 6
 http://91.126.182.211:9981/stream/channelid/1370682926?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" tvg-id="b1d9627ccdf0a74c9f1a7a0e2a083050" group-title="IPTV_1", tvg-chno="183",M+ Liga de Campeones 7
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" tvg-id="b1d9627ccdf0a74c9f1a7a0e2a083050" group-title="IPTV_1", M+ Liga de Campeones 7
 http://91.126.182.211:9981/stream/channelid/2086853041?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" tvg-id="184ae9347bdcda2a85db949737f2adf6" group-title="IPTV_1", tvg-chno="184",M+ Liga de Campeones 8
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" tvg-id="184ae9347bdcda2a85db949737f2adf6" group-title="IPTV_1", M+ Liga de Campeones 8
 http://91.126.182.211:9981/stream/channelid/887704088?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" tvg-id="8aba974092d46ec737b05ed210646bf3" group-title="IPTV_1", tvg-chno="185",M+ Liga de Campeones 9
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" tvg-id="8aba974092d46ec737b05ed210646bf3" group-title="IPTV_1", M+ Liga de Campeones 9
 http://91.126.182.211:9981/stream/channelid/1083685514?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" tvg-id="a81c42123c9acae0d5290e213c16b691" group-title="IPTV_1", tvg-chno="186",M+ Liga de Campeones 10
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" tvg-id="a81c42123c9acae0d5290e213c16b691" group-title="IPTV_1", M+ Liga de Campeones 10
 http://91.126.182.211:9981/stream/channelid/306322600?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" tvg-id="e7596108d533cef2d3d24263a2d75d40" group-title="IPTV_1", tvg-chno="188",M+ Liga de Campeones 12
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" tvg-id="e7596108d533cef2d3d24263a2d75d40" group-title="IPTV_1", M+ Liga de Campeones 12
 http://91.126.182.211:9981/stream/channelid/140597735?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png" tvg-id="bdb62d3fca1461ab0c961ee5ef255929" group-title="IPTV_1", tvg-chno="189",M+ Liga de Campeones 13
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png" tvg-id="bdb62d3fca1461ab0c961ee5ef255929" group-title="IPTV_1", M+ Liga de Campeones 13
 http://91.126.182.211:9981/stream/channelid/1059960509?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" tvg-id="8490f066eeb781f90e21635772ccb2b7" group-title="IPTV_1", tvg-chno="191",M+ Deportes 4
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" tvg-id="8490f066eeb781f90e21635772ccb2b7" group-title="IPTV_1", M+ Deportes 4
 http://91.126.182.211:9981/stream/channelid/1727041668?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" tvg-id="0f3748d3a4d0b112e7853b1ffb836cca" group-title="IPTV_1", tvg-chno="192",M+ Deportes 5
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" tvg-id="0f3748d3a4d0b112e7853b1ffb836cca" group-title="IPTV_1", M+ Deportes 5
 http://91.126.182.211:9981/stream/channelid/1397241615?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" tvg-id="0bd308215985ac2d6d06916bb76f457f" group-title="IPTV_1", tvg-chno="193",M+ Deportes 6
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" tvg-id="0bd308215985ac2d6d06916bb76f457f" group-title="IPTV_1", M+ Deportes 6
 http://91.126.182.211:9981/stream/channelid/554226443?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" tvg-id="421ed9c7bce8381b10c71ca914319cab" group-title="IPTV_1", tvg-chno="194",M+ Deportes 7
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" tvg-id="421ed9c7bce8381b10c71ca914319cab" group-title="IPTV_1", M+ Deportes 7
 http://91.126.182.211:9981/stream/channelid/1205411394?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" tvg-id="d7b693ec00db4981977a19f325be759e" group-title="IPTV_1", tvg-chno="196",DAZN 3
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" tvg-id="d7b693ec00db4981977a19f325be759e" group-title="IPTV_1", DAZN 3
 http://91.126.182.211:9981/stream/channelid/1821619927?profile=pass
-#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" tvg-id="578357ff1d089a8742cae19fa55dc31b" group-title="IPTV_1", tvg-chno="197",DAZN 4
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" tvg-id="578357ff1d089a8742cae19fa55dc31b" group-title="IPTV_1", DAZN 4
 http://91.126.182.211:9981/stream/channelid/2136441687?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="IPTV_2"",LA 1
