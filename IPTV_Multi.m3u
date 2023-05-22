@@ -1866,35 +1866,35 @@ http://germanydnsx13.com:8080/celal123/123celal/94073
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="Servidor7",Nick Jr
 http://germanydnsx13.com:8080/celal123/123celal/94071
 
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", LA 1 4K+
+#EXTINF:0 group-title="Servidor12", LA 1 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/70682
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Cuatro 4K+
+#EXTINF:0 group-title="Servidor12", Cuatro 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/70685
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", La Sexta 4K+
+#EXTINF:0 group-title="Servidor12", La Sexta 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/70687
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Disney Channel 4K+
+#EXTINF:0 group-title="Servidor12", Disney Channel 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/70698
 #EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="Servidor12", Discovery Channel
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/70705
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Real Madrid TV 4K+
+#EXTINF:0 group-title="Servidor12", Real Madrid TV 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/70734
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Movistar Comedia 4K+
+#EXTINF:0 group-title="Servidor12", Movistar Comedia 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/105214
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Movistar trenos 4K+
+#EXTINF:0 group-title="Servidor12", Movistar trenos 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/105216
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Movistar Seri 4K+
+#EXTINF:0 group-title="Servidor12", Movistar Seri 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/105218
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Movistar Seri Mania 4K+
+#EXTINF:0 group-title="Servidor12", Movistar Seri Mania 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/105221
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Comedy Central 4K+
+#EXTINF:0 group-title="Servidor12", Comedy Central 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/107112
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Movistar Comedia 4K+
+#EXTINF:0 group-title="Servidor12", Movistar Comedia 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/107125
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Movistar trenos 4K+
+#EXTINF:0 group-title="Servidor12", Movistar trenos 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/107127
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Movistar Seri Mania 4K+
+#EXTINF:0 group-title="Servidor12", Movistar Seri Mania 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/107133
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", TELECINCO HD
+#EXTINF:0 group-title="Servidor12", TELECINCO HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/124251
 #EXTINF:0 tvg-id="LA2." group-title="Servidor12", La 2
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/129518
@@ -1920,7 +1920,7 @@ http://46.166.171.183:8080/skytvperu/61DS56165DW1/129536
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/129537
 #EXTINF:0 tvg-id="M.Seri." group-title="Servidor12", Movistar Seri
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/129540
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  Movistar Serimania
+#EXTINF:0 group-title="Servidor12",  Movistar Serimania
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/129541
 #EXTINF:0 tvg-id="Odisea." group-title="Servidor12", Odisea
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/129542
@@ -1930,7 +1930,7 @@ http://46.166.171.183:8080/skytvperu/61DS56165DW1/129543
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/129552
 #EXTINF:0 tvg-id="NickJunior." group-title="Servidor12", Nick Jr
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/129553
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  Telemadrid HD
+#EXTINF:0 group-title="Servidor12",  Telemadrid HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/129556
 #EXTINF:0 tvg-id="Panda." group-title="Servidor12", Canal Panda
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/129557
@@ -1952,7 +1952,7 @@ http://46.166.171.183:8080/skytvperu/61DS56165DW1/179265
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179267
 #EXTINF:0 tvg-id="LA1." group-title="Servidor12",LA 1 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179268
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",LA 1  FHD (H.265)
+#EXTINF:0 group-title="Servidor12",LA 1  FHD (H.265)
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179269
 #EXTINF:0 tvg-id="LA2." group-title="Servidor12",La 2 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179270
@@ -1988,11 +1988,11 @@ http://46.166.171.183:8080/skytvperu/61DS56165DW1/179285
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179286
 #EXTINF:0 tvg-id="FDF." group-title="Servidor12",FDF
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179287
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",FDF HD
+#EXTINF:0 group-title="Servidor12",FDF HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179288
 #EXTINF:0 tvg-id="Energy." group-title="Servidor12",ENERGY
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179289
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",ENERGY HD
+#EXTINF:0 group-title="Servidor12",ENERGY HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179290
 #EXTINF:0 tvg-id="CosmopolitanHD." group-title="Servidor12",COSMO
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179291
@@ -2000,17 +2000,17 @@ http://46.166.171.183:8080/skytvperu/61DS56165DW1/179291
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179292
 #EXTINF:0 tvg-id="Divinity." group-title="Servidor12",DIVINITY
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179293
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",DIVINITY HD
+#EXTINF:0 group-title="Servidor12",DIVINITY HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179294
 #EXTINF:0 tvg-id="DKISS." group-title="Servidor12",DKISS
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179295
 #EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="Servidor12",DMAX
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179296
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",CLAN HD
+#EXTINF:0 group-title="Servidor12",CLAN HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179297
 #EXTINF:0 tvg-id="ClanTVE." group-title="Servidor12",CLAN TVE
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179298
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",ARAGON INT
+#EXTINF:0 group-title="Servidor12",ARAGON INT
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179299
 #EXTINF:0 tvg-id="SundanceChannel.gr" group-title="Servidor12",SUNDANCE
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179300
@@ -2020,7 +2020,7 @@ http://46.166.171.183:8080/skytvperu/61DS56165DW1/179301
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179302
 #EXTINF:0 tvg-id="Hashtag0." group-title="Servidor12",#0 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179303
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",101TV Malaga
+#EXTINF:0 group-title="Servidor12",101TV Malaga
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179304
 #EXTINF:0 tvg-id="324." group-title="Servidor12",3/24
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179310
@@ -2038,153 +2038,153 @@ http://46.166.171.183:8080/skytvperu/61DS56165DW1/179315
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179318
 #EXTINF:0 tvg-id="Cocina." group-title="Servidor12",CANAL COCINA
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/118537
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",CANAL COSTA TV
+#EXTINF:0 group-title="Servidor12",CANAL COSTA TV
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179320
 #EXTINF:0 tvg-id="Classica.it" group-title="Servidor12",CLASSICA
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179322
 #EXTINF:0 tvg-id="fox-hd" group-title="Servidor12",FOX FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179327
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",TVG Cultural
+#EXTINF:0 group-title="Servidor12",TVG Cultural
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179332
 #EXTINF:0 tvg-id="fox-crime" group-title="Servidor12",TVG Europa
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179333
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", MOVISTAR LA LIGA HD
+#EXTINF:0 group-title="Servidor12", MOVISTAR LA LIGA HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/201883
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", LA LIGA TV BAR FULL HD
+#EXTINF:0 group-title="Servidor12", LA LIGA TV BAR FULL HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/201884
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", MOVISTAR LIGA HD
+#EXTINF:0 group-title="Servidor12", MOVISTAR LIGA HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/201885
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", MOVISTAR LA LIGA HD 1
+#EXTINF:0 group-title="Servidor12", MOVISTAR LA LIGA HD 1
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/201886
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", MOVISTA LIGA DE CAMPEON HD
+#EXTINF:0 group-title="Servidor12", MOVISTA LIGA DE CAMPEON HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/201888
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", MOVISTAR LIGA CAMPEON 4 HD
+#EXTINF:0 group-title="Servidor12", MOVISTAR LIGA CAMPEON 4 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/201892
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", MOVISTAR LIGA CAMPEON 7 HD
+#EXTINF:0 group-title="Servidor12", MOVISTAR LIGA CAMPEON 7 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/201895
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", #0 4K+
+#EXTINF:0 group-title="Servidor12", #0 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/70690
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", MOVISTAR LA LIGA FHD
+#EXTINF:0 group-title="Servidor12", MOVISTAR LA LIGA FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/70747
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",MOVISTAR DEPORT FHD  DEP_P
+#EXTINF:0 group-title="Servidor12",MOVISTAR DEPORT FHD  DEP_P
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/70748
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",MOVISTAR DEPORT SD  PE
+#EXTINF:0 group-title="Servidor12",MOVISTAR DEPORT SD  PE
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/70749
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",MOVISTAR DEPORT FHD  DEP_P
+#EXTINF:0 group-title="Servidor12",MOVISTAR DEPORT FHD  DEP_P
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/105203
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",MOVISTAR DEPORT SD  PE
+#EXTINF:0 group-title="Servidor12",MOVISTAR DEPORT SD  PE
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/105204
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",MOVISTAR LA LIGA  DEP_P
+#EXTINF:0 group-title="Servidor12",MOVISTAR LA LIGA  DEP_P
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/105206
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",MOVISTAR LIGA DE CAMPEON HD  DEP_P
+#EXTINF:0 group-title="Servidor12",MOVISTAR LIGA DE CAMPEON HD  DEP_P
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/105210
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Movistar Golf 4K+
+#EXTINF:0 group-title="Servidor12", Movistar Golf 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/105222
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",Tennis Channel 1
+#EXTINF:0 group-title="Servidor12",Tennis Channel 1
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/105863
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", EUROSPORTS 1 HD
+#EXTINF:0 group-title="Servidor12", EUROSPORTS 1 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/122827
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", MOVISTAR LA LIGA DE CAMPEON (OPC 1)
+#EXTINF:0 group-title="Servidor12", MOVISTAR LA LIGA DE CAMPEON (OPC 1)
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/156617
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", MOVISTAR LA LIGA DE CAMPEON
+#EXTINF:0 group-title="Servidor12", MOVISTAR LA LIGA DE CAMPEON
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/156618
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", MOVISTAR TOROS
+#EXTINF:0 group-title="Servidor12", MOVISTAR TOROS
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/156619
 #EXTINF:0 tvg-id="M.Deport2." group-title="Servidor12",Movistar Deport 2
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/156621
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",LA LIGA SMARTBANK 1 FHD
+#EXTINF:0 group-title="Servidor12",LA LIGA SMARTBANK 1 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/163239
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",LA LIGA SMARTBANK2 FHD
+#EXTINF:0 group-title="Servidor12",LA LIGA SMARTBANK2 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/163240
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",LA LIGA SMARTBANK  HD
+#EXTINF:0 group-title="Servidor12",LA LIGA SMARTBANK  HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/163241
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",LA LIGA SMARTBANK HD
+#EXTINF:0 group-title="Servidor12",LA LIGA SMARTBANK HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/163242
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", MOVISTAR FUTBOL HD
+#EXTINF:0 group-title="Servidor12", MOVISTAR FUTBOL HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/86298
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", NBA TV HD
+#EXTINF:0 group-title="Servidor12", NBA TV HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/86299
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", LA LIGA BAR TV FHD
+#EXTINF:0 group-title="Servidor12", LA LIGA BAR TV FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/86306
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", MOVISTAR LA LIGA FHD
+#EXTINF:0 group-title="Servidor12", MOVISTAR LA LIGA FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/86307
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN LA LIGA HD
+#EXTINF:0 group-title="Servidor12",  DAZN LA LIGA HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222318
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN LA LIGA 1 SD
+#EXTINF:0 group-title="Servidor12",  DAZN LA LIGA 1 SD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222319
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  M. DAZN LA LIGA 1 HD
+#EXTINF:0 group-title="Servidor12",  M. DAZN LA LIGA 1 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222320
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  M. DAZN LA LIGA 1 FHD
+#EXTINF:0 group-title="Servidor12",  M. DAZN LA LIGA 1 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222321
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  M. DAZN LA LIGA 2 HD
+#EXTINF:0 group-title="Servidor12",  M. DAZN LA LIGA 2 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222322
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  M. DAZN LA LIGA 2 FHD
+#EXTINF:0 group-title="Servidor12",  M. DAZN LA LIGA 2 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222323
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN F1 FHD
+#EXTINF:0 group-title="Servidor12",  DAZN F1 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222324
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN F1 HD
+#EXTINF:0 group-title="Servidor12",  DAZN F1 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222325
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN F1 FHD
+#EXTINF:0 group-title="Servidor12",  DAZN F1 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222326
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN 2 FHD
+#EXTINF:0 group-title="Servidor12",  DAZN 2 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222327
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN F1 FHD
+#EXTINF:0 group-title="Servidor12",  DAZN F1 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222328
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN F1 FHD
+#EXTINF:0 group-title="Servidor12",  DAZN F1 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222329
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN MOVISTAR 1 SD
+#EXTINF:0 group-title="Servidor12",  DAZN MOVISTAR 1 SD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222330
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN MOVISTAR 1 FHD
+#EXTINF:0 group-title="Servidor12",  DAZN MOVISTAR 1 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222331
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN MOVISTAR 2 HD
+#EXTINF:0 group-title="Servidor12",  DAZN MOVISTAR 2 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222332
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN MOVISTAR 3 FHD
+#EXTINF:0 group-title="Servidor12",  DAZN MOVISTAR 3 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222333
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN MOVISTAR 4 HD
+#EXTINF:0 group-title="Servidor12",  DAZN MOVISTAR 4 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222334
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN 1 *L
+#EXTINF:0 group-title="Servidor12",  DAZN 1 *L
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222335
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN MOVISTAR 1 HD
+#EXTINF:0 group-title="Servidor12",  DAZN MOVISTAR 1 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222336
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN MOVISTAR 2 SD
+#EXTINF:0 group-title="Servidor12",  DAZN MOVISTAR 2 SD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222337
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN MOVISTAR 3 HD
+#EXTINF:0 group-title="Servidor12",  DAZN MOVISTAR 3 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222338
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN MOVISTAR 4 FHD
+#EXTINF:0 group-title="Servidor12",  DAZN MOVISTAR 4 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222339
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN F1 SD
+#EXTINF:0 group-title="Servidor12",  DAZN F1 SD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222340
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN MOVISTAR 2 FHD
+#EXTINF:0 group-title="Servidor12",  DAZN MOVISTAR 2 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222341
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",IT: DAZN  1
+#EXTINF:0 group-title="Servidor12",IT: DAZN  1
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222342
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",IT: DAZN 2
+#EXTINF:0 group-title="Servidor12",IT: DAZN 2
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222343
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",LA LIGA (DAZN LA LIGA)
+#EXTINF:0 group-title="Servidor12",LA LIGA (DAZN LA LIGA)
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222344
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",LA LIGA (DAZN LA LIGA 2)
+#EXTINF:0 group-title="Servidor12",LA LIGA (DAZN LA LIGA 2)
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222345
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  DAZN F1 FHD
+#EXTINF:0 group-title="Servidor12",  DAZN F1 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/222347
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Toros TV 4K+
+#EXTINF:0 group-title="Servidor12", Toros TV 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/70732
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",DEPORT LA LIGA TV BAR FHD
+#EXTINF:0 group-title="Servidor12",DEPORT LA LIGA TV BAR FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/70743
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",MOVISTAR PLUS SD  PE
+#EXTINF:0 group-title="Servidor12",MOVISTAR PLUS SD  PE
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/105212
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",MOVISTAR VAMOS HD  DEP_P
+#EXTINF:0 group-title="Servidor12",MOVISTAR VAMOS HD  DEP_P
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/105213
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Movistar Deport 4K+
+#EXTINF:0 group-title="Servidor12", Movistar Deport 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/105220
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Caza y Pca 4K+
+#EXTINF:0 group-title="Servidor12", Caza y Pca 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/107116
 #EXTINF:0 tvg-id="Eurosport2." group-title="Servidor12", Eurosport 2
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/107130
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", Movistar Deport 4K+
+#EXTINF:0 group-title="Servidor12", Movistar Deport 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/107132
 #EXTINF:0 tvg-id="p" group-title="Servidor12",eurosport 1
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/107136
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",  Caza y Pezca
+#EXTINF:0 group-title="Servidor12",  Caza y Pezca
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/129544
 #EXTINF:0 tvg-id="p-hd" group-title="Servidor12",EUROSPORT 1 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179324
@@ -2200,161 +2200,160 @@ http://46.166.171.183:8080/skytvperu/61DS56165DW1/179329
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179330
 #EXTINF:0 tvg-id="GOLF.ca" group-title="Servidor12",GOLF HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/179331
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", DAZN F1 HD
+#EXTINF:0 group-title="Servidor12", DAZN F1 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/188154
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",paña - beIN Sports ñ 2mb
+#EXTINF:0 group-title="Servidor12",paña - beIN Sports ñ 2mb
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/204875
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", TOROS HD
+#EXTINF:0 group-title="Servidor12", TOROS HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/204939
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", F1 HD
+#EXTINF:0 group-title="Servidor12", F1 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/204940
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", #0 SPORTS  FHD
+#EXTINF:0 group-title="Servidor12", #0 SPORTS  FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/204941
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", GOLTV HD
+#EXTINF:0 group-title="Servidor12", GOLTV HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/204944
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", M+ GOLF HD
+#EXTINF:0 group-title="Servidor12", M+ GOLF HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/204945
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", VAMOS SPORTS HD*
+#EXTINF:0 group-title="Servidor12", VAMOS SPORTS HD*
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/204943
-#EXTINF:0 tvg-id="ext" group-title="Servidor12", EUROSPORTS 2 HD
+#EXTINF:0 group-title="Servidor12", EUROSPORTS 2 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/204952
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",M Dazn F1 FHD
+#EXTINF:0 group-title="Servidor12",M Dazn F1 FHD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/204966
-#EXTINF:0 tvg-id="ext" group-title="Servidor12",M Dazn F1 HD
+#EXTINF:0 group-title="Servidor12",M Dazn F1 HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/204967
 
-#EXTINF:0 tvg-id="Scifi.es" group-title="Servidor13", SYFY HD
+#EXTINF:0  group-title="Servidor13", SYFY HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12465
-#EXTINF:0 tvg-id="TVGalicia.es" group-title="Servidor13", TV Galicia
+#EXTINF:0  group-title="Servidor13", TV Galicia
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12466
-#EXTINF:0 tvg-id="ext" group-title="Servidor13", Teleticino
+#EXTINF:0  group-title="Servidor13", Teleticino
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12467
-#EXTINF:0 tvg-id="ext" group-title="Servidor13", ALQUILER 9
+#EXTINF:0  group-title="Servidor13", ALQUILER 9
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12468
-#EXTINF:0 tvg-id="ext" group-title="Servidor13", ALQUILER 8
+#EXTINF:0  group-title="Servidor13", ALQUILER 8
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12469
-#EXTINF:0 tvg-id="ext" group-title="Servidor13", ALQUILER 7
+#EXTINF:0  group-title="Servidor13", ALQUILER 7
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12470
-#EXTINF:0 tvg-id="Taquilla6.es" group-title="Servidor13", ALQUILER 6
+#EXTINF:0  group-title="Servidor13", ALQUILER 6
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12471
-#EXTINF:0 tvg-id="Taquilla5.es" group-title="Servidor13", ALQUILER 5
+#EXTINF:0  group-title="Servidor13", ALQUILER 5
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12472
-#EXTINF:0 tvg-id="Taquilla4.es" group-title="Servidor13", ALQUILER 4
+#EXTINF:0  group-title="Servidor13", ALQUILER 4
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12473
-#EXTINF:0 tvg-id="Taquilla3.es" group-title="Servidor13", ALQUILER 3
+#EXTINF:0  group-title="Servidor13", ALQUILER 3
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12474
-#EXTINF:0 tvg-id="Alquiler2.es" group-title="Servidor13", ALQUILER 2
+#EXTINF:0  group-title="Servidor13", ALQUILER 2
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12475
-#EXTINF:0 tvg-id="ext" group-title="Servidor13", ALQUILLER10
+#EXTINF:0  group-title="Servidor13", ALQUILLER10
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12476
-#EXTINF:0 tvg-id="Alquiler1.es" group-title="Servidor13", ALQUILER 1
+#EXTINF:0  group-title="Servidor13", ALQUILER 1
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12477
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Servidor13", Real Madrid
+#EXTINF:0  group-title="Servidor13", Real Madrid
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12478
-#EXTINF:0 tvg-id="NatGeoWild.es" group-title="Servidor13", Nat Geo Wild HD
+#EXTINF:0  group-title="Servidor13", Nat Geo Wild HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12479
-#EXTINF:0 tvg-id="MovistarMotoGP.es" group-title="Servidor13", M. Moto GP
+#EXTINF:0  group-title="Servidor13", M. Moto GP
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12480
-#EXTINF:0 tvg-id="ext" group-title="Servidor13", M. FORMULA 1
+#EXTINF:0  group-title="Servidor13", M. FORMULA 1
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12481
-#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="Servidor13", Discovery Channel
+#EXTINF:0  group-title="Servidor13", Discovery Channel
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12482
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="Servidor13", Cosmo
+#EXTINF:0  group-title="Servidor13", Cosmo
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12483
-#EXTINF:0 tvg-id="Cocina.es" group-title="Servidor13", Canal Cocina
+#EXTINF:0  group-title="Servidor13", Canal Cocina
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12484
-#EXTINF:0 tvg-id="BabyTV.es" group-title="Servidor13", BABY TV
+#EXTINF:0  group-title="Servidor13", BABY TV
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12485
-#EXTINF:0 tvg-id="AndaluciaTVsat.es" group-title="Servidor13", Andalucia TV
+#EXTINF:0  group-title="Servidor13", Andalucia TV
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12486
-#EXTINF:0 tvg-id="Fox.es" group-title="Servidor13", FOX HD
+#EXTINF:0  group-title="Servidor13", FOX HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12487
-#EXTINF:0 tvg-id="M.Series.es" group-title="Servidor13", M. SERIES
+#EXTINF:0  group-title="Servidor13", M. SERIES
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12488
-#EXTINF:0 tvg-id="CanalPlusFutbol.es" group-title="Servidor13", M. FUTBOL HD
+#EXTINF:0  group-title="Servidor13", M. FUTBOL HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12489
-#EXTINF:0 tvg-id="M.CineEspanol.es" group-title="Servidor13", M. DCINE HD
+#EXTINF:0  group-title="Servidor13", M. DCINE HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12490
-#EXTINF:0 tvg-id="AXNhd.es" group-title="Servidor13", AXN HD
+#EXTINF:0  group-title="Servidor13", AXN HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12491
-#EXTINF:0 tvg-id="ext" group-title="Servidor13", Teledeportes
+#EXTINF:0  group-title="Servidor13", Teledeportes
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12492
-#EXTINF:0 tvg-id="LA2.es" group-title="Servidor13", LA 2
+#EXTINF:0  group-title="Servidor13", LA 2
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12493
-#EXTINF:0 tvg-id="LA1.es" group-title="Servidor13", LA 1 HD
+#EXTINF:0  group-title="Servidor13", LA 1 HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12494
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="Servidor13", Barca TV
+#EXTINF:0  group-title="Servidor13", Barca TV
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12495
-#EXTINF:0 tvg-id="TNT.es" group-title="Servidor13", TNT
+#EXTINF:0  group-title="Servidor13", TNT
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12496
-#EXTINF:0 tvg-id="TCM.es" group-title="Servidor13", TCM
+#EXTINF:0  group-title="Servidor13", TCM
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12497
-#EXTINF:0 tvg-id="Scifi.es" group-title="Servidor13", SYFY
+#EXTINF:0  group-title="Servidor13", SYFY
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12498
-#EXTINF:0 tvg-id="Nova.es" group-title="Servidor13", NOVA
+#EXTINF:0  group-title="Servidor13", NOVA
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12499
-#EXTINF:0 tvg-id="Nickelodeon.es" group-title="Servidor13", NICKELODEON
+#EXTINF:0  group-title="Servidor13", NICKELODEON
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12500
-#EXTINF:0 tvg-id="NickJunior.es" group-title="Servidor13", NICK JUNIOR
+#EXTINF:0  group-title="Servidor13", NICK JUNIOR
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12501
-#EXTINF:0 tvg-id="NationalGeographic.es" group-title="Servidor13", NATIONAL GEOGRAPHIC
+#EXTINF:0  group-title="Servidor13", NATIONAL GEOGRAPHIC
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12502
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="Servidor13", La Sexta HD
+#EXTINF:0  group-title="Servidor13", La Sexta HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12503
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="Servidor13", LA SEXTA
+#EXTINF:0  group-title="Servidor13", LA SEXTA
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12504
-#EXTINF:0 tvg-id="Historia.es" group-title="Servidor13", HISTORIA
+#EXTINF:0  group-title="Servidor13", HISTORIA
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12505
-#EXTINF:0 tvg-id="Fox.es" group-title="Servidor13", FOX
+#EXTINF:0  group-title="Servidor13", FOX
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12506
-#EXTINF:0 tvg-id="FDF.es" group-title="Servidor13", Fdf
+#EXTINF:0  group-title="Servidor13", Fdf
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12507
-#EXTINF:0 tvg-id="Energy.es" group-title="Servidor13", Energy
+#EXTINF:0  group-title="Servidor13", Energy
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12508
-#EXTINF:0 tvg-id="DisneyXD.es" group-title="Servidor13", DISNEY XD
+#EXTINF:0  group-title="Servidor13", DISNEY XD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12509
-#EXTINF:0 tvg-id="DisneyJr.es" group-title="Servidor13", DISNEY JUNIOR
+#EXTINF:0  group-title="Servidor13", DISNEY JUNIOR
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12510
-#EXTINF:0 tvg-id="DisneyChannel.es" group-title="Servidor13", DISNEY CHANNEL
+#EXTINF:0  group-title="Servidor13", DISNEY CHANNEL
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12511
-#EXTINF:0 tvg-id="DCineEsp.es" group-title="Servidor13", M. CINE ESPANOL
+#EXTINF:0  group-title="Servidor13", M. CINE ESPANOL
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12512
-#EXTINF:0 tvg-id="Cuatro.es" group-title="Servidor13", CUATRO
+#EXTINF:0  group-title="Servidor13", CUATRO
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12513
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Servidor13", COMEDY CENTRAL
+#EXTINF:0  group-title="Servidor13", COMEDY CENTRAL
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12514
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="Servidor13", CAZA Y PESCA
+#EXTINF:0  group-title="Servidor13", CAZA Y PESCA
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12515
-#EXTINF:0 tvg-id="ext" group-title="Servidor13", HWD HOLLYWOOD HD
+#EXTINF:0  group-title="Servidor13", HWD HOLLYWOOD HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12516
-#EXTINF:0 tvg-id="CanalPlusXtra.sp" group-title="Servidor13", M. SERIES XTRA
+#EXTINF:0  group-title="Servidor13", M. SERIES XTRA
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12517
-#EXTINF:0 tvg-id="ext" group-title="Servidor13", M. SERIES HD
+#EXTINF:0  group-title="Servidor13", M. SERIES HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12518
-#EXTINF:0 tvg-id="Golf.es" group-title="Servidor13", M. GOLF
+#EXTINF:0  group-title="Servidor13", M. GOLF
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12519
-#EXTINF:0 tvg-id="ext" group-title="Servidor13", A3S Atreseries HD
+#EXTINF:0  group-title="Servidor13", A3S Atreseries HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12520
-#EXTINF:0 tvg-id="M.Comedia.es" group-title="Servidor13", M. Comedia
+#EXTINF:0  group-title="Servidor13", M. Comedia
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12521
-#EXTINF:0 tvg-id="ext" group-title="Servidor13", M. ACCION
+#EXTINF:0  group-title="Servidor13", M. ACCION
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12522
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Servidor13", TOROS
+#EXTINF:0  group-title="Servidor13", TOROS
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12523
-#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Servidor13", Movistar ESTRENOS HD
+#EXTINF:0  group-title="Servidor13", Movistar ESTRENOS HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12524
-#EXTINF:0 tvg-id="M.Deportes.es" group-title="Servidor13", M. DEPORTES 1
+#EXTINF:0  group-title="Servidor13", M. DEPORTES 1
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12525
-#EXTINF:0 tvg-id="Calle13.es" group-title="Servidor13", CALLE 13
+#EXTINF:0  group-title="Servidor13", CALLE 13
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12526
-#EXTINF:0 tvg-id="Boing.es" group-title="Servidor13", Boing
+#EXTINF:0  group-title="Servidor13", Boing
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12527
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="Servidor13", AXN WHITE
+#EXTINF:0  group-title="Servidor13", AXN WHITE
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12528
-#EXTINF:0 tvg-id="AXNhd.es" group-title="Servidor13", AXN
+#EXTINF:0  group-title="Servidor13", AXN
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12529
-#EXTINF:0 tvg-id="Antena3.es" group-title="Servidor13", Antena 3 HD
+#EXTINF:0  group-title="Servidor13", Antena 3 HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12530
-#EXTINF:0 tvg-id="CanalPlusFutbol.es" group-title="Servidor13", MOVISTAR FUTBOL
+#EXTINF:0  group-title="Servidor13", MOVISTAR FUTBOL
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12531
-
