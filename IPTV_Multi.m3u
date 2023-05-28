@@ -655,1216 +655,512 @@ http://5.255.90.184:2004/play/a00f/index.m3u8
 #EXTINF:-1 group-title="IPTV_3", TNT HD
 http://5.255.90.184:2004/play/a004/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="Servidor1",LA 1
-http://germanydnsx13.com:8080/kemalso/arya20182021/94000
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="Servidor1",LA 2
-http://germanydnsx13.com:8080/kemalso/arya20182021/94001
-#EXTINF:-1 tvg-logo=" https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="Servidor1",ANTENA 3
-http://germanydnsx13.com:8080/kemalso/arya20182021/94002
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Servidor1",CUATRO
-http://germanydnsx13.com:8080/kemalso/arya20182021/94003
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="Servidor1",TELECINCO
-http://germanydnsx13.com:8080/kemalso/arya20182021/94004
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Servidor1",LA SEXTA
-http://germanydnsx13.com:8080/kemalso/arya20182021/94005
-#EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" group-title="Servidor1",FDF
-http://germanydnsx13.com:8080/kemalso/arya20182021/94024
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="Servidor1",NEOX
-http://germanydnsx13.com:8080/kemalso/arya20182021/94025
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" group-title="Servidor1",ENERGY
-http://germanydnsx13.com:8080/kemalso/arya20182021/94022
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" group-title="Servidor1",MEGA
-http://germanydnsx13.com:8080/kemalso/arya20182021/94062
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="Servidor1",ATRESERIES
-http://germanydnsx13.com:8080/kemalso/arya20182021/94026
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA"group-title="Servidor1", Nova
-http://germanydnsx13.com:8080/kemalso/arya20182021/94061
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="Servidor1",DIVINITY
-http://germanydnsx13.com:8080/kemalso/arya20182021/94060
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="Servidor1",BE MAD
-http://germanydnsx13.com:8080/kemalso/arya20182021/94063
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/448px-DKiss.svg.png" group-title="Servidor1",DKISS
-http://45.141.194.9:9000/play/a00o/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="Servidor1",DMAX
-http://45.141.194.9:9000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2018/01/movistar-oscar-715x374.jpg" group-title="Servidor1",MOVISTAR SuperAgentes
-http://germanydnsx13.com:8080/kemalso/arya20182021/94027
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_La_Resistencia.png/640px-Logo_La_Resistencia.png" group-title="Servidor1",MOVISTAR La Resistencia
-http://germanydnsx13.com:8080/kemalso/arya20182021/94023
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Servidor1",M. ESTRENOS
-http://germanydnsx13.com:8080/kemalso/arya20182021/94028
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="Servidor1",M. ESTRENOS 2
-http://germanydnsx13.com:8080/kemalso/arya20182021/94029
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Servidor1",M. CLASICOS
-http://germanydnsx13.com:8080/kemalso/arya20182021/94030
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="Servidor1",M. ACCION
-http://germanydnsx13.com:8080/kemalso/arya20182021/94031
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Servidor1",M. COMEDIA
-http://germanydnsx13.com:8080/kemalso/arya20182021/94032
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Servidor1",M. DRAMA
-http://germanydnsx13.com:8080/kemalso/arya20182021/94033
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Servidor1",M. CINE Ñ
-http://germanydnsx13.com:8080/kemalso/arya20182021/94034
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Servidor1", M. FEST
-http://germanydnsx13.com:8080/kemalso/arya20182021/94035
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor1",M. SERIES
-http://germanydnsx13.com:8080/kemalso/arya20182021/94011
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor1",M. SERIES 2
-http://germanydnsx13.com:8080/kemalso/arya20182021/94012
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC" group-title="Servidor1", Canal Cocina
-http://germanydnsx13.com:8080/kemalso/arya20182021/94059
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA" group-title="Servidor1"group-title="Servidor1", Canal Decasa
-http://germanydnsx13.com:8080/kemalso/arya20182021/94058
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="Servidor1"group-title="Servidor1",CANAL Enfamilia
-http://germanydnsx13.com:8080/kemalso/arya20182021/94070
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor1",AMC BREAK
-http://45.141.194.9:9000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Servidor1",FOX
-http://germanydnsx13.com:8080/kemalso/arya20182021/94013
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="Servidor1",AXN
-http://germanydnsx13.com:8080/kemalso/arya20182021/94014
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Servidor1",AXN WHITE
-http://germanydnsx13.com:8080/kemalso/arya20182021/94020
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Servidor1",WARNER TV
-http://germanydnsx13.com:8080/kemalso/arya20182021/94015
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="Servidor1",COMEDY CENTRAL
-http://germanydnsx13.com:8080/kemalso/arya20182021/94016
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Servidor1",CALLE 13
-http://germanydnsx13.com:8080/kemalso/arya20182021/94017
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="Servidor1",COSMO
-http://germanydnsx13.com:8080/kemalso/arya20182021/94018
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor1",AMC
-http://germanydnsx13.com:8080/kemalso/arya20182021/94019
-#EXTINF:-1 tvg-logo="https://www.contenidostv.es/media/k2/items/cache/052250dc50138371fd04f19c188f0143_XL.jpg" group-title="Servidor1",XTRM
-http://45.141.194.9:9000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Servidor1",SYFY
-http://germanydnsx13.com:8080/kemalso/arya20182021/94021
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="Servidor1",TCM
-http://germanydnsx13.com:8080/kemalso/arya20182021/94036
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Servidor1",HOLLYWOOD
-http://germanydnsx13.com:8080/kemalso/arya20182021/94037
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="Servidor1",SUNDANCE
-http://germanydnsx13.com:8080/kemalso/arya20182021/94038
-#EXTINF:-1 tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" group-title="Servidor1",DARK
-http://germanydnsx13.com:8080/kemalso/arya20182021/94039
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="Servidor1",PARAMOUNT CHANNEL
-http://germanydnsx13.com:8080/kemalso/arya20182021/94040
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="Servidor1",NATIONAL GEOGRAPHIC
-http://germanydnsx13.com:8080/kemalso/arya20182021/94052
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Servidor1",NAT GEO WILD
-http://germanydnsx13.com:8080/kemalso/arya20182021/94053
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" group-title="Servidor1",HISTORIA
-http://germanydnsx13.com:8080/kemalso/arya20182021/94054
-#EXTINF:-1 tvg-logo="https://www.tradingpedia.com/wp-content/uploads/2017/01/discovery-channel.png" group-title="Servidor1",DISCOVERY CHANNEL
-http://germanydnsx13.com:8080/kemalso/arya20182021/94055
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="Servidor1",ODISEA
-http://germanydnsx13.com:8080/kemalso/arya20182021/94056
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Servidor1",AMC CRIME
-http://germanydnsx13.com:8080/kemalso/arya20182021/94057
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="Servidor1",SOMOS
-http://germanydnsx13.com:8080/kemalso/arya20182021/94077
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png" group-title="Servidor1",#0
-http://germanydnsx13.com:8080/kemalso/arya20182021/94006
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png" group-title="Servidor1",#VAMOS
-http://germanydnsx13.com:8080/kemalso/arya20182021/94007
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Servidor1",M. LA LIGA
-http://germanydnsx13.com:8080/kemalso/arya20182021/94041
-#EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Servidor1",M. DEPORTES
-http://germanydnsx13.com:8080/kemalso/arya20182021/94043
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7a/ca/6f/7aca6ffec719da865eb46d6aaf8741ed.jpg" group-title="Servidor1",M. DAZN 1
-http://germanydnsx13.com:8080/kemalso/arya20182021/94046
-#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.jpg" group-title="Servidor1",M. DAZN 2
-http://germanydnsx13.com:8080/kemalso/arya20182021/94047
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor1",M. DAZN 3
-http://germanydnsx13.com:8080/kemalso/arya20182021/94088
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor1",M. DAZN 4
-http://germanydnsx13.com:8080/kemalso/arya20182021/94089
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Servidor1",DAZN F1
-http://germanydnsx13.com:8080/kemalso/arya20182021/94045
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Servidor1",4-M. CAMPEONES
-http://germanydnsx13.com:8080/kemalso/arya20182021/94042
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="Servidor1",M. GOLF
-http://germanydnsx13.com:8080/kemalso/arya20182021/94044
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Servidor1",EUROSPORT 1
-http://germanydnsx13.com:8080/kemalso/arya20182021/94048
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Servidor1",EUROSPORT 2
-http://germanydnsx13.com:8080/kemalso/arya20182021/94049
-#EXTINF:-1 tvg-logo="https://www.noticanarias.com/wp-content/uploads/2020/06/Logo-GOL.jpg" group-title="Servidor1",GOL TV
-http://germanydnsx13.com:8080/kemalso/arya20182021/94050
-#EXTINF:-1 tvg-logo="http://storage.anacondatv.me/logos/spain/Caza_y_Pesca.jpg" group-title="Servidor1",CAZA Y PESCA
-http://45.141.194.9:9000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="Servidor1",IBERALIA 100% CAZA
-http://45.141.194.9:9000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Servidor1",MUNDOTORO HD
-http://lamejor.selfip.org:8000/IvanPerla/Mu6xXXpefL/1052
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor1", MTV 00s
-http://germanydnsx13.com:8080/kemalso/arya20182021/94078
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor1", MTV 00s
-http://germanydnsx13.com:8080/kemalso/arya20182021/94079
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD"group-title="Servidor1", Telemadrid
-http://germanydnsx13.com:8080/kemalso/arya20182021/94010
-#EXTINF:-8 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/LaOtra_logo_2005_rojo.gif/revision/latest?cb=20110815001554"group-title="Servidor1", La Otra
-http://45.141.194.9:9000/play/a02j/index.m3u8
-#EXTINF:-11 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/8madrid.png?w=96&h=72&tok=0d4545"group-title="Servidor1", 8 Madrid
-http://45.141.194.9:9000/play/a027/index.m3u8
-#EXTINF:-10 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CASMAN.png"group-title="Servidor1", Castilla La Mancha TV
-http://45.141.194.9:9000/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM"group-title="Servidor1", Canal Extremadura Sat
-http://germanydnsx13.com:8080/kemalso/arya20182021/94085
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV"group-title="Servidor1", Canal Sur Andalucia
-http://germanydnsx13.com:8080/kemalso/arya20182021/94008
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON"group-title="Servidor1", Aragon TV Int
-http://germanydnsx13.com:8080/kemalso/arya20182021/94087
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL"group-title="Servidor1", TVG -TV Galicia
-http://germanydnsx13.com:8080/kemalso/arya20182021/94084
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/702/13/png-transparent-nickelodeon-logo-wikipedia-logo-nickelodeon-movies-speechlanguage-pathology-nickelodeon-splat-orange-text-line.png" group-title="Servidor1",NICKELODEON
-http://germanydnsx13.com:8080/kemalso/arya20182021/94072
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor1",Disney Channel
-http://germanydnsx13.com:8080/kemalso/arya20182021/94074
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor1",Disney Channel
-http://germanydnsx13.com:8080/kemalso/arya20182021/94069
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="Servidor1",DREAMWORKS
-http://germanydnsx13.com:8080/kemalso/arya20182021/94073
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="Servidor1",Nick Jr
-http://germanydnsx13.com:8080/kemalso/arya20182021/94071
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="Servidor2",LA 1
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94000
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="Servidor2",LA 2
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94001
-#EXTINF:-1 tvg-logo=" https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="Servidor2",ANTENA 3
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94002
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Servidor2",CUATRO
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94003
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="Servidor2",TELECINCO
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94004
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Servidor2",LA SEXTA
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94005
-#EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" group-title="Servidor2",FDF
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94024
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="Servidor2",NEOX
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94025
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" group-title="Servidor2",ENERGY
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94022
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" group-title="Servidor2",MEGA
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94062
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="Servidor2",ATRESERIES
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94026
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA"group-title="Servidor2", Nova
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94061
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="Servidor2",DIVINITY
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94060
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="Servidor2",BE MAD
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94063
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/448px-DKiss.svg.png" group-title="Servidor2",DKISS
-http://45.141.194.9:9000/play/a00o/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="Servidor2",DMAX
-http://45.141.194.9:9000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2018/01/movistar-oscar-715x374.jpg" group-title="Servidor2",MOVISTAR SuperAgentes
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94027
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_La_Resistencia.png/640px-Logo_La_Resistencia.png" group-title="Servidor2",MOVISTAR La Resistencia
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94023
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Servidor2",M. ESTRENOS
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94028
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="Servidor2",M. ESTRENOS 2
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94029
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Servidor2",M. CLASICOS
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94030
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="Servidor2",M. ACCION
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94031
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Servidor2",M. COMEDIA
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94032
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Servidor2",M. DRAMA
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94033
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Servidor2",M. CINE Ñ
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94034
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Servidor2", M. FEST
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94035
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor2",M. SERIES
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94011
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor2",M. SERIES 2
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94012
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC" group-title="Servidor2", Canal Cocina
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94059
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA" group-title="Servidor2"group-title="Servidor2", Canal Decasa
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94058
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="Servidor2"group-title="Servidor2",CANAL Enfamilia
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94070
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor2",AMC BREAK
-http://45.141.194.9:9000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Servidor2",FOX
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94013
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="Servidor2",AXN
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94014
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Servidor2",AXN WHITE
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94020
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Servidor2",WARNER TV
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94015
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="Servidor2",COMEDY CENTRAL
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94016
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Servidor2",CALLE 13
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94017
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="Servidor2",COSMO
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94018
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor2",AMC
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94019
-#EXTINF:-1 tvg-logo="https://www.contenidostv.es/media/k2/items/cache/052250dc50138371fd04f19c188f0143_XL.jpg" group-title="Servidor2",XTRM
-http://45.141.194.9:9000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Servidor2",SYFY
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94021
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="Servidor2",TCM
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94036
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Servidor2",HOLLYWOOD
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94037
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="Servidor2",SUNDANCE
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94038
-#EXTINF:-1 tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" group-title="Servidor2",DARK
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94039
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="Servidor2",PARAMOUNT CHANNEL
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94040
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="Servidor2",NATIONAL GEOGRAPHIC
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94052
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Servidor2",NAT GEO WILD
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94053
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" group-title="Servidor2",HISTORIA
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94054
-#EXTINF:-1 tvg-logo="https://www.tradingpedia.com/wp-content/uploads/2017/01/discovery-channel.png" group-title="Servidor2",DISCOVERY CHANNEL
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94055
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="Servidor2",ODISEA
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94056
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Servidor2",AMC CRIME
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94057
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="Servidor2",SOMOS
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94077
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png" group-title="Servidor2",#0
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94006
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png" group-title="Servidor2",#VAMOS
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94007
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Servidor2",M. LA LIGA
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94041
-#EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Servidor2",M. DEPORTES
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94043
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7a/ca/6f/7aca6ffec719da865eb46d6aaf8741ed.jpg" group-title="Servidor2",M. DAZN 1
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94046
-#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.jpg" group-title="Servidor2",M. DAZN 2
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94047
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor2",M. DAZN 3
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94088
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor2",M. DAZN 4
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94089
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Servidor2",DAZN F1
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94045
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Servidor2",4-M. CAMPEONES
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94042
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="Servidor2",M. GOLF
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94044
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Servidor2",EUROSPORT 1
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94048
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Servidor2",EUROSPORT 2
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94049
-#EXTINF:-1 tvg-logo="https://www.noticanarias.com/wp-content/uploads/2020/06/Logo-GOL.jpg" group-title="Servidor2",GOL TV
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94050
-#EXTINF:-1 tvg-logo="http://storage.anacondatv.me/logos/spain/Caza_y_Pesca.jpg" group-title="Servidor2",CAZA Y PESCA
-http://45.141.194.9:9000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="Servidor2",IBERALIA 100% CAZA
-http://45.141.194.9:9000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Servidor2",MUNDOTORO HD
-http://lamejor.selfip.org:8000/IvanPerla/Mu6xXXpefL/1052
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor2", MTV 00s
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94078
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor2", MTV 00s
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94079
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD"group-title="Servidor2", Telemadrid
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94010
-#EXTINF:-8 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/LaOtra_logo_2005_rojo.gif/revision/latest?cb=20110815001554"group-title="Servidor2", La Otra
-http://45.141.194.9:9000/play/a02j/index.m3u8
-#EXTINF:-11 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/8madrid.png?w=96&h=72&tok=0d4545"group-title="Servidor2", 8 Madrid
-http://45.141.194.9:9000/play/a027/index.m3u8
-#EXTINF:-10 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CASMAN.png"group-title="Servidor2", Castilla La Mancha TV
-http://45.141.194.9:9000/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM"group-title="Servidor2", Canal Extremadura Sat
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94085
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV"group-title="Servidor2", Canal Sur Andalucia
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94008
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON"group-title="Servidor2", Aragon TV Int
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94087
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL"group-title="Servidor2", TVG -TV Galicia
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94084
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/702/13/png-transparent-nickelodeon-logo-wikipedia-logo-nickelodeon-movies-speechlanguage-pathology-nickelodeon-splat-orange-text-line.png" group-title="Servidor2",NICKELODEON
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94072
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor2",Disney Channel
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94074
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor2",Disney Channel
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94069
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="Servidor2",DREAMWORKS
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94073
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="Servidor2",Nick Jr
-http://germanydnsx13.com:8080/mehmetkoyuncu/Mk7177765/94071
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="TEST_1",  DAZN LALIGA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25125.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="TEST_1",  DAZN LALIGA FHD
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/54668.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga_2.png" group-title="TEST_1",  DAZN LALIGA 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25127.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/LaLiga_SmartbankTV.png" group-title="TEST_1",  M+ Laliga SmartBankTV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25128.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/LaLiga_SmartbankTV.png" group-title="TEST_1",  M+ Laliga SmartBankTV （line2）
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/56087.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/dazn-1-es.png" group-title="TEST_1",  DAZN 1
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5589.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/dazn-2-es.png" group-title="TEST_1",  DAZN 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5590.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/dazn-3-es.png" group-title="TEST_1",  DAZN 3
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5591.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/dazn-4-es.png" group-title="TEST_1",  DAZN 4
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5592.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="TEST_1",  DAZN F1
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5593.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/mundotoro.png" group-title="TEST_1",  (línea 1) MUNDOTORO
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/55943.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/mundotoro.png" group-title="TEST_1",  (línea 2) MUNDOTORO
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/56009.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/mundotoro.png" group-title="TEST_1",  (línea 3) MUNDOTORO
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/56010.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-es.png" group-title="TEST_1",  (UHD) M+ LALIGA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/54535.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-es.png" group-title="TEST_1",  (HD) M+ LALIGA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5758.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-es.png" group-title="TEST_1",  (FHD) M+ LALIGA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/54532.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-2-es.png" group-title="TEST_1",  M+ LALIGA 2 (MATCH TIME)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5651.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-3-es.png" group-title="TEST_1",  M+ LALIGA 3 (MATCH TIME)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5652.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/ads/iptv_es.jpg" group-title="TEST_1",  Regalo 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/56012.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="TEST_1",  (HD) M+ LIGA DE CAMPEONES
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5671.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="TEST_1",  (FHD) M+ LIGA DE CAMPEONES
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/54531.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_2.png" group-title="TEST_1",  M+ LIGA DE CAMPEONES 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5663.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_3.png" group-title="TEST_1",  M+ LIGA DE CAMPEONES 3
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5664.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_4.png" group-title="TEST_1",  M+ LIGA DE CAMPEONES 4
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5665.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_5.png" group-title="TEST_1",  M+ LIGA DE CAMPEONES 5
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5666.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_6.png" group-title="TEST_1",  M+ LIGA DE CAMPEONES 6
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5667.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_7.png" group-title="TEST_1",  M+ LIGA DE CAMPEONES 7
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5668.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_8.png" group-title="TEST_1",  M+ LIGA DE CAMPEONES 8
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5669.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_9.png" group-title="TEST_1",  M+ LIGA DE CAMPEONES 9
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5670.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_10.png" group-title="TEST_1",  M+ LIGA DE CAMPEONES 10
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5685.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_11.png" group-title="TEST_1",  M+ LIGA DE CAMPEONES 11
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5686.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_12.png" group-title="TEST_1",  M+ LIGA DE CAMPEONES 12
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5687.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_13.png" group-title="TEST_1",  M+ LIGA DE CAMPEONES 13
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29360.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/GolMundial.png" group-title="TEST_1",  Gol Mundial (SuperCopa)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/40862.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/GolMundial.png" group-title="TEST_1",  Gol Mundial 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/49555.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/espn.png" group-title="TEST_1",  ESPN DEPORTES
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5605.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/eurosport-1-es.png" group-title="TEST_1",  EUROSPORT 1
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5607.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/eurosport-2-es.png" group-title="TEST_1",  EUROSPORT 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5608.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/LaLigaTVBAR.png" group-title="TEST_1",  M+ LALIGATV BAR
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5661.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/beinsportsenespanol.png" group-title="TEST_1",  BEIN SPORTS ESPANA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/24040.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-golf-es.png" group-title="TEST_1",  M+ GOLF
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5649.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-es.png" group-title="TEST_1",  M+ DEPORTES
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5643.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-1-es.png" group-title="TEST_1",  M+ DEPORTES 1
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5638.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-2-es.png" group-title="TEST_1",  M+ DEPORTES 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5639.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-3-es.png" group-title="TEST_1",  M+ DEPORTES 3
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5640.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-4-es.png" group-title="TEST_1",  M+ DEPORTES 4
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5641.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-5-es.png" group-title="TEST_1",  M+ DEPORTES 5
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5681.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-6-es.png" group-title="TEST_1",  M+ DEPORTES 6
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5682.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-7-es.png" group-title="TEST_1",  M+ DEPORTES 7
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5683.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-8-es.png" group-title="TEST_1",  M+ DEPORTES 8
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29667.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/antena-3-es.png" group-title="TEST_1",  ANTENA 3
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5555.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/telecinco-es.png" group-title="TEST_1",  Telecinco
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5734.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/la1.png" group-title="TEST_1",  LA 1
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5622.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/la2.png" group-title="TEST_1",  LA 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5623.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="TEST_1",  LA SEXTA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5625.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/cuatro-es.png" group-title="TEST_1",  CUATRO
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5588.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/fdf-es.png" group-title="TEST_1",  Factoría de Ficción
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5611.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/nova-es.png" group-title="TEST_1",  NOVA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5723.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/energy-es.png" group-title="TEST_1",  ENERGY
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5603.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/trece-es.png" group-title="TEST_1",  TRECE
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5741.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/barca-tv-es.png" group-title="TEST_1",  BARCA TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5560.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Horse_TV.png" group-title="TEST_1",  Horse TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25936.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Ellas_V.png" group-title="TEST_1",  M+ ELLAS #V
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29333.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/real-madrid-tv-es.png" group-title="TEST_1",  REAL MADRID TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5729.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/SEVILLA_FC.png" group-title="TEST_1",  SEVILLA FC
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29340.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/teledeporte.png" group-title="TEST_1",  Teledeporte
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5735.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_0.png" group-title="TEST_1",  M+ #0
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5546.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/24h-es.png" group-title="TEST_1",  24 HORAS
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5550.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/amc-es.png" group-title="TEST_1",  AMC
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5553.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/andalucia-tv-es.png" group-title="TEST_1",  ANDALUCIA TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5554.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/aragon-tv-es.png" group-title="TEST_1",  ARAGON TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5556.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/axn-es.png" group-title="TEST_1",  AXN
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5557.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/axn-white-es.png" group-title="TEST_1",  AXN WHITE
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5558.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/be-mad-tv-es.png" group-title="TEST_1",  BE MAD
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5561.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/blaze-es.png" group-title="TEST_1",  BLAZE
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5564.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/bom-cine-es.png" group-title="TEST_1",  BOM CINE
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5566.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/calle-13-es.png" group-title="TEST_1",  CALLE 13
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5567.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/canal26.png" group-title="TEST_1",  CANAL 26
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5569.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/canal-cocina-es.png" group-title="TEST_1",  CANAL COCINA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5570.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/decasa-es.png" group-title="TEST_1",  CANAL DECASA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5571.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Canal_Sur.png" group-title="TEST_1",  CANAL SUR
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5575.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Canal_Sur_Andalucia.png" group-title="TEST_1",  CANAL SUR ANDALUCIA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5576.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/caza-y-pesca-es.png" group-title="TEST_1",  CAZA Y PESCA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5578.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/clan-es.png" group-title="TEST_1",  CLAN
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5580.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/comedy-central-es.png" group-title="TEST_1",  COMEDY CENTRAL
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5584.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/cosmo-es.png" group-title="TEST_1",  COSMO
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5585.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Crime_investigation.png" group-title="TEST_1",  CRIME INVESTIGATION
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5586.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/discovery-channel-es.png" group-title="TEST_1",  DISCOVERY
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5594.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/baby-tv-es.png" group-title="TEST_1",  BABY TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5559.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/boing-es.png" group-title="TEST_1",  BOING
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5565.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/disney-channel-es.png" group-title="TEST_1",  DISNEY CHANNEL
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5596.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/disney-junior-es.png" group-title="TEST_1",  DISNEY JUNIOR
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5597.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/dreamworks-channel-es.png" group-title="TEST_1",  DREAMWORKS
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5602.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/nick-jr-es.png" group-title="TEST_1",  NICK JR
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5720.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/nickelodeon-es.png" group-title="TEST_1",  NICKELODEON
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5721.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/divinity-es.png" group-title="TEST_1",  DIVINITY
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5599.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/dkiss-es.png" group-title="TEST_1",  DKISS
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5600.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/dmax-es.png" group-title="TEST_1",  DISCOVERY MAX
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5601.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/ESPRANZA_TV.png" group-title="TEST_1",  ESPERANZA TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5606.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/canal-extremadura-es.png" group-title="TEST_1",  EXTREMADURA TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5609.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/fox-es.png" group-title="TEST_1",  FOX
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5612.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/fox-life-es.png" group-title="TEST_1",  FOX LIFE
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5613.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/gol-es.png" group-title="TEST_1",  GOL TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5617.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/historia-es.png" group-title="TEST_1",  HISTORIA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5618.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/iberalia-tv-es.png" group-title="TEST_1",  IBERALIA TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5621.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Vamos.png" group-title="TEST_1",  M+ #VAMOS
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5630.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-accion-es.png" group-title="TEST_1",  M+ Acción
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5632.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-comedia-es.png" group-title="TEST_1",  M+ COMEDIA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5636.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-cine-espanol-es.png" group-title="TEST_1",  M+ Cine Español
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5633.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Clasicos.png" group-title="TEST_1",  M+ Clásicos
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5634.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-drama-es.png" group-title="TEST_1",  M+ DRAMA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5644.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Estrenos.png" group-title="TEST_1",  M+ ESTRENOS
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5645.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Estrenos2.png" group-title="TEST_1",  M+ ESTRENOS 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5646.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-series-es.png" group-title="TEST_1",  M+ SERIES
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5675.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Series_2.png" group-title="TEST_1",  M+ SERIES 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5673.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/canal-hollywood-es.png" group-title="TEST_1",  HOLLYWOOD
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5619.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/paramount-network-es.png" group-title="TEST_1",  PARAMOUNT CHANNEL
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5727.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/somos-es.png" group-title="TEST_1",  SOMOS
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5730.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/tnt-es.png" group-title="TEST_1",  TNT
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5739.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/tcm-es.png" group-title="TEST_1",  TCM
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5733.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1",  MOVISTAR ALQUILER 1 (MULTIAUDIO)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5690.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1",  MOVISTAR ALQUILER 2 (MULTIAUDIO)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5691.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1",  MOVISTAR ALQUILER 3 (MULTIAUDIO)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5692.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1",  MOVISTAR ALQUILER 4 (MULTIAUDIO)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5693.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1",  MOVISTAR ALQUILER 5 (MULTIAUDIO)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5694.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1",  MOVISTAR ALQUILER 6 (MULTIAUDIO)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5695.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1",  MOVISTAR ALQUILER 7 (MULTIAUDIO)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5696.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1",  MOVISTAR ALQUILER 8 (MULTIAUDIO)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5697.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1",  MOVISTAR ALQUILER 9 (MULTIAUDIO)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5698.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1",  MOVISTAR ALQUILER 10 (MULTIAUDIO)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5699.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1",  MOVISTAR ALQUILER 11 (MULTIAUDIO)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5764.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1",  MOVISTAR ALQUILER 12 (MULTIAUDIO)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5765.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1",  MOVISTAR ALQUILER 18 (MULTIAUDIO)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5771.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Action
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29311.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Action 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29312.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Box Office
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29313.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Box Office 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29314.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Comedy
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29315.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Discovery
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29317.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Drama
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29318.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Horror
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29319.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Horror 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29320.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Kids
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29321.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Kids 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29322.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Movies
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29323.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Movies 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29324.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Thriller
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29325.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1",  Netflix Thriller 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29326.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_1.png" group-title="TEST_1",  TAQUILLA 1
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29327.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_2.png" group-title="TEST_1",  TAQUILLA 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29328.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_3.png" group-title="TEST_1",  TAQUILLA 3
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29329.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_4.png" group-title="TEST_1",  TAQUILLA 4
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29330.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_5.png" group-title="TEST_1",  TAQUILLA 5
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29331.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_5.png" group-title="TEST_1",  TAQUILLA 6
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29332.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/mega-es.png" group-title="TEST_1",  MEGA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5688.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_cine_doc_roll.png" group-title="TEST_1",  MOVISTAR CINE DOC &AMP; ROLL
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5700.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Classica.png" group-title="TEST_1",  CLASSICA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5545.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/mezzo-live-hd-es.png" group-title="TEST_1",  MEZZO LIVE
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5689.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Fest.png" group-title="TEST_1",  M+ FEST
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5648.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/MTV_00s.png" group-title="TEST_1",  MTV 00s
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25941.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/mtv-es.png" group-title="TEST_1",  MTV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5712.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/vh1.png" group-title="TEST_1",  VH1
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5749.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/movistar-multideporte-es.png" group-title="TEST_1",  MULTI DEPORTE
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5713.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/national-geographic-es.png" group-title="TEST_1",  NAT GEO
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5714.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/national-geographic-wild-es.png" group-title="TEST_1",  NAT GEO WILD
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5715.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/neox-es.png" group-title="TEST_1",  NEOX
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5718.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/non_stop_people.png" group-title="TEST_1",  NON STOP PEOPLE
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5722.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/odisea-es.png" group-title="TEST_1",  ODISEA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5724.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/orbe21.png" group-title="TEST_1",  ORBE 21
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5725.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/canal-panda-es.png" group-title="TEST_1",  CANAL PANDA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5726.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/popular-tv-cantabria-es.png" group-title="TEST_1",  POPULAR TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5728.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/sundance-tv-es.png" group-title="TEST_1",  SUNDANCE
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5731.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/syfy-es.png" group-title="TEST_1",  SYFY
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5732.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/tele-madrid-es.png" group-title="TEST_1",  Telemadrid
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5736.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/ten-es.png" group-title="TEST_1",  TEN
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5738.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/toros-es.png" group-title="TEST_1",  TOROS
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5740.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/galicia-es.png" group-title="TEST_1",  TVG -TV Galicia
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5742.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/tv3-cat-es.png" group-title="TEST_1",  TV3 CAT
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5743.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/tveinternacionalamericai.png" group-title="TEST_1",  TVE INTERNACIONAL
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5745.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/xtrm-es.png" group-title="TEST_1",  XTRM
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5751.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/etb2-es.png" group-title="TEST_1",  ETB 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5759.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/etb1-es.png" group-title="TEST_1",  ETB 1
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5760.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="TEST_1",  PPV 1 (LIVE EVENT)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/24103.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="TEST_1",  PPV 2 (LIVE EVENT)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/24107.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="TEST_1",  PPV 3 (LIVE EVENT)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/24104.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="TEST_1",  PPV 4 (LIVE EVENT)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/24105.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="TEST_1",  PPV 5 (LIVE EVENT)
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/24106.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/CNN.png" group-title="TEST_1",  CNN
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25923.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/324.png" group-title="TEST_1",  324
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25924.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/A_Punt.png" group-title="TEST_1",  À Punt
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25925.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/AMC_Break.png" group-title="TEST_1",  AMC Break
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25926.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/AMC_Crime.png" group-title="TEST_1",  AMC Crime
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25927.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Beteve.png" group-title="TEST_1",  Betevé
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25928.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Castilla_la_Mancha_TV.png" group-title="TEST_1",  Castilla La Mancha Media
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25929.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/DARK.png" group-title="TEST_1",  DARK
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25930.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/El_Toro_TV.png" group-title="TEST_1",  El Toro TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25932.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Esport_3.png" group-title="TEST_1",  Esport 3 CAT
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25933.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/ETB_Basque.png" group-title="TEST_1",  EITB Basque
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25934.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Euronews.png" group-title="TEST_1",  Euronews
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25935.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/La_7.png" group-title="TEST_1",  La 7
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25937.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/La_Resistencia.png" group-title="TEST_1",  La Resistencia
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25938.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/La_Otra.png" group-title="TEST_1",  La Otra
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25939.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/M_Cracks.png" group-title="TEST_1",  M+ Cracks
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25940.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Sol_Musica.png" group-title="TEST_1",  Sol Music
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25942.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Telesur.png" group-title="TEST_1",  Telesur
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25943.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TVG_MUSIGAL.png" group-title="TEST_1",  TVG Musigal
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25944.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TVG_MOMENTOS_G.png" group-title="TEST_1",  TVG Momentos G
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25945.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TVG_Infantil.png" group-title="TEST_1",  TVG Infantil
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25946.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TVG_EVENTOS_G.png" group-title="TEST_1",  TVG Eventos 1
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25948.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TVG_EVENTOS_G.png" group-title="TEST_1",  TVG Eventos 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25947.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TVG_Cultura.png" group-title="TEST_1",  TVG Cultura
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25949.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TVG_america.png" group-title="TEST_1",  TVG América
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25950.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Ubeat.png" group-title="TEST_1",  Ubeat
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25951.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Atreseries.png" group-title="TEST_1",  Atreseries
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25952.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/LaLiga_SmartbankTV_M2.png" group-title="TEST_1",  M+ LaLiga Smartbank TV M2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25953.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/LaLiga_SmartbankTV_M3.png" group-title="TEST_1",  M+ LaLiga Smartbank TV M3
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/25954.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/25_TV.png" group-title="TEST_1",  25 TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29307.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Bailen_TV.png" group-title="TEST_1",  Bailen TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29308.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Garage_TV.png" group-title="TEST_1",  Garage TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29309.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Telesur_Madrid.png" group-title="TEST_1",  Telesur Madrid
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29310.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/CANAL_SUR_2.png" group-title="TEST_1",  CANAL SUR 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29334.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/vision6.png" group-title="TEST_1",  VISION 6
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29335.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TELE_ONUBA_TV.png" group-title="TEST_1",  TELE ONUBA TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29336.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/TELE_BILBAO.png" group-title="TEST_1",  TELE BILBAO
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29337.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/STAR_TVE.png" group-title="TEST_1",  STAR TVE
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29338.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/SOFY_TV.png" group-title="TEST_1",  SOFY TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29339.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/RAKUTEN.png" group-title="TEST_1",  RAKUTEN 1
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29343.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/RAKUTEN.png" group-title="TEST_1",  RAKUTEN 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29342.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/RAKUTEN_3.png" group-title="TEST_1",  RAKUTEN 3
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29341.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/PEQUERADIO_TV.png" group-title="TEST_1",  PEQUERADIO TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29344.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/PTV_SEVILLA.png" group-title="TEST_1",  PTV SEVILLA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29345.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/PTV_MALAGA.png" group-title="TEST_1",  PTV MÁLAGA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29346.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/PTV_GRANADA.png" group-title="TEST_1",  PTV GRANADA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29347.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/Onda_Algeciras_TV.png" group-title="TEST_1",  ONDA ALGECIRAS TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29348.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/NORTEVISION.png" group-title="TEST_1",  NORTEVISION
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29349.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/MYTIME_MOVIE_NETWORK.png" group-title="TEST_1",  MYTIME MOVIE NETWORK
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29350.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/MOLAHITS_TV.png" group-title="TEST_1",  MOLAHITS TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29351.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/INTERALMERIA.png" group-title="TEST_1",  INTERALMERÍA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29352.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/IMAS_TV.png" group-title="TEST_1",  IMÁS TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29353.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/HISPAN_TV.png" group-title="TEST_1",  HISPAN TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29354.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/DW_EN_ESPANOL.png" group-title="TEST_1",  DW EN ESPAÑOL
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29356.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/COMEDY_DYNAMICS.png" group-title="TEST_1",  COMEDY DYNAMICS
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29357.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/CAZAVISION.png" group-title="TEST_1",  CAZAVISIÓN
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29358.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/CANAL_DE_LAS_ESTRELLAS.png" group-title="TEST_1",  CANAL DE LAS ESTRELLAS
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29359.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/7-television-region-de-murcia-es.png" group-title="TEST_1",  7 TV REGION MURCIA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/5548.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/canalmalaga.png" group-title="TEST_1",  CANAL MALAGA
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29661.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/bon_dia_tv.png" group-title="TEST_1",  BON DIA TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29663.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/alcarria_tv.png" group-title="TEST_1",  ALCARRIA TV
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29664.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/ALERTA_POLICIA.png" group-title="TEST_1",  091 ALERTA POLICIA 24/7
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29665.ts
+#EXTINF:-1  tvg-logo="https://docdog.top/logo/countries/spain/canal_diocesano.png" group-title="TEST_1",  CANAL DIOCESANO TOLEDO
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/29666.ts
+#EXTINF:-1  tvg-logo="" group-title="TEST_1",  Movistar Estrenos
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/56088.ts
+#EXTINF:-1  tvg-logo="" group-title="TEST_1",  Movistar Estrenos 2
+http://test.pikademon.cfd:8080/live/4431685271732666/9481685271732666/56089.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="Servidor3",LA 1
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94000
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="Servidor3",LA 2
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94001
-#EXTINF:-1 tvg-logo=" https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="Servidor3",ANTENA 3
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94002
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Servidor3",CUATRO
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94003
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="Servidor3",TELECINCO
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94004
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Servidor3",LA SEXTA
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94005
-#EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" group-title="Servidor3",FDF
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94024
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="Servidor3",NEOX
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94025
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" group-title="Servidor3",ENERGY
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94022
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" group-title="Servidor3",MEGA
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94062
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="Servidor3",ATRESERIES
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94026
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA"group-title="Servidor3", Nova
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94061
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="Servidor3",DIVINITY
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94060
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="Servidor3",BE MAD
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94063
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/448px-DKiss.svg.png" group-title="Servidor3",DKISS
-http://45.141.194.9:9000/play/a00o/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="Servidor3",DMAX
-http://45.141.194.9:9000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2018/01/movistar-oscar-715x374.jpg" group-title="Servidor3",MOVISTAR SuperAgentes
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94027
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_La_Resistencia.png/640px-Logo_La_Resistencia.png" group-title="Servidor3",MOVISTAR La Resistencia
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94023
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Servidor3",M. ESTRENOS
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94028
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="Servidor3",M. ESTRENOS 2
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94029
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Servidor3",M. CLASICOS
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94030
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="Servidor3",M. ACCION
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94031
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Servidor3",M. COMEDIA
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94032
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Servidor3",M. DRAMA
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94033
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Servidor3",M. CINE Ñ
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94034
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Servidor3", M. FEST
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94035
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor3",M. SERIES
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94011
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor3",M. SERIES 2
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94012
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC" group-title="Servidor3", Canal Cocina
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94059
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA" group-title="Servidor3"group-title="Servidor3", Canal Decasa
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94058
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="Servidor3"group-title="Servidor3",CANAL Enfamilia
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94070
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor3",AMC BREAK
-http://45.141.194.9:9000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Servidor3",FOX
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94013
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="Servidor3",AXN
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94014
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Servidor3",AXN WHITE
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94020
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Servidor3",WARNER TV
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94015
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="Servidor3",COMEDY CENTRAL
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94016
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Servidor3",CALLE 13
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94017
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="Servidor3",COSMO
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94018
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor3",AMC
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94019
-#EXTINF:-1 tvg-logo="https://www.contenidostv.es/media/k2/items/cache/052250dc50138371fd04f19c188f0143_XL.jpg" group-title="Servidor3",XTRM
-http://45.141.194.9:9000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Servidor3",SYFY
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94021
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="Servidor3",TCM
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94036
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Servidor3",HOLLYWOOD
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94037
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="Servidor3",SUNDANCE
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94038
-#EXTINF:-1 tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" group-title="Servidor3",DARK
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94039
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="Servidor3",PARAMOUNT CHANNEL
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94040
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="Servidor3",NATIONAL GEOGRAPHIC
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94052
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Servidor3",NAT GEO WILD
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94053
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" group-title="Servidor3",HISTORIA
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94054
-#EXTINF:-1 tvg-logo="https://www.tradingpedia.com/wp-content/uploads/2017/01/discovery-channel.png" group-title="Servidor3",DISCOVERY CHANNEL
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94055
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="Servidor3",ODISEA
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94056
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Servidor3",AMC CRIME
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94057
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="Servidor3",SOMOS
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94077
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png" group-title="Servidor3",#0
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94006
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png" group-title="Servidor3",#VAMOS
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94007
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Servidor3",M. LA LIGA
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94041
-#EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Servidor3",M. DEPORTES
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94043
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7a/ca/6f/7aca6ffec719da865eb46d6aaf8741ed.jpg" group-title="Servidor3",M. DAZN 1
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94046
-#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.jpg" group-title="Servidor3",M. DAZN 2
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94047
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor3",M. DAZN 3
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94088
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor3",M. DAZN 4
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94089
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Servidor3",DAZN F1
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94045
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Servidor3",4-M. CAMPEONES
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94042
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="Servidor3",M. GOLF
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94044
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Servidor3",EUROSPORT 1
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94048
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Servidor3",EUROSPORT 2
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94049
-#EXTINF:-1 tvg-logo="https://www.noticanarias.com/wp-content/uploads/2020/06/Logo-GOL.jpg" group-title="Servidor3",GOL TV
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94050
-#EXTINF:-1 tvg-logo="http://storage.anacondatv.me/logos/spain/Caza_y_Pesca.jpg" group-title="Servidor3",CAZA Y PESCA
-http://45.141.194.9:9000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="Servidor3",IBERALIA 100% CAZA
-http://45.141.194.9:9000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Servidor3",MUNDOTORO HD
-http://lamejor.selfip.org:8000/IvanPerla/Mu6xXXpefL/1052
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor3", MTV 00s
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94078
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor3", MTV 00s
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94079
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD"group-title="Servidor3", Telemadrid
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94010
-#EXTINF:-8 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/LaOtra_logo_2005_rojo.gif/revision/latest?cb=20110815001554"group-title="Servidor3", La Otra
-http://45.141.194.9:9000/play/a02j/index.m3u8
-#EXTINF:-11 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/8madrid.png?w=96&h=72&tok=0d4545"group-title="Servidor3", 8 Madrid
-http://45.141.194.9:9000/play/a027/index.m3u8
-#EXTINF:-10 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CASMAN.png"group-title="Servidor3", Castilla La Mancha TV
-http://45.141.194.9:9000/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM"group-title="Servidor3", Canal Extremadura Sat
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94085
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV"group-title="Servidor3", Canal Sur Andalucia
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94008
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON"group-title="Servidor3", Aragon TV Int
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94087
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL"group-title="Servidor3", TVG -TV Galicia
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94084
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/702/13/png-transparent-nickelodeon-logo-wikipedia-logo-nickelodeon-movies-speechlanguage-pathology-nickelodeon-splat-orange-text-line.png" group-title="Servidor3",NICKELODEON
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94072
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor3",Disney Channel
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94074
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor3",Disney Channel
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94069
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="Servidor3",DREAMWORKS
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94073
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="Servidor3",Nick Jr
-http://germanydnsx13.com:8080/nusretkinaci/shUkqEsy/94071
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="Servidor4",LA 1
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94000
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="Servidor4",LA 2
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94001
-#EXTINF:-1 tvg-logo=" https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="Servidor4",ANTENA 3
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94002
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Servidor4",CUATRO
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94003
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="Servidor4",TELECINCO
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94004
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Servidor4",LA SEXTA
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94005
-#EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" group-title="Servidor4",FDF
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94024
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="Servidor4",NEOX
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94025
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" group-title="Servidor4",ENERGY
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94022
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" group-title="Servidor4",MEGA
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94062
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="Servidor4",ATRESERIES
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94026
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA"group-title="Servidor4", Nova
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94061
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="Servidor4",DIVINITY
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94060
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="Servidor4",BE MAD
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94063
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/448px-DKiss.svg.png" group-title="Servidor4",DKISS
-http://45.141.194.9:9000/play/a00o/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="Servidor4",DMAX
-http://45.141.194.9:9000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2018/01/movistar-oscar-715x374.jpg" group-title="Servidor4",MOVISTAR SuperAgentes
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94027
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_La_Resistencia.png/640px-Logo_La_Resistencia.png" group-title="Servidor4",MOVISTAR La Resistencia
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94023
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Servidor4",M. ESTRENOS
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94028
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="Servidor4",M. ESTRENOS 2
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94029
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Servidor4",M. CLASICOS
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94030
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="Servidor4",M. ACCION
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94031
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Servidor4",M. COMEDIA
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94032
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Servidor4",M. DRAMA
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94033
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Servidor4",M. CINE Ñ
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94034
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Servidor4", M. FEST
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94035
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor4",M. SERIES
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94011
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor4",M. SERIES 2
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94012
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC" group-title="Servidor4", Canal Cocina
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94059
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA" group-title="Servidor4"group-title="Servidor4", Canal Decasa
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94058
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="Servidor4"group-title="Servidor4",CANAL Enfamilia
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94070
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor4",AMC BREAK
-http://45.141.194.9:9000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Servidor4",FOX
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94013
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="Servidor4",AXN
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94014
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Servidor4",AXN WHITE
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94020
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Servidor4",WARNER TV
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94015
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="Servidor4",COMEDY CENTRAL
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94016
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Servidor4",CALLE 13
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94017
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="Servidor4",COSMO
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94018
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor4",AMC
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94019
-#EXTINF:-1 tvg-logo="https://www.contenidostv.es/media/k2/items/cache/052250dc50138371fd04f19c188f0143_XL.jpg" group-title="Servidor4",XTRM
-http://45.141.194.9:9000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Servidor4",SYFY
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94021
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="Servidor4",TCM
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94036
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Servidor4",HOLLYWOOD
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94037
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="Servidor4",SUNDANCE
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94038
-#EXTINF:-1 tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" group-title="Servidor4",DARK
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94039
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="Servidor4",PARAMOUNT CHANNEL
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94040
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="Servidor4",NATIONAL GEOGRAPHIC
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94052
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Servidor4",NAT GEO WILD
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94053
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" group-title="Servidor4",HISTORIA
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94054
-#EXTINF:-1 tvg-logo="https://www.tradingpedia.com/wp-content/uploads/2017/01/discovery-channel.png" group-title="Servidor4",DISCOVERY CHANNEL
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94055
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="Servidor4",ODISEA
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94056
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Servidor4",AMC CRIME
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94057
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="Servidor4",SOMOS
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94077
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png" group-title="Servidor4",#0
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94006
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png" group-title="Servidor4",#VAMOS
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94007
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Servidor4",M. LA LIGA
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94041
-#EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Servidor4",M. DEPORTES
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94043
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7a/ca/6f/7aca6ffec719da865eb46d6aaf8741ed.jpg" group-title="Servidor4",M. DAZN 1
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94046
-#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.jpg" group-title="Servidor4",M. DAZN 2
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94047
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor4",M. DAZN 3
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94088
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor4",M. DAZN 4
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94089
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Servidor4",DAZN F1
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94045
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Servidor4",4-M. CAMPEONES
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94042
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="Servidor4",M. GOLF
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94044
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Servidor4",EUROSPORT 1
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94048
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Servidor4",EUROSPORT 2
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94049
-#EXTINF:-1 tvg-logo="https://www.noticanarias.com/wp-content/uploads/2020/06/Logo-GOL.jpg" group-title="Servidor4",GOL TV
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94050
-#EXTINF:-1 tvg-logo="http://storage.anacondatv.me/logos/spain/Caza_y_Pesca.jpg" group-title="Servidor4",CAZA Y PESCA
-http://45.141.194.9:9000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="Servidor4",IBERALIA 100% CAZA
-http://45.141.194.9:9000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Servidor4",MUNDOTORO HD
-http://lamejor.selfip.org:8000/IvanPerla/Mu6xXXpefL/1052
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor4", MTV 00s
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94078
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor4", MTV 00s
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94079
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD"group-title="Servidor4", Telemadrid
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94010
-#EXTINF:-8 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/LaOtra_logo_2005_rojo.gif/revision/latest?cb=20110815001554"group-title="Servidor4", La Otra
-http://45.141.194.9:9000/play/a02j/index.m3u8
-#EXTINF:-11 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/8madrid.png?w=96&h=72&tok=0d4545"group-title="Servidor4", 8 Madrid
-http://45.141.194.9:9000/play/a027/index.m3u8
-#EXTINF:-10 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CASMAN.png"group-title="Servidor4", Castilla La Mancha TV
-http://45.141.194.9:9000/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM"group-title="Servidor4", Canal Extremadura Sat
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94085
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV"group-title="Servidor4", Canal Sur Andalucia
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94008
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON"group-title="Servidor4", Aragon TV Int
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94087
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL"group-title="Servidor4", TVG -TV Galicia
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94084
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/702/13/png-transparent-nickelodeon-logo-wikipedia-logo-nickelodeon-movies-speechlanguage-pathology-nickelodeon-splat-orange-text-line.png" group-title="Servidor4",NICKELODEON
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94072
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor4",Disney Channel
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94074
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor4",Disney Channel
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94069
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="Servidor4",DREAMWORKS
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94073
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="Servidor4",Nick Jr
-http://germanydnsx13.com:8080/ismailar/1021Zcr1021/94071
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="Servidor5",LA 1
-http://germanydnsx13.com:8080/furkan12/12furkan/94000
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="Servidor5",LA 2
-http://germanydnsx13.com:8080/furkan12/12furkan/94001
-#EXTINF:-1 tvg-logo=" https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="Servidor5",ANTENA 3
-http://germanydnsx13.com:8080/furkan12/12furkan/94002
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Servidor5",CUATRO
-http://germanydnsx13.com:8080/furkan12/12furkan/94003
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="Servidor5",TELECINCO
-http://germanydnsx13.com:8080/furkan12/12furkan/94004
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Servidor5",LA SEXTA
-http://germanydnsx13.com:8080/furkan12/12furkan/94005
-#EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" group-title="Servidor5",FDF
-http://germanydnsx13.com:8080/furkan12/12furkan/94024
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="Servidor5",NEOX
-http://germanydnsx13.com:8080/furkan12/12furkan/94025
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" group-title="Servidor5",ENERGY
-http://germanydnsx13.com:8080/furkan12/12furkan/94022
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" group-title="Servidor5",MEGA
-http://germanydnsx13.com:8080/furkan12/12furkan/94062
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="Servidor5",ATRESERIES
-http://germanydnsx13.com:8080/furkan12/12furkan/94026
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA"group-title="Servidor5", Nova
-http://germanydnsx13.com:8080/furkan12/12furkan/94061
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="Servidor5",DIVINITY
-http://germanydnsx13.com:8080/furkan12/12furkan/94060
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="Servidor5",BE MAD
-http://germanydnsx13.com:8080/furkan12/12furkan/94063
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/448px-DKiss.svg.png" group-title="Servidor5",DKISS
-http://45.141.194.9:9000/play/a00o/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="Servidor5",DMAX
-http://45.141.194.9:9000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2018/01/movistar-oscar-715x374.jpg" group-title="Servidor5",MOVISTAR SuperAgentes
-http://germanydnsx13.com:8080/furkan12/12furkan/94027
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_La_Resistencia.png/640px-Logo_La_Resistencia.png" group-title="Servidor5",MOVISTAR La Resistencia
-http://germanydnsx13.com:8080/furkan12/12furkan/94023
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Servidor5",M. ESTRENOS
-http://germanydnsx13.com:8080/furkan12/12furkan/94028
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="Servidor5",M. ESTRENOS 2
-http://germanydnsx13.com:8080/furkan12/12furkan/94029
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Servidor5",M. CLASICOS
-http://germanydnsx13.com:8080/furkan12/12furkan/94030
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="Servidor5",M. ACCION
-http://germanydnsx13.com:8080/furkan12/12furkan/94031
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Servidor5",M. COMEDIA
-http://germanydnsx13.com:8080/furkan12/12furkan/94032
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Servidor5",M. DRAMA
-http://germanydnsx13.com:8080/furkan12/12furkan/94033
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Servidor5",M. CINE Ñ
-http://germanydnsx13.com:8080/furkan12/12furkan/94034
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Servidor5", M. FEST
-http://germanydnsx13.com:8080/furkan12/12furkan/94035
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor5",M. SERIES
-http://germanydnsx13.com:8080/furkan12/12furkan/94011
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor5",M. SERIES 2
-http://germanydnsx13.com:8080/furkan12/12furkan/94012
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC" group-title="Servidor5", Canal Cocina
-http://germanydnsx13.com:8080/furkan12/12furkan/94059
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA" group-title="Servidor5"group-title="Servidor5", Canal Decasa
-http://germanydnsx13.com:8080/furkan12/12furkan/94058
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="Servidor5"group-title="Servidor5",CANAL Enfamilia
-http://germanydnsx13.com:8080/furkan12/12furkan/94070
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor5",AMC BREAK
-http://45.141.194.9:9000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Servidor5",FOX
-http://germanydnsx13.com:8080/furkan12/12furkan/94013
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="Servidor5",AXN
-http://germanydnsx13.com:8080/furkan12/12furkan/94014
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Servidor5",AXN WHITE
-http://germanydnsx13.com:8080/furkan12/12furkan/94020
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Servidor5",WARNER TV
-http://germanydnsx13.com:8080/furkan12/12furkan/94015
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="Servidor5",COMEDY CENTRAL
-http://germanydnsx13.com:8080/furkan12/12furkan/94016
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Servidor5",CALLE 13
-http://germanydnsx13.com:8080/furkan12/12furkan/94017
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="Servidor5",COSMO
-http://germanydnsx13.com:8080/furkan12/12furkan/94018
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor5",AMC
-http://germanydnsx13.com:8080/furkan12/12furkan/94019
-#EXTINF:-1 tvg-logo="https://www.contenidostv.es/media/k2/items/cache/052250dc50138371fd04f19c188f0143_XL.jpg" group-title="Servidor5",XTRM
-http://45.141.194.9:9000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Servidor5",SYFY
-http://germanydnsx13.com:8080/furkan12/12furkan/94021
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="Servidor5",TCM
-http://germanydnsx13.com:8080/furkan12/12furkan/94036
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Servidor5",HOLLYWOOD
-http://germanydnsx13.com:8080/furkan12/12furkan/94037
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="Servidor5",SUNDANCE
-http://germanydnsx13.com:8080/furkan12/12furkan/94038
-#EXTINF:-1 tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" group-title="Servidor5",DARK
-http://germanydnsx13.com:8080/furkan12/12furkan/94039
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="Servidor5",PARAMOUNT CHANNEL
-http://germanydnsx13.com:8080/furkan12/12furkan/94040
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="Servidor5",NATIONAL GEOGRAPHIC
-http://germanydnsx13.com:8080/furkan12/12furkan/94052
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Servidor5",NAT GEO WILD
-http://germanydnsx13.com:8080/furkan12/12furkan/94053
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" group-title="Servidor5",HISTORIA
-http://germanydnsx13.com:8080/furkan12/12furkan/94054
-#EXTINF:-1 tvg-logo="https://www.tradingpedia.com/wp-content/uploads/2017/01/discovery-channel.png" group-title="Servidor5",DISCOVERY CHANNEL
-http://germanydnsx13.com:8080/furkan12/12furkan/94055
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="Servidor5",ODISEA
-http://germanydnsx13.com:8080/furkan12/12furkan/94056
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Servidor5",AMC CRIME
-http://germanydnsx13.com:8080/furkan12/12furkan/94057
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="Servidor5",SOMOS
-http://germanydnsx13.com:8080/furkan12/12furkan/94077
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png" group-title="Servidor5",#0
-http://germanydnsx13.com:8080/furkan12/12furkan/94006
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png" group-title="Servidor5",#VAMOS
-http://germanydnsx13.com:8080/furkan12/12furkan/94007
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Servidor5",M. LA LIGA
-http://germanydnsx13.com:8080/furkan12/12furkan/94041
-#EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Servidor5",M. DEPORTES
-http://germanydnsx13.com:8080/furkan12/12furkan/94043
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7a/ca/6f/7aca6ffec719da865eb46d6aaf8741ed.jpg" group-title="Servidor5",M. DAZN 1
-http://germanydnsx13.com:8080/furkan12/12furkan/94046
-#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.jpg" group-title="Servidor5",M. DAZN 2
-http://germanydnsx13.com:8080/furkan12/12furkan/94047
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor5",M. DAZN 3
-http://germanydnsx13.com:8080/furkan12/12furkan/94088
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor5",M. DAZN 4
-http://germanydnsx13.com:8080/furkan12/12furkan/94089
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Servidor5",DAZN F1
-http://germanydnsx13.com:8080/furkan12/12furkan/94045
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Servidor5",4-M. CAMPEONES
-http://germanydnsx13.com:8080/furkan12/12furkan/94042
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="Servidor5",M. GOLF
-http://germanydnsx13.com:8080/furkan12/12furkan/94044
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Servidor5",EUROSPORT 1
-http://germanydnsx13.com:8080/furkan12/12furkan/94048
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Servidor5",EUROSPORT 2
-http://germanydnsx13.com:8080/furkan12/12furkan/94049
-#EXTINF:-1 tvg-logo="https://www.noticanarias.com/wp-content/uploads/2020/06/Logo-GOL.jpg" group-title="Servidor5",GOL TV
-http://germanydnsx13.com:8080/furkan12/12furkan/94050
-#EXTINF:-1 tvg-logo="http://storage.anacondatv.me/logos/spain/Caza_y_Pesca.jpg" group-title="Servidor5",CAZA Y PESCA
-http://45.141.194.9:9000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="Servidor5",IBERALIA 100% CAZA
-http://45.141.194.9:9000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Servidor5",MUNDOTORO HD
-http://lamejor.selfip.org:8000/IvanPerla/Mu6xXXpefL/1052
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor5", MTV 00s
-http://germanydnsx13.com:8080/furkan12/12furkan/94078
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor5", MTV 00s
-http://germanydnsx13.com:8080/furkan12/12furkan/94079
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD"group-title="Servidor5", Telemadrid
-http://germanydnsx13.com:8080/furkan12/12furkan/94010
-#EXTINF:-8 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/LaOtra_logo_2005_rojo.gif/revision/latest?cb=20110815001554"group-title="Servidor5", La Otra
-http://45.141.194.9:9000/play/a02j/index.m3u8
-#EXTINF:-11 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/8madrid.png?w=96&h=72&tok=0d4545"group-title="Servidor5", 8 Madrid
-http://45.141.194.9:9000/play/a027/index.m3u8
-#EXTINF:-10 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CASMAN.png"group-title="Servidor5", Castilla La Mancha TV
-http://45.141.194.9:9000/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM"group-title="Servidor5", Canal Extremadura Sat
-http://germanydnsx13.com:8080/furkan12/12furkan/94085
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV"group-title="Servidor5", Canal Sur Andalucia
-http://germanydnsx13.com:8080/furkan12/12furkan/94008
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON"group-title="Servidor5", Aragon TV Int
-http://germanydnsx13.com:8080/furkan12/12furkan/94087
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL"group-title="Servidor5", TVG -TV Galicia
-http://germanydnsx13.com:8080/furkan12/12furkan/94084
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/702/13/png-transparent-nickelodeon-logo-wikipedia-logo-nickelodeon-movies-speechlanguage-pathology-nickelodeon-splat-orange-text-line.png" group-title="Servidor5",NICKELODEON
-http://germanydnsx13.com:8080/furkan12/12furkan/94072
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor5",Disney Channel
-http://germanydnsx13.com:8080/furkan12/12furkan/94074
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor5",Disney Channel
-http://germanydnsx13.com:8080/furkan12/12furkan/94069
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="Servidor5",DREAMWORKS
-http://germanydnsx13.com:8080/furkan12/12furkan/94073
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="Servidor5",Nick Jr
-http://germanydnsx13.com:8080/furkan12/12furkan/94071
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="Servidor6",LA 1
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94000
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="Servidor6",LA 2
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94001
-#EXTINF:-1 tvg-logo=" https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="Servidor6",ANTENA 3
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94002
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Servidor6",CUATRO
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94003
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="Servidor6",TELECINCO
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94004
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Servidor6",LA SEXTA
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94005
-#EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" group-title="Servidor6",FDF
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94024
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="Servidor6",NEOX
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94025
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" group-title="Servidor6",ENERGY
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94022
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" group-title="Servidor6",MEGA
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94062
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="Servidor6",ATRESERIES
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94026
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA"group-title="Servidor6", Nova
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94061
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="Servidor6",DIVINITY
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94060
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="Servidor6",BE MAD
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94063
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/448px-DKiss.svg.png" group-title="Servidor6",DKISS
-http://45.141.194.9:9000/play/a00o/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="Servidor6",DMAX
-http://45.141.194.9:9000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2018/01/movistar-oscar-715x374.jpg" group-title="Servidor6",MOVISTAR SuperAgentes
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94027
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_La_Resistencia.png/640px-Logo_La_Resistencia.png" group-title="Servidor6",MOVISTAR La Resistencia
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94023
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Servidor6",M. ESTRENOS
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94028
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="Servidor6",M. ESTRENOS 2
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94029
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Servidor6",M. CLASICOS
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94030
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="Servidor6",M. ACCION
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94031
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Servidor6",M. COMEDIA
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94032
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Servidor6",M. DRAMA
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94033
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Servidor6",M. CINE Ñ
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94034
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Servidor6", M. FEST
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94035
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor6",M. SERIES
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94011
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor6",M. SERIES 2
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94012
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC" group-title="Servidor6", Canal Cocina
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94059
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA" group-title="Servidor6"group-title="Servidor6", Canal Decasa
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94058
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="Servidor6"group-title="Servidor6",CANAL Enfamilia
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94070
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor6",AMC BREAK
-http://45.141.194.9:9000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Servidor6",FOX
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94013
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="Servidor6",AXN
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94014
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Servidor6",AXN WHITE
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94020
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Servidor6",WARNER TV
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94015
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="Servidor6",COMEDY CENTRAL
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94016
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Servidor6",CALLE 13
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94017
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="Servidor6",COSMO
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94018
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor6",AMC
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94019
-#EXTINF:-1 tvg-logo="https://www.contenidostv.es/media/k2/items/cache/052250dc50138371fd04f19c188f0143_XL.jpg" group-title="Servidor6",XTRM
-http://45.141.194.9:9000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Servidor6",SYFY
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94021
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="Servidor6",TCM
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94036
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Servidor6",HOLLYWOOD
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94037
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="Servidor6",SUNDANCE
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94038
-#EXTINF:-1 tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" group-title="Servidor6",DARK
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94039
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="Servidor6",PARAMOUNT CHANNEL
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94040
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="Servidor6",NATIONAL GEOGRAPHIC
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94052
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Servidor6",NAT GEO WILD
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94053
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" group-title="Servidor6",HISTORIA
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94054
-#EXTINF:-1 tvg-logo="https://www.tradingpedia.com/wp-content/uploads/2017/01/discovery-channel.png" group-title="Servidor6",DISCOVERY CHANNEL
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94055
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="Servidor6",ODISEA
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94056
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Servidor6",AMC CRIME
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94057
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="Servidor6",SOMOS
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94077
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png" group-title="Servidor6",#0
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94006
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png" group-title="Servidor6",#VAMOS
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94007
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Servidor6",M. LA LIGA
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94041
-#EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Servidor6",M. DEPORTES
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94043
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7a/ca/6f/7aca6ffec719da865eb46d6aaf8741ed.jpg" group-title="Servidor6",M. DAZN 1
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94046
-#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.jpg" group-title="Servidor6",M. DAZN 2
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94047
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor6",M. DAZN 3
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94088
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor6",M. DAZN 4
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94089
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Servidor6",DAZN F1
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94045
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Servidor6",4-M. CAMPEONES
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94042
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="Servidor6",M. GOLF
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94044
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Servidor6",EUROSPORT 1
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94048
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Servidor6",EUROSPORT 2
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94049
-#EXTINF:-1 tvg-logo="https://www.noticanarias.com/wp-content/uploads/2020/06/Logo-GOL.jpg" group-title="Servidor6",GOL TV
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94050
-#EXTINF:-1 tvg-logo="http://storage.anacondatv.me/logos/spain/Caza_y_Pesca.jpg" group-title="Servidor6",CAZA Y PESCA
-http://45.141.194.9:9000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="Servidor6",IBERALIA 100% CAZA
-http://45.141.194.9:9000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Servidor6",MUNDOTORO HD
-http://lamejor.selfip.org:8000/IvanPerla/Mu6xXXpefL/1052
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor6", MTV 00s
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94078
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor6", MTV 00s
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94079
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD"group-title="Servidor6", Telemadrid
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94010
-#EXTINF:-8 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/LaOtra_logo_2005_rojo.gif/revision/latest?cb=20110815001554"group-title="Servidor6", La Otra
-http://45.141.194.9:9000/play/a02j/index.m3u8
-#EXTINF:-11 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/8madrid.png?w=96&h=72&tok=0d4545"group-title="Servidor6", 8 Madrid
-http://45.141.194.9:9000/play/a027/index.m3u8
-#EXTINF:-10 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CASMAN.png"group-title="Servidor6", Castilla La Mancha TV
-http://45.141.194.9:9000/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM"group-title="Servidor6", Canal Extremadura Sat
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94085
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV"group-title="Servidor6", Canal Sur Andalucia
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94008
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON"group-title="Servidor6", Aragon TV Int
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94087
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL"group-title="Servidor6", TVG -TV Galicia
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94084
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/702/13/png-transparent-nickelodeon-logo-wikipedia-logo-nickelodeon-movies-speechlanguage-pathology-nickelodeon-splat-orange-text-line.png" group-title="Servidor6",NICKELODEON
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94072
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor6",Disney Channel
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94074
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor6",Disney Channel
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94069
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="Servidor6",DREAMWORKS
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94073
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="Servidor6",Nick Jr
-http://germanydnsx13.com:8080/dvtsntrk/Dvtsntrk8654/94071
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="Servidor7",LA 1
-http://germanydnsx13.com:8080/celal123/123celal/94000
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="Servidor7",LA 2
-http://germanydnsx13.com:8080/celal123/123celal/94001
-#EXTINF:-1 tvg-logo=" https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="Servidor7",ANTENA 3
-http://germanydnsx13.com:8080/celal123/123celal/94002
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Servidor7",CUATRO
-http://germanydnsx13.com:8080/celal123/123celal/94003
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="Servidor7",TELECINCO
-http://germanydnsx13.com:8080/celal123/123celal/94004
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Servidor7",LA SEXTA
-http://germanydnsx13.com:8080/celal123/123celal/94005
-#EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" group-title="Servidor7",FDF
-http://germanydnsx13.com:8080/celal123/123celal/94024
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="Servidor7",NEOX
-http://germanydnsx13.com:8080/celal123/123celal/94025
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" group-title="Servidor7",ENERGY
-http://germanydnsx13.com:8080/celal123/123celal/94022
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" group-title="Servidor7",MEGA
-http://germanydnsx13.com:8080/celal123/123celal/94062
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="Servidor7",ATRESERIES
-http://germanydnsx13.com:8080/celal123/123celal/94026
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA"group-title="Servidor7", Nova
-http://germanydnsx13.com:8080/celal123/123celal/94061
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="Servidor7",DIVINITY
-http://germanydnsx13.com:8080/celal123/123celal/94060
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="Servidor7",BE MAD
-http://germanydnsx13.com:8080/celal123/123celal/94063
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/448px-DKiss.svg.png" group-title="Servidor7",DKISS
-http://45.141.194.9:9000/play/a00o/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="Servidor7",DMAX
-http://45.141.194.9:9000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2018/01/movistar-oscar-715x374.jpg" group-title="Servidor7",MOVISTAR SuperAgentes
-http://germanydnsx13.com:8080/celal123/123celal/94027
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_La_Resistencia.png/640px-Logo_La_Resistencia.png" group-title="Servidor7",MOVISTAR La Resistencia
-http://germanydnsx13.com:8080/celal123/123celal/94023
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Servidor7",M. ESTRENOS
-http://germanydnsx13.com:8080/celal123/123celal/94028
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="Servidor7",M. ESTRENOS 2
-http://germanydnsx13.com:8080/celal123/123celal/94029
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Servidor7",M. CLASICOS
-http://germanydnsx13.com:8080/celal123/123celal/94030
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="Servidor7",M. ACCION
-http://germanydnsx13.com:8080/celal123/123celal/94031
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="Servidor7",M. COMEDIA
-http://germanydnsx13.com:8080/celal123/123celal/94032
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="Servidor7",M. DRAMA
-http://germanydnsx13.com:8080/celal123/123celal/94033
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Servidor7",M. CINE Ñ
-http://germanydnsx13.com:8080/celal123/123celal/94034
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Servidor7", M. FEST
-http://germanydnsx13.com:8080/celal123/123celal/94035
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor7",M. SERIES
-http://germanydnsx13.com:8080/celal123/123celal/94011
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="Servidor7",M. SERIES 2
-http://germanydnsx13.com:8080/celal123/123celal/94012
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC" group-title="Servidor7", Canal Cocina
-http://germanydnsx13.com:8080/celal123/123celal/94059
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA" group-title="Servidor7"group-title="Servidor7", Canal Decasa
-http://germanydnsx13.com:8080/celal123/123celal/94058
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="Servidor7"group-title="Servidor7",CANAL Enfamilia
-http://germanydnsx13.com:8080/celal123/123celal/94070
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor7",AMC BREAK
-http://45.141.194.9:9000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Servidor7",FOX
-http://germanydnsx13.com:8080/celal123/123celal/94013
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="Servidor7",AXN
-http://germanydnsx13.com:8080/celal123/123celal/94014
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="Servidor7",AXN WHITE
-http://germanydnsx13.com:8080/celal123/123celal/94020
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Servidor7",WARNER TV
-http://germanydnsx13.com:8080/celal123/123celal/94015
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="Servidor7",COMEDY CENTRAL
-http://germanydnsx13.com:8080/celal123/123celal/94016
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Servidor7",CALLE 13
-http://germanydnsx13.com:8080/celal123/123celal/94017
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="Servidor7",COSMO
-http://germanydnsx13.com:8080/celal123/123celal/94018
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Servidor7",AMC
-http://germanydnsx13.com:8080/celal123/123celal/94019
-#EXTINF:-1 tvg-logo="https://www.contenidostv.es/media/k2/items/cache/052250dc50138371fd04f19c188f0143_XL.jpg" group-title="Servidor7",XTRM
-http://45.141.194.9:9000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="Servidor7",SYFY
-http://germanydnsx13.com:8080/celal123/123celal/94021
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="Servidor7",TCM
-http://germanydnsx13.com:8080/celal123/123celal/94036
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="Servidor7",HOLLYWOOD
-http://germanydnsx13.com:8080/celal123/123celal/94037
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="Servidor7",SUNDANCE
-http://germanydnsx13.com:8080/celal123/123celal/94038
-#EXTINF:-1 tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" group-title="Servidor7",DARK
-http://germanydnsx13.com:8080/celal123/123celal/94039
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="Servidor7",PARAMOUNT CHANNEL
-http://germanydnsx13.com:8080/celal123/123celal/94040
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="Servidor7",NATIONAL GEOGRAPHIC
-http://germanydnsx13.com:8080/celal123/123celal/94052
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="Servidor7",NAT GEO WILD
-http://germanydnsx13.com:8080/celal123/123celal/94053
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" group-title="Servidor7",HISTORIA
-http://germanydnsx13.com:8080/celal123/123celal/94054
-#EXTINF:-1 tvg-logo="https://www.tradingpedia.com/wp-content/uploads/2017/01/discovery-channel.png" group-title="Servidor7",DISCOVERY CHANNEL
-http://germanydnsx13.com:8080/celal123/123celal/94055
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="Servidor7",ODISEA
-http://germanydnsx13.com:8080/celal123/123celal/94056
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Servidor7",AMC CRIME
-http://germanydnsx13.com:8080/celal123/123celal/94057
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="Servidor7",SOMOS
-http://germanydnsx13.com:8080/celal123/123celal/94077
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png" group-title="Servidor7",#0
-http://germanydnsx13.com:8080/celal123/123celal/94006
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png" group-title="Servidor7",#VAMOS
-http://germanydnsx13.com:8080/celal123/123celal/94007
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Servidor7",M. LA LIGA
-http://germanydnsx13.com:8080/celal123/123celal/94041
-#EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Servidor7",M. DEPORTES
-http://germanydnsx13.com:8080/celal123/123celal/94043
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7a/ca/6f/7aca6ffec719da865eb46d6aaf8741ed.jpg" group-title="Servidor7",M. DAZN 1
-http://germanydnsx13.com:8080/celal123/123celal/94046
-#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.jpg" group-title="Servidor7",M. DAZN 2
-http://germanydnsx13.com:8080/celal123/123celal/94047
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor7",M. DAZN 3
-http://germanydnsx13.com:8080/celal123/123celal/94088
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="Servidor7",M. DAZN 4
-http://germanydnsx13.com:8080/celal123/123celal/94089
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Servidor7",DAZN F1
-http://germanydnsx13.com:8080/celal123/123celal/94045
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Servidor7",4-M. CAMPEONES
-http://germanydnsx13.com:8080/celal123/123celal/94042
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="Servidor7",M. GOLF
-http://germanydnsx13.com:8080/celal123/123celal/94044
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Servidor7",EUROSPORT 1
-http://germanydnsx13.com:8080/celal123/123celal/94048
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Servidor7",EUROSPORT 2
-http://germanydnsx13.com:8080/celal123/123celal/94049
-#EXTINF:-1 tvg-logo="https://www.noticanarias.com/wp-content/uploads/2020/06/Logo-GOL.jpg" group-title="Servidor7",GOL TV
-http://germanydnsx13.com:8080/celal123/123celal/94050
-#EXTINF:-1 tvg-logo="http://storage.anacondatv.me/logos/spain/Caza_y_Pesca.jpg" group-title="Servidor7",CAZA Y PESCA
-http://45.141.194.9:9000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="Servidor7",IBERALIA 100% CAZA
-http://45.141.194.9:9000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="Servidor7",MUNDOTORO HD
-http://lamejor.selfip.org:8000/IvanPerla/Mu6xXXpefL/1052
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor7", MTV 00s
-http://germanydnsx13.com:8080/celal123/123celal/94078
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1"group-title="Servidor7", MTV 00s
-http://germanydnsx13.com:8080/celal123/123celal/94079
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD"group-title="Servidor7", Telemadrid
-http://germanydnsx13.com:8080/celal123/123celal/94010
-#EXTINF:-8 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/LaOtra_logo_2005_rojo.gif/revision/latest?cb=20110815001554"group-title="Servidor7", La Otra
-http://45.141.194.9:9000/play/a02j/index.m3u8
-#EXTINF:-11 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/8madrid.png?w=96&h=72&tok=0d4545"group-title="Servidor7", 8 Madrid
-http://45.141.194.9:9000/play/a027/index.m3u8
-#EXTINF:-10 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CASMAN.png"group-title="Servidor7", Castilla La Mancha TV
-http://45.141.194.9:9000/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM"group-title="Servidor7", Canal Extremadura Sat
-http://germanydnsx13.com:8080/celal123/123celal/94085
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV"group-title="Servidor7", Canal Sur Andalucia
-http://germanydnsx13.com:8080/celal123/123celal/94008
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON"group-title="Servidor7", Aragon TV Int
-http://germanydnsx13.com:8080/celal123/123celal/94087
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL"group-title="Servidor7", TVG -TV Galicia
-http://germanydnsx13.com:8080/celal123/123celal/94084
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/702/13/png-transparent-nickelodeon-logo-wikipedia-logo-nickelodeon-movies-speechlanguage-pathology-nickelodeon-splat-orange-text-line.png" group-title="Servidor7",NICKELODEON
-http://germanydnsx13.com:8080/celal123/123celal/94072
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor7",Disney Channel
-http://germanydnsx13.com:8080/celal123/123celal/94074
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Servidor7",Disney Channel
-http://germanydnsx13.com:8080/celal123/123celal/94069
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="Servidor7",DREAMWORKS
-http://germanydnsx13.com:8080/celal123/123celal/94073
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="Servidor7",Nick Jr
-http://germanydnsx13.com:8080/celal123/123celal/94071
 
 #EXTINF:0 group-title="Servidor12", LA 1 4K+
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/70682
