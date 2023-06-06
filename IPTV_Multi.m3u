@@ -376,284 +376,1149 @@ http://germanydnsx13.com:8080/kemalso/arya20182021/94073
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="IPTV_2"",Nick Jr
 http://45.141.194.9:9000/play/a014/index.m3u8
 
-#EXTINF:-1 group-title="IPTV_3", AXN WHITE HD
-http://5.255.90.184:2002/play/a01r
-#EXTINF:-1 group-title="IPTV_3", BABY TV
-http://5.255.90.184:2002/play/a01v
-#EXTINF:-1 group-title="IPTV_3", BARCA TV
-http://5.255.90.184:2002/play/a01z
-#EXTINF:-1 group-title="IPTV_3", BEIN LALIGA
-http://5.255.90.184:2002/play/a02f
-#EXTINF:-1 group-title="IPTV_3", BEIN SPORTS HD
-http://5.255.90.184:2002/play/a01f
-#EXTINF:-1 group-title="IPTV_3", BOING
-http://5.255.90.184:2002/play/a01x
-#EXTINF:-1 group-title="IPTV_3", CALLE 13
-http://5.255.90.184:2002/play/a02b
-#EXTINF:-1 group-title="IPTV_3", CANAL DECASA
-http://5.255.90.184:2002/play/a02d
-#EXTINF:-1 group-title="IPTV_3", CANAL ODISEA
-http://5.255.90.184:2002/play/a026
-#EXTINF:-1 group-title="IPTV_3", COMEDYCENTRALHD
-http://5.255.90.184:2002/play/a01k
-#EXTINF:-1 group-title="IPTV_3", COSMO HD
-http://5.255.90.184:2002/play/a01j
-#EXTINF:-1 group-title="IPTV_3", DIVINITY
-http://5.255.90.184:2002/play/a01t
-#EXTINF:-1 group-title="IPTV_3", ENERGY
-http://5.255.90.184:2002/play/a01y
-#EXTINF:-1 group-title="IPTV_3", EUROSPORT 1
-http://5.255.90.184:2002/play/a020
-#EXTINF:-1 group-title="IPTV_3", FOX LIFE HD
-http://5.255.90.184:2002/play/a01g
-#EXTINF:-1 group-title="IPTV_3", FOX NEWS
-http://5.255.90.184:2002/play/a01u
-#EXTINF:-1 group-title="IPTV_3", GOL
-http://5.255.90.184:2002/play/a022
-#EXTINF:-1 group-title="IPTV_3", LALIGATV BAR
-http://5.255.90.184:2002/play/a02c
-#EXTINF:-1 group-title="IPTV_3", LTC
-http://5.255.90.184:2002/play/a01w
-#EXTINF:-1 group-title="IPTV_3", M. DEP 1
-http://5.255.90.184:2002/play/a02a
-#EXTINF:-1 group-title="IPTV_3", M. DEP 2 HD
-http://5.255.90.184:2002/play/a01p
-#EXTINF:-1 group-title="IPTV_3", M. F.TBOL
-http://5.255.90.184:2002/play/a029
-#EXTINF:-1 group-title="IPTV_3", M. GOLF
-http://5.255.90.184:2002/play/a025
-#EXTINF:-1 group-title="IPTV_3", M. GOLF HD
-http://5.255.90.184:2002/play/a01i
-#EXTINF:-1 group-title="IPTV_3", M. LaLiga
-http://5.255.90.184:2002/play/a02h
-#EXTINF:-1 group-title="IPTV_3", M. SeriesXtraHD
-http://5.255.90.184:2002/play/a01h
-#EXTINF:-1 group-title="IPTV_3", M. XTRA HD
-http://5.255.90.184:2002/play/a01q
-#EXTINF:-1 group-title="IPTV_3", M.ESTRENOSHD
-http://5.255.90.184:2002/play/a01o
-#EXTINF:-1 group-title="IPTV_3", M.FORMULA1
-http://5.255.90.184:2002/play/a023
-#EXTINF:-1 group-title="IPTV_3", M.LCAMPEONES
-http://5.255.90.184:2002/play/a02g
-#EXTINF:-1 group-title="IPTV_3", MTV ESPA¹A
-http://5.255.90.184:2002/play/a021
-#EXTINF:-1 group-title="IPTV_3", NAT GEOGRAPH
-http://5.255.90.184:2002/play/a028
-#EXTINF:-1 group-title="IPTV_3", SYFY
-http://5.255.90.184:2002/play/a02e
-#EXTINF:-1 group-title="IPTV_3", SYFY HD
-http://5.255.90.184:2002/play/a01m
-#EXTINF:-1 group-title="IPTV_3", VIAJAR HD
-http://5.255.90.184:2002/play/a01n
-#EXTINF:-1 group-title="IPTV_3", ALQUILER HD
-http://5.255.90.184:2001/play/a05c
-#EXTINF:-1 group-title="IPTV_3", AXN HD
-http://5.255.90.184:2001/play/a05e
-#EXTINF:-1 group-title="IPTV_3", AXN HD
-http://5.255.90.184:2001/play/a03x
-#EXTINF:-1 group-title="IPTV_3", BEIN LALIGA
-http://5.255.90.184:2001/play/a04b
-#EXTINF:-1 group-title="IPTV_3", BEIN MAX 1
-http://5.255.90.184:2001/play/a042
-#EXTINF:-1 group-title="IPTV_3", BEIN MAX 2
-http://5.255.90.184:2001/play/a044
-#EXTINF:-1 group-title="IPTV_3", BEINLALIGA1
-http://5.255.90.184:2001/play/a03u
-#EXTINF:-1 group-title="IPTV_3", BEINLALIGA2
-http://5.255.90.184:2001/play/a03w
-#EXTINF:-1 group-title="IPTV_3", CALLE 13 HD
-http://5.255.90.184:2001/play/a04f
-#EXTINF:-1 group-title="IPTV_3", DAZN 1 HD
-http://5.255.90.184:2001/play/a05d
-#EXTINF:-1 group-title="IPTV_3", DAZN 2 HD
-http://5.255.90.184:2001/play/a05h
-#EXTINF:-1 group-title="IPTV_3", EUROSPORT1HD
-http://5.255.90.184:2001/play/a04g
-#EXTINF:-1 group-title="IPTV_3", FOX HD
-http://5.255.90.184:2001/play/a047
-#EXTINF:-1 group-title="IPTV_3", HOLLYWOODHD
-http://5.255.90.184:2001/play/a04a
-#EXTINF:-1 group-title="IPTV_3", LA 1 HD
-http://5.255.90.184:2001/play/a05i
-#EXTINF:-1 group-title="IPTV_3", LA 1 HD
-http://5.255.90.184:2001/play/a043
-#EXTINF:-1 group-title="IPTV_3", LALIGATV BAR
-http://5.255.90.184:2001/play/a05g
-#EXTINF:-1 group-title="IPTV_3", LALIGATV BAR
-http://5.255.90.184:2001/play/a03z
-#EXTINF:-1 group-title="IPTV_3", M. ACCI©N HD
-http://5.255.90.184:2001/play/a048
-#EXTINF:-1 group-title="IPTV_3", M. DCINE HD
-http://5.255.90.184:2001/play/a049
-#EXTINF:-1 group-title="IPTV_3", M. DEP 1 HD
-http://5.255.90.184:2001/play/a04h
-#EXTINF:-1 group-title="IPTV_3", M. DRAMA HD
-http://5.255.90.184:2001/play/a057
-#EXTINF:-1 group-title="IPTV_3", M. F.TBOL HD
-http://5.255.90.184:2001/play/a046
-#EXTINF:-1 group-title="IPTV_3", M. LaLiga 1 HD
-http://5.255.90.184:2001/play/a058
-#EXTINF:-1 group-title="IPTV_3", M. LaLiga 2 HD
-http://5.255.90.184:2001/play/a05a
-#EXTINF:-1 group-title="IPTV_3", M. LaLiga 3 HD
-http://5.255.90.184:2001/play/a05b
-#EXTINF:-1 group-title="IPTV_3", M. LaLiga HD
-http://5.255.90.184:2001/play/a059
-#EXTINF:-1 group-title="IPTV_3", M.COMEDIA HD
-http://5.255.90.184:2001/play/a05f
-#EXTINF:-1 group-title="IPTV_3", M.COMEDIA HD
-http://5.255.90.184:2001/play/a03y
-#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON1
-http://5.255.90.184:2001/play/a055
-#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON1
-http://5.255.90.184:2001/play/a050
-#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON2
-http://5.255.90.184:2001/play/a056
-#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON2
-http://5.255.90.184:2001/play/a051
-#EXTINF:-1 group-title="IPTV_3", M.PartidazoHD
-http://5.255.90.184:2001/play/a041
-#EXTINF:-1 group-title="IPTV_3", MEZZO LIVE HD
-http://5.255.90.184:2001/play/a04e
-#EXTINF:-1 group-title="IPTV_3", NAT GEO HD
-http://5.255.90.184:2001/play/a04i
-#EXTINF:-1 group-title="IPTV_3", NICKELODEONHD
-http://5.255.90.184:2001/play/a04d
-#EXTINF:-1 group-title="IPTV_3", TOROS TV HD
-http://5.255.90.184:2001/play/a04j
-#EXTINF:-1 group-title="IPTV_3", #0 HD
-http://5.255.90.184:2004/play/a007/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", AMC HD
-http://5.255.90.184:2004/play/a00c/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", ANTENA 3 HD
-http://5.255.90.184:2004/play/a00d/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", CAZAyPESCA HD
-http://5.255.90.184:2004/play/a008/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", CUATRO HD
-http://5.255.90.184:2004/play/a00e/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", DISNEY CH HD
-http://5.255.90.184:2004/play/a006/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", LA SEXTA HD
-http://5.255.90.184:2004/play/a00g/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", M. SERIES HD
-http://5.255.90.184:2004/play/a002/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", M.FORMULA1HD
-http://5.255.90.184:2004/play/a00a/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", M.MOTOGPHD
-http://5.255.90.184:2004/play/a00b/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", NG WILD HD
-http://5.255.90.184:2004/play/a005/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", TCM HD
-http://5.255.90.184:2004/play/a003/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", TELECINCO HD
-http://5.255.90.184:2004/play/a00f/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", TNT HD
-http://5.255.90.184:2004/play/a004/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", CALLE 13 HD
-http://5.255.90.184:2001/play/a04f
-#EXTINF:-1 group-title="IPTV_3", ALQUILER HD
-http://5.255.90.184:2001/play/a05c
-#EXTINF:-1 group-title="IPTV_3", AXN HD
-http://5.255.90.184:2001/play/a05e
-#EXTINF:-1 group-title="IPTV_3", AXN HD
-http://5.255.90.184:2001/play/a03x
-#EXTINF:-1 group-title="IPTV_3", BEIN LALIGA
-http://5.255.90.184:2001/play/a04b
-#EXTINF:-1 group-title="IPTV_3", BEIN MAX 1
-http://5.255.90.184:2001/play/a042
-#EXTINF:-1 group-title="IPTV_3", BEIN MAX 2
-http://5.255.90.184:2001/play/a044
-#EXTINF:-1 group-title="IPTV_3", BEINLALIGA1
-http://5.255.90.184:2001/play/a03u
-#EXTINF:-1 group-title="IPTV_3", BEINLALIGA2
-http://5.255.90.184:2001/play/a03w
-#EXTINF:-1 group-title="IPTV_3", DAZN 1 HD
-http://5.255.90.184:2001/play/a05d
-#EXTINF:-1 group-title="IPTV_3", DAZN 2 HD
-http://5.255.90.184:2001/play/a05h
-#EXTINF:-1 group-title="IPTV_3", EUROSPORT1HD
-http://5.255.90.184:2001/play/a04g
-#EXTINF:-1 group-title="IPTV_3", FOX HD
-http://5.255.90.184:2001/play/a047
-#EXTINF:-1 group-title="IPTV_3", HOLLYWOODHD
-http://5.255.90.184:2001/play/a04a
-#EXTINF:-1 group-title="IPTV_3", LA 1 HD
-http://5.255.90.184:2001/play/a05i
-#EXTINF:-1 group-title="IPTV_3", LA 1 HD
-http://5.255.90.184:2001/play/a043
-#EXTINF:-1 group-title="IPTV_3", LALIGATV BAR
-http://5.255.90.184:2001/play/a05g
-#EXTINF:-1 group-title="IPTV_3", LALIGATV BAR
-http://5.255.90.184:2001/play/a03z
-#EXTINF:-1 group-title="IPTV_3", M. ACCI©N HD
-http://5.255.90.184:2001/play/a048
-#EXTINF:-1 group-title="IPTV_3", M. DCINE HD
-http://5.255.90.184:2001/play/a049
-#EXTINF:-1 group-title="IPTV_3", M. DEP 1 HD
-http://5.255.90.184:2001/play/a04h
-#EXTINF:-1 group-title="IPTV_3", M. DRAMA HD
-http://5.255.90.184:2001/play/a057
-#EXTINF:-1 group-title="IPTV_3", M. F.TBOL HD
-http://5.255.90.184:2001/play/a046
-#EXTINF:-1 group-title="IPTV_3", M. LaLiga 1 HD
-http://5.255.90.184:2001/play/a058
-#EXTINF:-1 group-title="IPTV_3", M. LaLiga 2 HD
-http://5.255.90.184:2001/play/a05a
-#EXTINF:-1 group-title="IPTV_3", M. LaLiga 3 HD
-http://5.255.90.184:2001/play/a05b
-#EXTINF:-1 group-title="IPTV_3", M. LaLiga HD
-http://5.255.90.184:2001/play/a059
-#EXTINF:-1 group-title="IPTV_3", M.COMEDIA HD
-http://5.255.90.184:2001/play/a05f
-#EXTINF:-1 group-title="IPTV_3", M.COMEDIA HD
-http://5.255.90.184:2001/play/a03y
-#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON1
-http://5.255.90.184:2001/play/a055
-#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON1
-http://5.255.90.184:2001/play/a050
-#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON2
-http://5.255.90.184:2001/play/a056
-#EXTINF:-1 group-title="IPTV_3", M.LCAMPEON2
-http://5.255.90.184:2001/play/a051
-#EXTINF:-1 group-title="IPTV_3", M.PartidazoHD
-http://5.255.90.184:2001/play/a041
-#EXTINF:-1 group-title="IPTV_3", MEZZO LIVE HD
-http://5.255.90.184:2001/play/a04e
-#EXTINF:-1 group-title="IPTV_3", NAT GEO HD
-http://5.255.90.184:2001/play/a04i
-#EXTINF:-1 group-title="IPTV_3", NICKELODEONHD
-http://5.255.90.184:2001/play/a04d
-#EXTINF:-1 group-title="IPTV_3", TOROS TV HD
-http://5.255.90.184:2001/play/a04j
-#EXTINF:-1 group-title="IPTV_3", #0 HD
-http://5.255.90.184:2004/play/a007/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", AMC HD
-http://5.255.90.184:2004/play/a00c/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", ANTENA 3 HD
-http://5.255.90.184:2004/play/a00d/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", CAZAyPESCA HD
-http://5.255.90.184:2004/play/a008/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", CUATRO HD
-http://5.255.90.184:2004/play/a00e/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", DISNEY CH HD
-http://5.255.90.184:2004/play/a006/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", LA SEXTA HD
-http://5.255.90.184:2004/play/a00g/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", M. SERIES HD
-http://5.255.90.184:2004/play/a002/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", M.FORMULA1HD
-http://5.255.90.184:2004/play/a00a/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", M.MOTOGPHD
-http://5.255.90.184:2004/play/a00b/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", NG WILD HD
-http://5.255.90.184:2004/play/a005/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", TCM HD
-http://5.255.90.184:2004/play/a003/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", TELECINCO HD
-http://5.255.90.184:2004/play/a00f/index.m3u8
-#EXTINF:-1 group-title="IPTV_3", TNT HD
-http://5.255.90.184:2004/play/a004/index.m3u8
+#EXTINF:0 group-title="IPTV_4", #0ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48632
+#EXTINF:0 group-title="IPTV_4", #0ⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48674
+#EXTINF:0 group-title="IPTV_4", #0ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48703
+#EXTINF:0 group-title="IPTV_4", #0ⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48704
+#EXTINF:0 group-title="IPTV_4", 1 Music Hungriaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94231
+#EXTINF:0 group-title="IPTV_4", 101 TV Málagaⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93391
+#EXTINF:0 group-title="IPTV_4", 24 Horasⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49365
+#EXTINF:0 group-title="IPTV_4", 24 Horasⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48687
+#EXTINF:0 group-title="IPTV_4", 24 Horasⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/529
+#EXTINF:0 group-title="IPTV_4", 25 TV Cataluñaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93513
+#EXTINF:0 group-title="IPTV_4", 28 Kanalaⓧ OFFLINE
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94211
+#EXTINF:0 group-title="IPTV_4", 324 Cataluñaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93501
+#EXTINF:0 group-title="IPTV_4", 33TV Cataluñaⓧ OFFLINE
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93502
+#EXTINF:0 group-title="IPTV_4", 3ABNⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95116
+#EXTINF:0 group-title="IPTV_4", 4FUN TV Poloniaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94227
+#EXTINF:0 group-title="IPTV_4", 7 La Riojaⓧ OFFLINE
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94204
+#EXTINF:0 group-title="IPTV_4", 7 TeleValenciaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93855
+#EXTINF:0 group-title="IPTV_4", 7 TV Murciaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49367
+#EXTINF:0 group-title="IPTV_4", 8 La Marina TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93860
+#EXTINF:0 group-title="IPTV_4", 8 TV Cádizⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93471
+#EXTINF:0 group-title="IPTV_4", A&Eⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93274
+#EXTINF:0 group-title="IPTV_4", A3 Series Internacionalⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48727
+#EXTINF:0 group-title="IPTV_4", A3 Seriesⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48649
+#EXTINF:0 group-title="IPTV_4", A3 Seriesⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48728
+#EXTINF:0 group-title="IPTV_4", ABC Australia ENⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95972
+#EXTINF:0 group-title="IPTV_4", ABC TV Paraguayⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95137
+#EXTINF:0 group-title="IPTV_4", Activa TV Españaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94216
+#EXTINF:0 group-title="IPTV_4", Al Jazeera ENⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95138
+#EXTINF:0 group-title="IPTV_4", Alacantí TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93861
+#EXTINF:0 group-title="IPTV_4", Alcarria TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93492
+#EXTINF:0 group-title="IPTV_4", AMCⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48642
+#EXTINF:0 group-title="IPTV_4", AMCⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/497
+#EXTINF:0 group-title="IPTV_4", AMCⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48790
+#EXTINF:0 group-title="IPTV_4", AMCⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48791
+#EXTINF:0 group-title="IPTV_4", Andalucia TVⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93268
+#EXTINF:0 group-title="IPTV_4", Andalucia TVⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49369
+#EXTINF:0 group-title="IPTV_4", Antena 3ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/2409
+#EXTINF:0 group-title="IPTV_4", Antena 3ⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/525
+#EXTINF:0 group-title="IPTV_4", Antena 3ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48695
+#EXTINF:0 group-title="IPTV_4", Antena 3ⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48696
+#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="Channels",ES | Aragon TV SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49370
+#EXTINF:0 group-title="IPTV_4", Aragon TVⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93475
+#EXTINF:0 group-title="IPTV_4", Aragon TVⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93269
+#EXTINF:0 group-title="IPTV_4", Armada TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93482
+#EXTINF:0 group-title="IPTV_4", ATV Andorraⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95119
+#EXTINF:0 group-title="IPTV_4", AXN Whiteⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48644
+#EXTINF:0 group-title="IPTV_4", AXN Whiteⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/500
+#EXTINF:0 group-title="IPTV_4", AXN Whiteⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48719
+#EXTINF:0 group-title="IPTV_4", AXN Whiteⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48720
+#EXTINF:0 group-title="IPTV_4", AXNⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48637
+#EXTINF:0 group-title="IPTV_4", AXNⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/499
+#EXTINF:0 group-title="IPTV_4", AXNⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48709
+#EXTINF:0 group-title="IPTV_4", AXNⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48708
+#EXTINF:0 group-title="IPTV_4", Baby TVⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48677
+#EXTINF:0 group-title="IPTV_4", Baby TVⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93270
+#EXTINF:0 group-title="IPTV_4", Bailén TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93457
+#EXTINF:0 group-title="IPTV_4", Barça TVⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/516
+#EXTINF:0 group-title="IPTV_4", Barça TVⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48847
+#EXTINF:0 group-title="IPTV_4", Be Madⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48676
+#EXTINF:0 group-title="IPTV_4", Be Madⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48775
+#EXTINF:0 group-title="IPTV_4", Be Madⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48774
+#EXTINF:0 group-title="IPTV_4", beIN Sports en Españolⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48876
+#EXTINF:0 group-title="IPTV_4", Betevéⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93271
+#EXTINF:0 group-title="IPTV_4", Blazeⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/503
+#EXTINF:0 group-title="IPTV_4", Blazeⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48778
+#EXTINF:0 group-title="IPTV_4", Blazeⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48888
+#EXTINF:0 group-title="IPTV_4", Bloomberg Europe ENⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95121
+#EXTINF:0 group-title="IPTV_4", Boingⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48683
+#EXTINF:0 group-title="IPTV_4", Boingⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48776
+#EXTINF:0 group-title="IPTV_4", Boingⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48777
+#EXTINF:0 group-title="IPTV_4", Boingⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93284
+#EXTINF:0 group-title="IPTV_4", Bon Dia TVⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93506
+#EXTINF:0 group-title="IPTV_4", C33 Madridⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93848
+#EXTINF:0 group-title="IPTV_4", Cadena Elite Españaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94217
+#EXTINF:0 group-title="IPTV_4", Calle 13ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48640
+#EXTINF:0 group-title="IPTV_4", Calle 13ⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/507
+#EXTINF:0 group-title="IPTV_4", Calle 13ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48713
+#EXTINF:0 group-title="IPTV_4", Calle 13ⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48714
+#EXTINF:0 group-title="IPTV_4", Campiña Sur TVⓧ OFFLINE
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93465
+#EXTINF:0 group-title="IPTV_4", Canal 2000 La Solanaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93493
+#EXTINF:0 group-title="IPTV_4", Canal 25 Barbastro TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93477
+#EXTINF:0 group-title="IPTV_4", Canal 4 Tenerifeⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93481
+#EXTINF:0 group-title="IPTV_4", Canal 45ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93441
+#EXTINF:0 group-title="IPTV_4", Canal 56ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93870
+#EXTINF:0 group-title="IPTV_4", Canal 6 Multimedios Mexicoⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95131
+#EXTINF:0 group-title="IPTV_4", Canal Antigua Guatemalaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95135
+#EXTINF:0 group-title="IPTV_4", Canal Capital Colombiaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95132
+#EXTINF:0 group-title="IPTV_4", Canal Cocinaⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48806
+#EXTINF:0 group-title="IPTV_4", Canal Cocinaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48813
+#EXTINF:0 group-title="IPTV_4", Canal Cocinaⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93286
+#EXTINF:0 group-title="IPTV_4", Canal Costaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93446
+#EXTINF:0 group-title="IPTV_4", Canal Coínⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93469
+#EXTINF:0 group-title="IPTV_4", Canal Extremaduraⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93877
+#EXTINF:0 group-title="IPTV_4", Canal Historiaⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48760
+#EXTINF:0 group-title="IPTV_4", Canal Historiaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93277
+#EXTINF:0 group-title="IPTV_4", Canal Historiaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48761
+#EXTINF:0 group-title="IPTV_4", Canal Historiaⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48840
+#EXTINF:0 group-title="IPTV_4", Canal Málagaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93460
+#EXTINF:0 group-title="IPTV_4", Canal Pandaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48796
+#EXTINF:0 group-title="IPTV_4", Canal Pandaⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48679
+#EXTINF:0 group-title="IPTV_4", Canal Parlamentoⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93394
+#EXTINF:0 group-title="IPTV_4", Canal San Roqueⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93448
+#EXTINF:0 group-title="IPTV_4", Canal Sierra de Cádizⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93442
+#EXTINF:0 group-title="IPTV_4", Canal Taronjaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93510
+#EXTINF:0 group-title="IPTV_4", Cancionero TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93472
+#EXTINF:0 group-title="IPTV_4", Caza y Pescaⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48665
+#EXTINF:0 group-title="IPTV_4", Caza y Pescaⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/513
+#EXTINF:0 group-title="IPTV_4", Caza y Pescaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48752
+#EXTINF:0 group-title="IPTV_4", Caza y Pescaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48753
+#EXTINF:0 group-title="IPTV_4", Cazavision PTⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48801
+#EXTINF:0 group-title="IPTV_4", CGTN en Españolⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93886
+#EXTINF:0 group-title="IPTV_4", Clanⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93038
+#EXTINF:0 group-title="IPTV_4", Clanⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48804
+#EXTINF:0 group-title="IPTV_4", Clanⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48805
+#EXTINF:0 group-title="IPTV_4", Clanⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48684
+#EXTINF:0 group-title="IPTV_4", Classicaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93358
+#EXTINF:0 group-title="IPTV_4", CMMⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93488
+#EXTINF:0 group-title="IPTV_4", CNN Internacionalⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95120
+#EXTINF:0 group-title="IPTV_4", Comedy Centralⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48712
+#EXTINF:0 group-title="IPTV_4", Comedy Centralⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93290
+#EXTINF:0 group-title="IPTV_4", Comedy Centralⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48639
+#EXTINF:0 group-title="IPTV_4", Comedy Centralⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48789
+#EXTINF:0 group-title="IPTV_4", Congreso de los Diputadosⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93419
+#EXTINF:0 group-title="IPTV_4", Cosmoⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48641
+#EXTINF:0 group-title="IPTV_4", Cosmoⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/510
+#EXTINF:0 group-title="IPTV_4", Cosmoⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48715
+#EXTINF:0 group-title="IPTV_4", Cosmoⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48716
+#EXTINF:0 group-title="IPTV_4", Costa del Sol TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93456
+#EXTINF:0 group-title="IPTV_4", Costa Noroeste TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93443
+#EXTINF:0 group-title="IPTV_4", Crimen+Investigacionⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48886
+#EXTINF:0 group-title="IPTV_4", Crimen+Investigacionⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48765
+#EXTINF:0 group-title="IPTV_4", Crimen+Investigacionⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/509
+#EXTINF:0 group-title="IPTV_4", Cuatroⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48629
+#EXTINF:0 group-title="IPTV_4", Cuatroⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48884
+#EXTINF:0 group-title="IPTV_4", Cuatroⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48697
+#EXTINF:0 group-title="IPTV_4", Cuatroⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48698
+#EXTINF:0 group-title="IPTV_4", Córdoba TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93444
+#EXTINF:0 group-title="IPTV_4", Dark Redⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48779
+#EXTINF:0 group-title="IPTV_4", Dark Redⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93289
+#EXTINF:0 group-title="IPTV_4", Dark Redⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93288
+#EXTINF:0 group-title="IPTV_4", DAZN 1ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48879
+#EXTINF:0 group-title="IPTV_4", DAZN 1ⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104699
+#EXTINF:0 group-title="IPTV_4", DAZN 1ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104721
+#EXTINF:0 group-title="IPTV_4", DAZN 1ⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104698
+#EXTINF:0 group-title="IPTV_4", DAZN 2ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48858
+#EXTINF:0 group-title="IPTV_4", DAZN 2ⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48881
+#EXTINF:0 group-title="IPTV_4", DAZN 2ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104700
+#EXTINF:0 group-title="IPTV_4", DAZN 2ⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104701
+#EXTINF:0 group-title="IPTV_4", DAZN 3ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48880
+#EXTINF:0 group-title="IPTV_4", DAZN 4ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48882
+#EXTINF:0 group-title="IPTV_4", Decasa SDⓧ HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48887
+#EXTINF:0 group-title="IPTV_4", Decasaⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48672
+#EXTINF:0 group-title="IPTV_4", Decasaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49240
+#EXTINF:0 group-title="IPTV_4", Decasaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48807
+#EXTINF:0 group-title="IPTV_4", Diez TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93455
+#EXTINF:0 group-title="IPTV_4", Discovery Channelⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48885
+#EXTINF:0 group-title="IPTV_4", Discovery Channelⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48799
+#EXTINF:0 group-title="IPTV_4", Discovery Channelⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48795
+#EXTINF:0 group-title="IPTV_4", Discovery Channelⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/518
+#EXTINF:0 group-title="IPTV_4", Disney Channelⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48682
+#EXTINF:0 group-title="IPTV_4", Disney Channelⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48826
+#EXTINF:0 group-title="IPTV_4", Disney Channelⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48802
+#EXTINF:0 group-title="IPTV_4", Disney Channelⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48803
+#EXTINF:0 group-title="IPTV_4", Disney Juniorⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48678
+#EXTINF:0 group-title="IPTV_4", Disney Juniorⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/524
+#EXTINF:0 group-title="IPTV_4", Distrito TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93849
+#EXTINF:0 group-title="IPTV_4", Divinity SDⓧ HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48769
+#EXTINF:0 group-title="IPTV_4", Divinityⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48673
+#EXTINF:0 group-title="IPTV_4", Divinityⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48768
+#EXTINF:0 group-title="IPTV_4", DKissⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93275
+#EXTINF:0 group-title="IPTV_4", DKissⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93276
+#EXTINF:0 group-title="IPTV_4", DMAXⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93291
+#EXTINF:0 group-title="IPTV_4", DMAXⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48814
+#EXTINF:0 group-title="IPTV_4", Dreamworks Animationⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93115
+#EXTINF:0 group-title="IPTV_4", Durangaldeko TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94212
+#EXTINF:0 group-title="IPTV_4", DW Alemaniaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95126
+#EXTINF:0 group-title="IPTV_4", Déjate de Historias TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93850
+#EXTINF:0 group-title="IPTV_4", ETB Basqueⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94215
+#EXTINF:0 group-title="IPTV_4", El Sembrador TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95112
+#EXTINF:0 group-title="IPTV_4", El Toro TVⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93292
+#EXTINF:0 group-title="IPTV_4", El Toro TVⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48688
+#EXTINF:0 group-title="IPTV_4", El Toro Valencia TVⓧ OFFLINE
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93874
+#EXTINF:0 group-title="IPTV_4", Elche 7 TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49366
+#EXTINF:0 group-title="IPTV_4", Emmanuel TV Africaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95114
+#EXTINF:0 group-title="IPTV_4", Energyⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48650
+#EXTINF:0 group-title="IPTV_4", Energyⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48729
+#EXTINF:0 group-title="IPTV_4", Energyⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48730
+#EXTINF:0 group-title="IPTV_4", Energyⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/504
+#EXTINF:0 group-title="IPTV_4", eSport 3ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115833
+#EXTINF:0 group-title="IPTV_4", eSport 3ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115834
+#EXTINF:0 group-title="IPTV_4", Estepona TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93452
+#EXTINF:0 group-title="IPTV_4", ETB 1ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94206
+#EXTINF:0 group-title="IPTV_4", ETB 2ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94207
+#EXTINF:0 group-title="IPTV_4", ETB Satⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94208
+#EXTINF:0 group-title="IPTV_4", Eurosport 1ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48841
+#EXTINF:0 group-title="IPTV_4", Eurosport 1ⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48838
+#EXTINF:0 group-title="IPTV_4", Eurosport 1ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48662
+#EXTINF:0 group-title="IPTV_4", Eurosport 1ⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48663
+#EXTINF:0 group-title="IPTV_4", Eurosport 2ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104724
+#EXTINF:0 group-title="IPTV_4", Eurosport 2ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/2531
+#EXTINF:0 group-title="IPTV_4", Eurosport 2ⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48842
+#EXTINF:0 group-title="IPTV_4", EWTN España ENⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94256
+#EXTINF:0 group-title="IPTV_4", FDFⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48647
+#EXTINF:0 group-title="IPTV_4", FDFⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48723
+#EXTINF:0 group-title="IPTV_4", FDFⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48724
+#EXTINF:0 group-title="IPTV_4", FDFⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93285
+#EXTINF:0 group-title="IPTV_4", Fibracat TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93507
+#EXTINF:0 group-title="IPTV_4", Fibwiⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94203
+#EXTINF:0 group-title="IPTV_4", First Music Channel Bielorrusiaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94236
+#EXTINF:0 group-title="IPTV_4", FOX News ENⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/520
+#EXTINF:0 group-title="IPTV_4", FOXⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48636
+#EXTINF:0 group-title="IPTV_4", FOXⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/505
+#EXTINF:0 group-title="IPTV_4", FOXⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48707
+#EXTINF:0 group-title="IPTV_4", FOXⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48788
+#EXTINF:0 group-title="IPTV_4", France 24 Franciaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95122
+#EXTINF:0 group-title="IPTV_4", Fuengirola TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93468
+#EXTINF:0 group-title="IPTV_4", Garage TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95974
+#EXTINF:0 group-title="IPTV_4", Geo News Pakistanⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95139
+#EXTINF:0 group-title="IPTV_4", Gol TVⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/502
+#EXTINF:0 group-title="IPTV_4", Gol TVⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/521
+#EXTINF:0 group-title="IPTV_4", Gol TVⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48828
+#EXTINF:0 group-title="IPTV_4", Hamaika TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94209
+#EXTINF:0 group-title="IPTV_4", Hispan TV Iranⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95141
+#EXTINF:0 group-title="IPTV_4", Hit Music Hungriaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94232
+#EXTINF:0 group-title="IPTV_4", Hollywoodⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48818
+#EXTINF:0 group-title="IPTV_4", Hollywoodⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93287
+#EXTINF:0 group-title="IPTV_4", Hollywoodⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104836
+#EXTINF:0 group-title="IPTV_4", Hollywoodⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48797
+#EXTINF:0 group-title="IPTV_4", Iberalia TVⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48691
+#EXTINF:0 group-title="IPTV_4", Iberalia TVⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/527
+#EXTINF:0 group-title="IPTV_4", Imás TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93491
+#EXTINF:0 group-title="IPTV_4", India Today ENⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95140
+#EXTINF:0 group-title="IPTV_4", Interalmería TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93445
+#EXTINF:0 group-title="IPTV_4", Intercomarcal TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93857
+#EXTINF:0 group-title="IPTV_4", Islatelⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93466
+#EXTINF:0 group-title="IPTV_4", LA 1 Aragónⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93476
+#EXTINF:0 group-title="IPTV_4", LA 1 Canariasⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93479
+#EXTINF:0 group-title="IPTV_4", LA 1 Cataluñaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93503
+#EXTINF:0 group-title="IPTV_4", LA 1ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48627
+#EXTINF:0 group-title="IPTV_4", LA 1ⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/92195
+#EXTINF:0 group-title="IPTV_4", LA 1ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48692
+#EXTINF:0 group-title="IPTV_4", LA 1ⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48693
+#EXTINF:0 group-title="IPTV_4", LA 2 Cataluñaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93504
+#EXTINF:0 group-title="IPTV_4", LA 2ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48628
+#EXTINF:0 group-title="IPTV_4", LA 2ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/92196
+#EXTINF:0 group-title="IPTV_4", LA 2ⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/528
+#EXTINF:0 group-title="IPTV_4", LA 2ⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48694
+#EXTINF:0 group-title="IPTV_4", La 7 Castilla y Leónⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93494
+#EXTINF:0 group-title="IPTV_4", La 8 Ávilaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93495
+#EXTINF:0 group-title="IPTV_4", La 8 Bierzoⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93496
+#EXTINF:0 group-title="IPTV_4", La 8 Burgosⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93497
+#EXTINF:0 group-title="IPTV_4", La 8 Leónⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93498
+#EXTINF:0 group-title="IPTV_4", La 8 Zamoraⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93499
+#EXTINF:0 group-title="IPTV_4", La Resistenciaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104696
+#EXTINF:0 group-title="IPTV_4", La Sextaⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48631
+#EXTINF:0 group-title="IPTV_4", La Sextaⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48770
+#EXTINF:0 group-title="IPTV_4", La Sextaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48701
+#EXTINF:0 group-title="IPTV_4", La Sextaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48702
+#EXTINF:0 group-title="IPTV_4", LaLiga TV Barⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49230
+#EXTINF:0 group-title="IPTV_4", LaLiga TV Barⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/514
+#EXTINF:0 group-title="IPTV_4", Lancelot TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93486
+#EXTINF:0 group-title="IPTV_4", LaOtraⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93845
+#EXTINF:0 group-title="IPTV_4", Lebrija TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93449
+#EXTINF:0 group-title="IPTV_4", Levante TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93864
+#EXTINF:0 group-title="IPTV_4", LN24 Bélgica FRⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95128
+#EXTINF:0 group-title="IPTV_4", Locomotion TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95973
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 01ⓧ FHD (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48875
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 01ⓧ HD (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48874
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 02ⓧ FHD (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48873
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 02ⓧ HD (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48872
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 03ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48852
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 04ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48871
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 05ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48870
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 06ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48869
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 07ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48868
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 08ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48867
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 09ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104717
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 10ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104718
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 11ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104719
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 12ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104720
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeonesⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48851
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeonesⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48865
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeonesⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48831
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeonesⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48866
+#EXTINF:0 group-title="IPTV_4", M. DAZN F1ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48830
+#EXTINF:0 group-title="IPTV_4", M. DAZN F1ⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/495
+#EXTINF:0 group-title="IPTV_4", M. DAZN F1ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48832
+#EXTINF:0 group-title="IPTV_4", M. DAZN F1ⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104702
+#EXTINF:0 group-title="IPTV_4", m2o Italiaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94229
+#EXTINF:0 group-title="IPTV_4", M95 Marbellaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93440
+#EXTINF:0 group-title="IPTV_4", Maestrat TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93872
+#EXTINF:0 group-title="IPTV_4", Marbella TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93453
+#EXTINF:0 group-title="IPTV_4", María Visión Mexicoⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95113
+#EXTINF:0 group-title="IPTV_4", Megaⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48675
+#EXTINF:0 group-title="IPTV_4", Megaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48772
+#EXTINF:0 group-title="IPTV_4", Megaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48773
+#EXTINF:0 group-title="IPTV_4", Melilla TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94205
+#EXTINF:0 group-title="IPTV_4", Melody Channel Colombiaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94252
+#EXTINF:0 group-title="IPTV_4", Mezzo Liveⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48686
+#EXTINF:0 group-title="IPTV_4", Mezzoⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48660
+#EXTINF:0 group-title="IPTV_4", Mijas 3.40 TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93439
+#EXTINF:0 group-title="IPTV_4", Movistar Acciónⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48653
+#EXTINF:0 group-title="IPTV_4", Movistar Acciónⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/501
+#EXTINF:0 group-title="IPTV_4", Movistar Acciónⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48798
+#EXTINF:0 group-title="IPTV_4", Movistar Acciónⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/487
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 01ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48808
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 02ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48809
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 03ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48810
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 04ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48811
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 05ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48812
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 06ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93120
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 07ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93121
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 08ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93122
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 09ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93123
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 10ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93124
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 11ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93125
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 12ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93126
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 13ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48862
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 14ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48861
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 15ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48860
+#EXTINF:0 group-title="IPTV_4", Movistar Alquiler Presentationⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95106
+#EXTINF:0 group-title="IPTV_4", Movistar Cine Españolⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48656
+#EXTINF:0 group-title="IPTV_4", Movistar Cine Españolⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/523
+#EXTINF:0 group-title="IPTV_4", Movistar Classicosⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115835
+#EXTINF:0 group-title="IPTV_4", Movistar Classicosⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115836
+#EXTINF:0 group-title="IPTV_4", Movistar Comediaⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48654
+#EXTINF:0 group-title="IPTV_4", Movistar Comediaⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/488
+#EXTINF:0 group-title="IPTV_4", Movistar Comediaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48792
+#EXTINF:0 group-title="IPTV_4", Movistar Comediaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48793
+#EXTINF:0 group-title="IPTV_4", Movistar Deportes 1ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48659
+#EXTINF:0 group-title="IPTV_4", Movistar Deportes 2ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93116
+#EXTINF:0 group-title="IPTV_4", Movistar Deportes 3ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93117
+#EXTINF:0 group-title="IPTV_4", Movistar Deportes 4ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93118
+#EXTINF:0 group-title="IPTV_4", Movistar Deportes 5ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93119
+#EXTINF:0 group-title="IPTV_4", Movistar Deportesⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48864
+#EXTINF:0 group-title="IPTV_4", Movistar Deportesⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93131
+#EXTINF:0 group-title="IPTV_4", Movistar Deportesⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/493
+#EXTINF:0 group-title="IPTV_4", Movistar Deportesⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48834
+#EXTINF:0 group-title="IPTV_4", Movistar Disney+ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48827
+#EXTINF:0 group-title="IPTV_4", Movistar Dramaⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48655
+#EXTINF:0 group-title="IPTV_4", Movistar Dramaⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93130
+#EXTINF:0 group-title="IPTV_4", Movistar Dramaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/489
+#EXTINF:0 group-title="IPTV_4", Movistar Dramaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48823
+#EXTINF:0 group-title="IPTV_4", Movistar Estrenos 2ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48652
+#EXTINF:0 group-title="IPTV_4", Movistar Estrenos 2ⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48822
+#EXTINF:0 group-title="IPTV_4", Movistar Estrenos 2ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48821
+#EXTINF:0 group-title="IPTV_4", Movistar Estrenos 2ⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104716
+#EXTINF:0 group-title="IPTV_4", Movistar Estrenosⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48651
+#EXTINF:0 group-title="IPTV_4", Movistar Estrenosⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/490
+#EXTINF:0 group-title="IPTV_4", Movistar Estrenosⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48731
+#EXTINF:0 group-title="IPTV_4", Movistar Estrenosⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48732
+#EXTINF:0 group-title="IPTV_4", Movistar Festⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115839
+#EXTINF:0 group-title="IPTV_4", Movistar Festⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115840
+#EXTINF:0 group-title="IPTV_4", Movistar Golfⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48850
+#EXTINF:0 group-title="IPTV_4", Movistar Golfⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93132
+#EXTINF:0 group-title="IPTV_4", Movistar Golfⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/496
+#EXTINF:0 group-title="IPTV_4", Movistar Golfⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48661
+#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 01ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48855
+#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 02ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48829
+#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 03ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/74444
+#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 04ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/74445
+#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 05ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/74446
+#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 06ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/74447
+#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 07ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/74448
+#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 08ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/74449
+#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 09ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/99093
+#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 10ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/99094
+#EXTINF:0 group-title="IPTV_4", Movistar LaLigaⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48853
+#EXTINF:0 group-title="IPTV_4", Movistar LaLigaⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93133
+#EXTINF:0 group-title="IPTV_4", Movistar LaLigaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48854
+#EXTINF:0 group-title="IPTV_4", Movistar LaLigaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/494
+#EXTINF:0 group-title="IPTV_4", Movistar Multideporteⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48857
+#EXTINF:0 group-title="IPTV_4", Movistar Multideporteⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/491
+#EXTINF:0 group-title="IPTV_4", Movistar Series 2ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48635
+#EXTINF:0 group-title="IPTV_4", Movistar Series 2ⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93129
+#EXTINF:0 group-title="IPTV_4", Movistar Series 2ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/492
+#EXTINF:0 group-title="IPTV_4", Movistar Series 2ⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48787
+#EXTINF:0 group-title="IPTV_4", Movistar Seriesⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48634
+#EXTINF:0 group-title="IPTV_4", Movistar Seriesⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93128
+#EXTINF:0 group-title="IPTV_4", Movistar Seriesⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93127
+#EXTINF:0 group-title="IPTV_4", Movistar Seriesⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48784
+#EXTINF:0 group-title="IPTV_4", Movistar Golf 2ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48843
+#EXTINF:0 group-title="IPTV_4", Movistar Deportes 6ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48816
+#EXTINF:0 group-title="IPTV_4", Movistar Golf 2ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48844
+#EXTINF:0 group-title="IPTV_4", Movistar Golf 2ⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/2447
+#EXTINF:0 group-title="IPTV_4", Movistar Vamosⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48633
+#EXTINF:0 group-title="IPTV_4", Movistar Vamosⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48820
+#EXTINF:0 group-title="IPTV_4", Movistar Vamosⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48785
+#EXTINF:0 group-title="IPTV_4", Movistar Vamosⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48786
+#EXTINF:0 group-title="IPTV_4", MTV 00sⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48685
+#EXTINF:0 group-title="IPTV_4", MTV 90sⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93357
+#EXTINF:0 group-title="IPTV_4", MTV Españaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48646
+#EXTINF:0 group-title="IPTV_4", MTV Españaⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93360
+#EXTINF:0 group-title="IPTV_4", MTV Hits Europeⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/2597
+#EXTINF:0 group-title="IPTV_4", My Time Movie Networkⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116083
+#EXTINF:0 group-title="IPTV_4", Mírame TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93480
+#EXTINF:0 group-title="IPTV_4", Nat Geo Wildⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48759
+#EXTINF:0 group-title="IPTV_4", Nat Geo Wildⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48819
+#EXTINF:0 group-title="IPTV_4", Nat Geo Wildⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93363
+#EXTINF:0 group-title="IPTV_4", Nat Geo Wildⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48758
+#EXTINF:0 group-title="IPTV_4", National Geographicⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48666
+#EXTINF:0 group-title="IPTV_4", National Geographicⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48817
+#EXTINF:0 group-title="IPTV_4", National Geographicⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93362
+#EXTINF:0 group-title="IPTV_4", National Geographicⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/519
+#EXTINF:0 group-title="IPTV_4", Navarra TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93852
+#EXTINF:0 group-title="IPTV_4", Negocios TVⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93390
+#EXTINF:0 group-title="IPTV_4", Neoxⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104715
+#EXTINF:0 group-title="IPTV_4", Neoxⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48726
+#EXTINF:0 group-title="IPTV_4", Neoxⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48725
+#EXTINF:0 group-title="IPTV_4", Nick JRⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93272
+#EXTINF:0 group-title="IPTV_4", Nick JRⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93273
+#EXTINF:0 group-title="IPTV_4", Nickelodeonⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48680
+#EXTINF:0 group-title="IPTV_4", Nickelodeonⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93359
+#EXTINF:0 group-title="IPTV_4", Nickelodeonⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93361
+#EXTINF:0 group-title="IPTV_4", Nickelodeonⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/522
+#EXTINF:0 group-title="IPTV_4", Niusⓧ OFFLINE
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93389
+#EXTINF:0 group-title="IPTV_4", Noroeste TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93484
+#EXTINF:0 group-title="IPTV_4", NORTEvisiónⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93483
+#EXTINF:0 group-title="IPTV_4", Novaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93045
+#EXTINF:0 group-title="IPTV_4", Novaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48771
+#EXTINF:0 group-title="IPTV_4", Novaⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/526
+#EXTINF:0 group-title="IPTV_4", Ocko Chequiaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94228
+#EXTINF:0 group-title="IPTV_4", Odiseaⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48670
+#EXTINF:0 group-title="IPTV_4", Odiseaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48762
+#EXTINF:0 group-title="IPTV_4", Odiseaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48763
+#EXTINF:0 group-title="IPTV_4", Odiseaⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/511
+#EXTINF:0 group-title="IPTV_4", Oizmendi TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94213
+#EXTINF:0 group-title="IPTV_4", Olympic Channel ENGⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48856
+#EXTINF:0 group-title="IPTV_4", ON TV Portugalⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94230
+#EXTINF:0 group-title="IPTV_4", Onda 15 TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93873
+#EXTINF:0 group-title="IPTV_4", Onda Algeciras TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93450
+#EXTINF:0 group-title="IPTV_4", Onda Cadizⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93392
+#EXTINF:0 group-title="IPTV_4", Onda Digital Perúⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94246
+#EXTINF:0 group-title="IPTV_4", Onda Madridⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93846
+#EXTINF:0 group-title="IPTV_4", Paramount Networkⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48740
+#EXTINF:0 group-title="IPTV_4", Paramount Networkⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48658
+#EXTINF:0 group-title="IPTV_4", Parlamento de Andalucíaⓧ (Not 24/7)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93474
+#EXTINF:0 group-title="IPTV_4", Popular TV Cantabriaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93487
+#EXTINF:0 group-title="IPTV_4", Portal Foxmix Colombiaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94251
+#EXTINF:0 group-title="IPTV_4", Power TV Turquíaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94233
+#EXTINF:0 group-title="IPTV_4", PTV Córdobaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93467
+#EXTINF:0 group-title="IPTV_4", PTV Granadaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93464
+#EXTINF:0 group-title="IPTV_4", PTV Sevillaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93470
+#EXTINF:0 group-title="IPTV_4", QMusic Holandaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94226
+#EXTINF:0 group-title="IPTV_4", Quran TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95117
+#EXTINF:0 group-title="IPTV_4", Radio 21 Rock'n Pop Alemaniaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94234
+#EXTINF:0 group-title="IPTV_4", Radio Nacional de Españaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93424
+#EXTINF:0 group-title="IPTV_4", Rai News 24 Italia ITⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95125
+#EXTINF:0 group-title="IPTV_4", Rakuten TV Familyⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104839
+#EXTINF:0 group-title="IPTV_4", Rakuten TV Top 1ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104837
+#EXTINF:0 group-title="IPTV_4", Rakuten TV Top 2ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104838
+#EXTINF:0 group-title="IPTV_4", Real Betis TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/122226
+#EXTINF:0 group-title="IPTV_4", Real Madrid TV ENGⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104697
+#EXTINF:0 group-title="IPTV_4", Real Madrid TVⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/515
+#EXTINF:0 group-title="IPTV_4", Real Madrid TVⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48837
+#EXTINF:0 group-title="IPTV_4", Redevida Brasil PTⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95115
+#EXTINF:0 group-title="IPTV_4", Retro Plus TV Chileⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94240
+#EXTINF:0 group-title="IPTV_4", Ribera TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93859
+#EXTINF:0 group-title="IPTV_4", RT en Españolⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95130
+#EXTINF:0 group-title="IPTV_4", RTV Mogánⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93485
+#EXTINF:0 group-title="IPTV_4", RTVCEⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93842
+#EXTINF:0 group-title="IPTV_4", Runtimeⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116082
+#EXTINF:0 group-title="IPTV_4", Sal TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93458
+#EXTINF:0 group-title="IPTV_4", Sevilla FC TVⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48859
+#EXTINF:0 group-title="IPTV_4", Sky News UK ENⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95127
+#EXTINF:0 group-title="IPTV_4", Solidaria TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95107
+#EXTINF:0 group-title="IPTV_4", Somosⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48690
+#EXTINF:0 group-title="IPTV_4", Sophia TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/98956
+#EXTINF:0 group-title="IPTV_4", Star TVEⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104723
+#EXTINF:0 group-title="IPTV_4", Star TVEⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104722
+#EXTINF:0 group-title="IPTV_4", Sundance TVⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48794
+#EXTINF:0 group-title="IPTV_4", Sundance TVⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48648
+#EXTINF:0 group-title="IPTV_4", Sunnah TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95118
+#EXTINF:0 group-title="IPTV_4", SYFYⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48645
+#EXTINF:0 group-title="IPTV_4", SYFYⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/508
+#EXTINF:0 group-title="IPTV_4", SYFYⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48721
+#EXTINF:0 group-title="IPTV_4", SYFYⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48722
+#EXTINF:0 group-title="IPTV_4", TBN Españaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95109
+#EXTINF:0 group-title="IPTV_4", TCMⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48657
+#EXTINF:0 group-title="IPTV_4", TCMⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/498
+#EXTINF:0 group-title="IPTV_4", TCMⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48738
+#EXTINF:0 group-title="IPTV_4", TCMⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48739
+#EXTINF:0 group-title="IPTV_4", TEFⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94202
+#EXTINF:0 group-title="IPTV_4", Tele 7 País Vascoⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94210
+#EXTINF:0 group-title="IPTV_4", TeleAmazonas Ecuadorⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95136
+#EXTINF:0 group-title="IPTV_4", Telecincoⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48630
+#EXTINF:0 group-title="IPTV_4", Telecincoⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48883
+#EXTINF:0 group-title="IPTV_4", Telecincoⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48700
+#EXTINF:0 group-title="IPTV_4", Telecincoⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/512
+#EXTINF:0 group-title="IPTV_4", Teledeporteⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48835
+#EXTINF:0 group-title="IPTV_4", Teledeporteⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48664
+#EXTINF:0 group-title="IPTV_4", Teledeporteⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48751
+#EXTINF:0 group-title="IPTV_4", Teledeporteⓧ SD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/517
+#EXTINF:0 group-title="IPTV_4", Teleganésⓧ OFFLINE
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93847
+#EXTINF:0 group-title="IPTV_4", TeleGilenaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93459
+#EXTINF:0 group-title="IPTV_4", Telemadridⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93843
+#EXTINF:0 group-title="IPTV_4", Telemúsica Colombiaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94250
+#EXTINF:0 group-title="IPTV_4", Telenovelasⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48846
+#EXTINF:0 group-title="IPTV_4", TeleRiberaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93854
+#EXTINF:0 group-title="IPTV_4", Telesaforⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93869
+#EXTINF:0 group-title="IPTV_4", Telesur Madridⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93851
+#EXTINF:0 group-title="IPTV_4", Televisión de Alicanteⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93875
+#EXTINF:0 group-title="IPTV_4", Tenⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48815
+#EXTINF:0 group-title="IPTV_4", Tevecatⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93508
+#EXTINF:0 group-title="IPTV_4", TNTⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48710
+#EXTINF:0 group-title="IPTV_4", TNTⓧ Full HD HEVC
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93364
+#EXTINF:0 group-title="IPTV_4", TNTⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48638
+#EXTINF:0 group-title="IPTV_4", TNTⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48711
+#EXTINF:0 group-title="IPTV_4", Top Latino TV Perúⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94243
+#EXTINF:0 group-title="IPTV_4", Torrevisiónⓧ OFFLINE
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93454
+#EXTINF:0 group-title="IPTV_4", Trebujena TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93473
+#EXTINF:0 group-title="IPTV_4", Treceⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/2696
+#EXTINF:0 group-title="IPTV_4", Treceⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104695
+#EXTINF:0 group-title="IPTV_4", TRT World Turquía ENⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95129
+#EXTINF:0 group-title="IPTV_4", Tuya La Janda TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93451
+#EXTINF:0 group-title="IPTV_4", TV 4 Vall de Uxóⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93867
+#EXTINF:0 group-title="IPTV_4", TV Artequatreⓧ OFFLINE
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93862
+#EXTINF:0 group-title="IPTV_4", TV Canariaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93478
+#EXTINF:0 group-title="IPTV_4", TV Centro Andalucíaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93447
+#EXTINF:0 group-title="IPTV_4", TV de San Vicenteⓧ OFFLINE
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93865
+#EXTINF:0 group-title="IPTV_4", TV Extremeñaⓧ OFFLINE
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93878
+#EXTINF:0 group-title="IPTV_4", TV Hellínⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93489
+#EXTINF:0 group-title="IPTV_4", TV Perú Noticiasⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95133
+#EXTINF:0 group-title="IPTV_4", TV3 Cataluñaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93500
+#EXTINF:0 group-title="IPTV_4", TV3 Cataluña Ràdioⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93505
+#EXTINF:0 group-title="IPTV_4", TV5Monde Francia FRⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95124
+#EXTINF:0 group-title="IPTV_4", TVG Culturaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94200
+#EXTINF:0 group-title="IPTV_4", TVG Musigalⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94199
+#EXTINF:0 group-title="IPTV_4", TVG Xabarinⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94198
+#EXTINF:0 group-title="IPTV_4", TVGⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93879
+#EXTINF:0 group-title="IPTV_4", UDTV Las Palmasⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93393
+#EXTINF:0 group-title="IPTV_4", Une Vinalopóⓧ OFFLINE
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93876
+#EXTINF:0 group-title="IPTV_4", Urban Revolution Españaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94218
+#EXTINF:0 group-title="IPTV_4", Urola TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94214
+#EXTINF:0 group-title="IPTV_4", V2Beat TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94221
+#EXTINF:0 group-title="IPTV_4", Venezolana de Televisiónⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95134
+#EXTINF:0 group-title="IPTV_4", Ventdelnord TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/122066
+#EXTINF:0 group-title="IPTV_4", Visión 6 TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93490
+#EXTINF:0 group-title="IPTV_4", Vos Tvⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/122011
+#EXTINF:0 group-title="IPTV_4", XTRMⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48689
+#EXTINF:0 group-title="IPTV_4", À Puntⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49368
+#EXTINF:0 group-title="IPTV_4", DAZN LaLigaⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104713
+#EXTINF:0 group-title="IPTV_4", DAZN LaLiga 2ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104712
+#EXTINF:0 group-title="IPTV_4", DAZN LaLigaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104711
+#EXTINF:0 group-title="IPTV_4", DAZN LaLigaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104710
+#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 13ⓧ (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141654
+#EXTINF:0 group-title="IPTV_4", LaLiga SmartBank 1ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141655
+#EXTINF:0 group-title="IPTV_4", LaLiga SmartBank 2ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141656
+#EXTINF:0 group-title="IPTV_4", LaLiga SmartBank 1ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141657
+#EXTINF:0 group-title="IPTV_4", LaLiga SmartBank 2ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141658
+#EXTINF:0 group-title="IPTV_4", Footters 1ⓧ  (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141665
+#EXTINF:0 group-title="IPTV_4", Footters 2ⓧ  (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141666
+#EXTINF:0 group-title="IPTV_4", Footters 3ⓧ  (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141667
+#EXTINF:0 group-title="IPTV_4", Footters 4ⓧ  (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141668
+#EXTINF:0 group-title="IPTV_4", Footters 5ⓧ  (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141669
+#EXTINF:0 group-title="IPTV_4", Footters 6ⓧ  (Solo Eventos)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141670
+#EXTINF:0 group-title="IPTV_4", Taquilla 1ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129168
+#EXTINF:0 group-title="IPTV_4", Taquilla 2ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129169
+#EXTINF:0 group-title="IPTV_4", Taquilla 3ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129170
+#EXTINF:0 group-title="IPTV_4", Taquilla 4ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129171
+#EXTINF:0 group-title="IPTV_4", Taquilla 5ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129172
+#EXTINF:0 group-title="IPTV_4", Taquilla 6ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129173
+#EXTINF:0 group-title="IPTV_4", Taquilla 7ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129174
+#EXTINF:0 group-title="IPTV_4", Taquilla 8ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129175
+#EXTINF:0 group-title="IPTV_4", Taquilla 9ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129176
+#EXTINF:0 group-title="IPTV_4", Taquilla 10ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129177
+#EXTINF:0 group-title="IPTV_4", Gol Mundialⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/145980
+#EXTINF:0 group-title="IPTV_4", M Supercopaⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/151096
+#EXTINF:0 group-title="IPTV_4", M Supercopaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/151097
+#EXTINF:0 group-title="IPTV_4", M Supercopaⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/151098
+#EXTINF:0 group-title="IPTV_4", Mundotoro TVⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/163063
+
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/la1.png" group-title="TEST_1", LA 1
 http://test.pikademon.cfd:8080/live/5361685916018874/1341685916018874/5622.ts
