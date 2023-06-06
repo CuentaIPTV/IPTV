@@ -1,5 +1,414 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="es." tvg-name="ES001:#0 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES001#0 HD.png" group-title="1_mes", #0 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2603
+#EXTINF:-1 tvg-id="24.horas.es" tvg-name="ES002:24 Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES002 24Horas.png" group-title="1_mes", 24 Horas
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2602
+#EXTINF:-1 tvg-id="a.e.es" tvg-name="ES003:A&E ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES003A&EES.png" group-title="1_mes", A&E ES
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2601
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES004:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES004AMCES.png" group-title="1_mes", AMC HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2600
+#EXTINF:-1 tvg-id="antena.3.es" tvg-name="ES005:Antena 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES005Antena3.png" group-title="1_mes", Antena 3 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2599
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES006:AXN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES006AXNES.png" group-title="1_mes", AXN HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2598
+#EXTINF:-1 tvg-id="axn.white.es" tvg-name="ES007:AXN White HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES007AXNWhite.png" group-title="1_mes", AXN White HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2597
+#EXTINF:-1 tvg-id="baby.es" tvg-name="ES008:Baby TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES008BabyTV.png" group-title="1_mes", Baby TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2596
+#EXTINF:-1 tvg-id="barca.es" tvg-name="ES009:Barca TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES009BarcaTV.png" group-title="1_mes", Barca TV HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2595
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES010:M Liga de Campeones HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES010MLigadeCam.png" group-title="1_mes", M Liga de Campeones HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2594
+#EXTINF:-1 tvg-id="boing.es" tvg-name="ES011:Boing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES011Boing.png" group-title="1_mes", Boing
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2593
+#EXTINF:-1 tvg-id="calle.13.es" tvg-name="ES012:Calle 13 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES012Calle13.png" group-title="1_mes", Calle 13 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2592
+#EXTINF:-1 tvg-id="YesAction.il" tvg-name="ES013:Movistar Accion HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES013MAction.png" group-title="1_mes", Movistar Accion HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2591
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES014:M Deportes 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES014MDeportes2.png" group-title="1_mes", M Deportes 2
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2590
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES015:M Deportes 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES015MDeportes1.png" group-title="1_mes", M Deportes 1
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2589
+#EXTINF:-1 tvg-id="movistar.estrenos.es" tvg-name="ES016:Movistar Estrenos HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES016MEstrenos.png" group-title="1_mes", Movistar Estrenos HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2588
+#EXTINF:-1 tvg-id="m..deportes.1.es" tvg-name="ES017:M.Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES017MFutbol.png" group-title="1_mes", M.Deportes
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2587
+#EXTINF:-1 tvg-id="movistar.golf.es" tvg-name="ES018:Movistar GOLF HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES018MGolf.png" group-title="1_mes", Movistar GOLF HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2586
+#EXTINF:-1 tvg-id="movistar.series.xtra.es" tvg-name="ES019:Movistar Series Xtra HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES019MSeriesXtra.png" group-title="1_mes", Movistar Series Xtra HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2585
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES020:Toros TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES020Toros.png" group-title="1_mes", Toros TV HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2584
+#EXTINF:-1 tvg-id="movistar.xtra.es" tvg-name="ES021:Movistar Xtra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES021MXtra.png" group-title="1_mes", Movistar Xtra
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2583
+#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES022:Cocina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES022Cocina.png" group-title="1_mes", Cocina
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2582
+#EXTINF:-1 tvg-id="movistar.dcine.es" tvg-name="ES023:Movistar Dcine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES023MDcine.png" group-title="1_mes", Movistar Dcine
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2581
+#EXTINF:-1 tvg-id="decasa.es" tvg-name="ES024:DeCasa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES024DeCasa.png" group-title="1_mes", DeCasa
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2580
+#EXTINF:-1 tvg-id="movistar.series.es" tvg-name="ES025:Movistar Series 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES025MSERIESHD.png" group-title="1_mes", Movistar Series 2 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2579
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES026:Movistar Formula 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES026MFormula1.png" group-title="1_mes", Movistar Formula 1 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2578
+#EXTINF:-1 tvg-id="moto.gp.es" tvg-name="ES027:Movistar MotoGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES027MMotoGP.png" group-title="1_mes", Movistar MotoGP
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2577
+#EXTINF:-1 tvg-id="caza.y.pesca.es" tvg-name="ES028:Caza Y Pesca HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES028CazaYPesca.png" group-title="1_mes", Caza Y Pesca HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2576
+#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES029:Clan Tve" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES029ClanTve.png" group-title="1_mes", Clan Tve
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2575
+#EXTINF:-1 tvg-id="comedy.central.es" tvg-name="ES030:Comedy Central HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES030ComedyCentral.png" group-title="1_mes", Comedy Central HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2574
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES031:Cosmo HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES031Cosmo.png" group-title="1_mes", Cosmo HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2573
+#EXTINF:-1 tvg-id="crimen.investigacion.es" tvg-name="ES032:Crimen+ Investigacion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES032CrimenInvestigation.png" group-title="1_mes", Crimen+ Investigacion
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2572
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES033:Cuatro HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES033Cuatro.png" group-title="1_mes", Cuatro HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2571
+#EXTINF:-1 tvg-id="discovery.es" tvg-name="ES034:Discovery Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES034DiscoveryES.png" group-title="1_mes", Discovery Channel HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2570
+#EXTINF:-1 tvg-id="disney.es" tvg-name="ES035:Disney Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES035DisneyES.png" group-title="1_mes", Disney Channel HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2569
+#EXTINF:-1 tvg-id="disney.junior.es" tvg-name="ES036:Disney JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES036DisneyJRES.png" group-title="1_mes", Disney JR HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2568
+#EXTINF:-1 tvg-id="disney.xd.se" tvg-name="ES037:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES037DisneyXDES.png" group-title="1_mes", Disney XD HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2567
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES038:Divinity HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES038Divinity.png" group-title="1_mes", Divinity HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2566
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ES039:Energy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES039Energy.png" group-title="1_mes", Energy HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2565
+#EXTINF:-1 tvg-id="eurosport.1.es" tvg-name="ES040:EUROSPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES040EuroSport1.png" group-title="1_mes", EUROSPORT 1 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2564
+#EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="ES041:EUROSPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES041EuroSport2.png" group-title="1_mes", EUROSPORT 2 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2563
+#EXTINF:-1 tvg-id="fdf.telecinco.es" tvg-name="ES042:FDF TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES042FDF.png" group-title="1_mes", FDF TV HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2562
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES043:Fox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES043FoxES.png" group-title="1_mes", Fox HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2561
+#EXTINF:-1 tvg-id="fox.life.es" tvg-name="ES044:Fox Life HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES044FoxLifeES.png" group-title="1_mes", Fox Life HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2560
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES045:GOL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES045GOLTV.png" group-title="1_mes", GOL TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2559
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES046:Historia HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES046Historia.png" group-title="1_mes", Historia HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2558
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES047:Hollywood" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES047Hollywood.png" group-title="1_mes", Hollywood
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2557
+#EXTINF:-1 tvg-id="iberalia.es" tvg-name="ES048:Iberalia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES048Iberalia.png" group-title="1_mes", Iberalia
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2556
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES049:LA 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES049LA1.png" group-title="1_mes", LA 1 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2555
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES050:LA 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES050LA2.png" group-title="1_mes", LA 2 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2554
+#EXTINF:-1 tvg-id="laliga.es" tvg-name="ES051:LaLiga TV Bar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES051LaLigaTV.png" group-title="1_mes", LaLiga TV Bar
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2553
+#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES052:La Sexta HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES052LaSexta.png" group-title="1_mes", La Sexta HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2552
+#EXTINF:-1 tvg-id="movistar.comedia.es" tvg-name="ES053:Movistar Comedia HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES053MComedia.png" group-title="1_mes", Movistar Comedia HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2551
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES054:Mega HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES054Mega.png" group-title="1_mes", Mega HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2550
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="ES055:MTV ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES055MTVES.png" group-title="1_mes", MTV ES
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2549
+#EXTINF:-1 tvg-id="nat.geo.wild.es" tvg-name="ES056:NAT GEO WILD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES056NATGEOWILDES.png" group-title="1_mes", NAT GEO WILD HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2548
+#EXTINF:-1 tvg-id="national.geographic.es" tvg-name="ES057:NAT GEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES057NATGEOES.png" group-title="1_mes", NAT GEO HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2547
+#EXTINF:-1 tvg-id="neox.es" tvg-name="ES058:NEOX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES058NEOX.png" group-title="1_mes", NEOX HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2546
+#EXTINF:-1 tvg-id="nick.jr.es" tvg-name="ES059:NICK JR ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES059NICKJRES.png" group-title="1_mes", NICK JR ES
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2545
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES060:Nickelodeon HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES060NickelodeonES.png" group-title="1_mes", Nickelodeon HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2544
+#EXTINF:-1 tvg-id="canal.decasa.es" tvg-name="ES061:Canal De Casa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES061CanalDECase.png" group-title="1_mes", Canal De Casa
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2543
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES062:NOVA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES062NOVA.png" group-title="1_mes", NOVA
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2542
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES063:Odisea" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES063Odisea.png" group-title="1_mes", Odisea
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2541
+#EXTINF:-1 tvg-id="canal.panda.es" tvg-name="ES064:Panda" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES064Panda.png" group-title="1_mes", Panda
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2540
+#EXTINF:-1 tvg-id="paramount.es" tvg-name="ES065:Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES065Paramount.png" group-title="1_mes", Paramount
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2539
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES066:Syfy ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES066SyfyES.png" group-title="1_mes", Syfy ES
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2538
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES067:TCM ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES067TCMES.png" group-title="1_mes", TCM ES
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2537
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES068:Telecinco HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES068Telecinco.png" group-title="1_mes", Telecinco HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2536
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES069:Teledeport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES069Teledeport.png" group-title="1_mes", Teledeport
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2535
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES070:TNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES070TNTES.png" group-title="1_mes", TNT HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2534
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES071:Viajar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES071Viajar.png" group-title="1_mes", Viajar
+http://kun0515es.cularu.com:8880/1mms0023/31498741/2533
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES073:DKISS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES073DKISS.png" group-title="1_mes", DKISS
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29319
+#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES074:Extremadura HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES074ExtremaduraHD.png" group-title="1_mes", Extremadura HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29318
+#EXTINF:-1 tvg-id="cazavision.es" tvg-name="ES075:CazavisiÓn" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES075" group-title="1_mes", CazavisiÓn
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29317
+#EXTINF:-1 tvg-id="mezzo.live.es" tvg-name="ES076:MEZZO LIVE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES076MEZZOLIVEHD.png" group-title="1_mes", MEZZO LIVE HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29316
+#EXTINF:-1 tvg-id="movistar.cine.espanol.es" tvg-name="ES077:MoviStar Cine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES077MoviStarCine.png" group-title="1_mes", MoviStar Cine
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29315
+#EXTINF:-1 tvg-id="ten.es" tvg-name="ES078:TEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES078MovistarCineDoc&Roll.png" group-title="1_mes", TEN
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29314
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES079:Vamos HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES079Vamos.png" group-title="1_mes", Vamos HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29313
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES080:Blaze TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES080BLAZE.png" group-title="1_mes", Blaze TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29312
+#EXTINF:-1 tvg-id="somos.es" tvg-name="ES081:SOMOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES081SOMOS.png" group-title="1_mes", SOMOS
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29311
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES083:Esperanza TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES083" group-title="1_mes", Esperanza TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29309
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES084:M. LaLiga FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES084MLaLIGA.png" group-title="1_mes", M. LaLiga FHD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29308
+#EXTINF:-1 tvg-id="canal.futbol.replay.es" tvg-name="ES085:M+ Liga de Campeones 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES085M LigadeCampeones.png" group-title="1_mes", M+ Liga de Campeones 9
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29307
+#EXTINF:-1 tvg-id="m.deportes.3.es" tvg-name="ES086:M+ Deportes 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES086CanalDEPORTESHD.png" group-title="1_mes", M+ Deportes 3
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29306
+#EXTINF:-1 tvg-id="m.deportes.4.es" tvg-name="ES087:M+ Deportes 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES087CanalDEPORTES2HD.png" group-title="1_mes", M+ Deportes 4
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29305
+#EXTINF:-1 tvg-id="" tvg-name="ES089:M+ Dazn LaLiga 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES089" group-title="1_mes", M+ Dazn LaLiga 1
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29303
+#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES091:Alquiler HD 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES091MovistarAlquiler4.png" group-title="1_mes", Alquiler HD 1
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29301
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES092:M. LaLiga HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES092MOVISTARLiga.png" group-title="1_mes", M. LaLiga HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29300
+#EXTINF:-1 tvg-id="40tv.es" tvg-name="ES093:SOFY TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES09340" group-title="1_mes", SOFY TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29299
+#EXTINF:-1 tvg-id="m.laliga.1.es" tvg-name="ES095:M+ LaLiga 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES095MOVISTAR LaLiga.png" group-title="1_mes", M+ LaLiga 1
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29297
+#EXTINF:-1 tvg-id="m.laliga.2.es" tvg-name="ES096:M+ LaLiga 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES096MOVISTAR Laliga.png" group-title="1_mes", M+ LaLiga 2
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29296
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES097:DMAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES097DMAX.png" group-title="1_mes", DMAX
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29295
+#EXTINF:-1 tvg-id="" tvg-name="ES098:Taquilla 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES098TAQUILLA1.png" group-title="1_mes", Taquilla 1 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29294
+#EXTINF:-1 tvg-id="" tvg-name="ES099:Taquilla 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES099TAQUILLA10.png" group-title="1_mes", Taquilla 2 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29293
+#EXTINF:-1 tvg-id="" tvg-name="ES100:Taquilla 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES100TAQUILLA2.png" group-title="1_mes", Taquilla 3 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29292
+#EXTINF:-1 tvg-id="" tvg-name="ES101:Taquilla 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES101TAQUILLA3.png" group-title="1_mes", Taquilla 4 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29291
+#EXTINF:-1 tvg-id="" tvg-name="ES102:Taquilla 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES102TAQUILLA4.png" group-title="1_mes", Taquilla 5 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29290
+#EXTINF:-1 tvg-id="" tvg-name="ES103:Taquilla 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES103TAQUILLA5.png" group-title="1_mes", Taquilla 6 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29289
+#EXTINF:-1 tvg-id="" tvg-name="ES104:Taquilla 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES104TAQUILLA6.png" group-title="1_mes", Taquilla 7 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29288
+#EXTINF:-1 tvg-id="" tvg-name="ES105:Taquilla 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES105TAQUILLA7.png" group-title="1_mes", Taquilla 8 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29287
+#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES108:Canal Cocina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="1_mes", Canal Cocina
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29284
+#EXTINF:-1 tvg-id="canal.sur.es" tvg-name="ES109:Canal Sur Andalucia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES109CANALSURA.png" group-title="1_mes", Canal Sur Andalucia
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29283
+#EXTINF:-1 tvg-id="alquiler.1.es" tvg-name="ES110:Alquiler HD 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES110Alquiler1.png" group-title="1_mes", Alquiler HD 2
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29282
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES112:Alquiler HD 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES112Alquiler3.png" group-title="1_mes", Alquiler HD 3
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29280
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES113:Alquiler HD 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES113Alquiler4.png" group-title="1_mes", Alquiler HD 4
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29279
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES114:Alquiler HD 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES114Alquiler5.png" group-title="1_mes", Alquiler HD 5
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29278
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES115:Alquiler HD 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES115Alquiler6.png" group-title="1_mes", Alquiler HD 6
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29277
+#EXTINF:-1 tvg-id="" tvg-name="ES116:Alquiler HD 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES116Alquiler7.png" group-title="1_mes", Alquiler HD 7
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29276
+#EXTINF:-1 tvg-id="" tvg-name="ES117:Alquiler HD 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES117Alquiler9.png" group-title="1_mes", Alquiler HD 8
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29275
+#EXTINF:-1 tvg-id="andalucia.es" tvg-name="ES118:Andalucia TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES118AndaluciaTV.png" group-title="1_mes", Andalucia TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29274
+#EXTINF:-1 tvg-id="la.resistencia.es" tvg-name="ES121:La Resistencia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES121" group-title="1_mes", La Resistencia
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29271
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES122:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES122MOVISTAR LaLiga.png" group-title="1_mes", DAZN 1
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29270
+#EXTINF:-1 tvg-id="m.laliga.3.es" tvg-name="ES123:M+ LaLiga 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES123MLaliga6.png" group-title="1_mes", M+ LaLiga 3
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29269
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES124:TRECE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES124SyfyHD.png" group-title="1_mes", TRECE
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29268
+#EXTINF:-1 tvg-id="m.laliga.4.es" tvg-name="ES125:M+ LaLiga 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES125MLaliga7.png" group-title="1_mes", M+ LaLiga 4
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29267
+#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES129:Star TVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES129" group-title="1_mes", Star TVE
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29263
+#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES130:Alquiler HD 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES130MovistarAlquiler1.png" group-title="1_mes", Alquiler HD 9
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29262
+#EXTINF:-1 tvg-id="m.laliga.5.es" tvg-name="ES131:M+ LaLiga 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES131MLaliga8.png" group-title="1_mes", M+ LaLiga 5
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29261
+#EXTINF:-1 tvg-id="m.deportes.5.es" tvg-name="ES133:M+ Deportes 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES133M. DEPORTES 1.png" group-title="1_mes", M+ Deportes 5
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29259
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES134:#VolverEsGanar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES134M. DEPORTES 2.png" group-title="1_mes", #VolverEsGanar
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29258
+#EXTINF:-1 tvg-id="m.deportes.6.es" tvg-name="ES135:M+ Deportes 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES135M. DEPORTES 3.png" group-title="1_mes", M+ Deportes 6
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29257
+#EXTINF:-1 tvg-id="m.fest.es" tvg-name="ES136:M+ Fest" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES136MLaLiga1.png" group-title="1_mes", M+ Fest
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29256
+#EXTINF:-1 tvg-id="bein.laliga.es" tvg-name="ES138:BeiN La Liga" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES138MLaLiga3.png" group-title="1_mes", BeiN La Liga
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29254
+#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES139:Alquiler HD 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES139MovistarAlquiler5.png" group-title="1_mes", Alquiler HD 10
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29253
+#EXTINF:-1 tvg-id="canal.las.estrellas.es" tvg-name="ES141:Canal de las Estrellas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES141CanaldelasEstrellas.png" group-title="1_mes", Canal de las Estrellas
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29251
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES145:Gol Mundial" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="1_mes", Gol Mundial
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29247
+#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES146:Alquiler HD 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES146MovistarAlquiler2.png" group-title="1_mes", Alquiler HD 11
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29246
+#EXTINF:-1 tvg-id="classica.es" tvg-name="ES147:Classica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES147Classica.png" group-title="1_mes", Classica
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29245
+#EXTINF:-1 tvg-id="" tvg-name="ES148:TVE LA 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES148TVELA2HD.png" group-title="1_mes", TVE LA 2 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29244
+#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="ES151:Real Madrid TVHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES151RealMadridTV.png" group-title="1_mes", Real Madrid TVHD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29241
+#EXTINF:-1 tvg-id="" tvg-name="ES152:Esperanza TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES152EsperanzaTV.png" group-title="1_mes", Esperanza TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29240
+#EXTINF:-1 tvg-id="barca.es" tvg-name="ES153:Barca TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES153BARCATV.png" group-title="1_mes", Barca TV SD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29239
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES154:Galicia TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES154GALICIATV.png" group-title="1_mes", Galicia TV HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29238
+#EXTINF:-1 tvg-id="" tvg-name="ES155:ETB 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES155AztecaHonduras.png" group-title="1_mes", ETB 1
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29237
+#EXTINF:-1 tvg-id="laliga.123.es" tvg-name="ES156:M+ Dazn LaLiga 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES156" group-title="1_mes", M+ Dazn LaLiga 2
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29236
+#EXTINF:-1 tvg-id="mezzo.live.es" tvg-name="ES157:ETB 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES157MEZZOLIVEFHD.png" group-title="1_mes", ETB 2
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29235
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES159:PPV 1 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES159" group-title="1_mes", PPV 1 (LIVE EVENT)
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29233
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES160:Telecinco FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES160Telecinco.png" group-title="1_mes", Telecinco FHD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29232
+#EXTINF:-1 tvg-id="la.otra.es" tvg-name="ES161:La Otra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES161" group-title="1_mes", La Otra
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29231
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES162:Telecinco SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES162Telecinco.png" group-title="1_mes", Telecinco SD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29230
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES163:Teledeporte HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES163Teledeporte.png" group-title="1_mes", Teledeporte HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29229
+#EXTINF:-1 tvg-id="" tvg-name="ES164:PPV 2 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES164" group-title="1_mes", PPV 2 (LIVE EVENT)
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29228
+#EXTINF:-1 tvg-id="" tvg-name="ES165:PPV 3 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES165" group-title="1_mes", PPV 3 (LIVE EVENT)
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29227
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES166:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES166DAZNMOTOGP.png" group-title="1_mes", DAZN 2
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29226
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES167:Sundance TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES167SUNDANCEFHD.png" group-title="1_mes", Sundance TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29225
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES172:Dazn ES ( Match time only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES172:DaznES.png" group-title="1_mes", Dazn ES ( Match time only)
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29220
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES173:M+ Liga de Campeones 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES173MLigadeCampeones4.png" group-title="1_mes", M+ Liga de Campeones 10
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29219
+#EXTINF:-1 tvg-id="40.graus.br" tvg-name="ES174:DAZN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES174M.LIGADECAMPEONES6.png" group-title="1_mes", DAZN 3
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29218
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="ES175:Telemadrid FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES175TELEMADRIDFHD.png" group-title="1_mes", Telemadrid FHD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29217
+#EXTINF:-1 tvg-id="telesur.es" tvg-name="ES176:Canal Sur" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES176TELESURHD.png" group-title="1_mes", Canal Sur
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29216
+#EXTINF:-1 tvg-id="eitb.basque.es" tvg-name="ES177:ETB Basque" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES177" group-title="1_mes", ETB Basque
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29215
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES178:TV3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES178TVGalicia.png" group-title="1_mes", TV3 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29214
+#EXTINF:-1 tvg-id="tv3.cat.es" tvg-name="ES179:TV3 Cat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES179TV3Cat.png" group-title="1_mes", TV3 Cat
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29213
+#EXTINF:-1 tvg-id="" tvg-name="ES180:TVE 24H" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES180TVE24H.png" group-title="1_mes", TVE 24H
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29212
+#EXTINF:-1 tvg-id="tve.internacional.es" tvg-name="ES181:TVE Internacional" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES181TVEInternacional.png" group-title="1_mes", TVE Internacional
+http://kun0515es.cularu.com:8880/1mms0023/31498741/29211
+#EXTINF:-1 tvg-id="m.liga.campeones.1.es" tvg-name="ES182:M+ Liga de Campeones 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES182M1.png" group-title="1_mes", M+ Liga de Campeones 1
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52425
+#EXTINF:-1 tvg-id="m.liga.campeones.2.es" tvg-name="ES183:M+ Liga de Campeones  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES183M2.png" group-title="1_mes", M+ Liga de Campeones  2
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52424
+#EXTINF:-1 tvg-id="m.liga.campeones.3.es" tvg-name="ES184:M+ Liga de Campeones 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES184M3.png" group-title="1_mes", M+ Liga de Campeones 3
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52423
+#EXTINF:-1 tvg-id="m.liga.campeones.4.es" tvg-name="ES185:M+ Liga de Campeones 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES185M4.png" group-title="1_mes", M+ Liga de Campeones 4
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52422
+#EXTINF:-1 tvg-id="m.liga.campeones.5.es" tvg-name="ES186:M+ Liga de Campeones 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES186M5.png" group-title="1_mes", M+ Liga de Campeones 5
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52421
+#EXTINF:-1 tvg-id="m.liga.campeones.6.es" tvg-name="ES187:M+ Liga de Campeones 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES187Movistar Ligade Campeones.png" group-title="1_mes", M+ Liga de Campeones 6
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52420
+#EXTINF:-1 tvg-id="m.liga.campeones.7.es" tvg-name="ES188:M+ Liga de Campeones 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES188MovistarLigadeCampeones 2.png" group-title="1_mes", M+ Liga de Campeones 7
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52419
+#EXTINF:-1 tvg-id="m.liga.campeones.8.es" tvg-name="ES189:M+ Liga de Campeones 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES189M8.png" group-title="1_mes", M+ Liga de Campeones 8
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52418
+#EXTINF:-1 tvg-id="movistar.golf.es" tvg-name="ES190:Movistar GOLF FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES190MGOLFHD.png" group-title="1_mes", Movistar GOLF FHD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52417
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES191:Movistar Formula 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES191MFORMULA1HD.png" group-title="1_mes", Movistar Formula 1 FHD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52416
+#EXTINF:-1 tvg-id="euronews.es" tvg-name="ES192:Euronews" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES192" group-title="1_mes", Euronews
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52415
+#EXTINF:-1 tvg-id="baby.es" tvg-name="ES200:13 TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="1_mes", 13 TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52407
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES204:Alcarria TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES204" group-title="1_mes", Alcarria TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52403
+#EXTINF:-1 tvg-id="canal.sur.2.es" tvg-name="ES206:Canal Sur 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES206" group-title="1_mes", Canal Sur 2
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52401
+#EXTINF:-1 tvg-id="canal.parlamento.es" tvg-name="ES207:ESPN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES207ESPN.png" group-title="1_mes", ESPN
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52400
+#EXTINF:-1 tvg-id="a.punt.es" tvg-name="ES208:A Punt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES208" group-title="1_mes", A Punt
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52399
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES210:Gracia TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES210" group-title="1_mes", Gracia TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52397
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES211:8TV Madrid" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES211AXNWhiteHD.png" group-title="1_mes", 8TV Madrid
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52396
+#EXTINF:-1 tvg-id="bom.cine.es" tvg-name="ES212:BOM CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="1_mes", BOM CINE
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52395
+#EXTINF:-1 tvg-id="calle.13.es" tvg-name="ES213:Calle 13 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES213Calle13HD.png" group-title="1_mes", Calle 13 FHD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52394
+#EXTINF:-1 tvg-id="movistar.accion.es" tvg-name="ES214:Movistar Accion SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES214MovistarAccion.png" group-title="1_mes", Movistar Accion SD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52393
+#EXTINF:-1 tvg-id="movistar.xtra.es" tvg-name="ES217:Movistar Drama HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES217MovistarXtra.png" group-title="1_mes", Movistar Drama HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52390
+#EXTINF:-1 tvg-id="movistar.estrenos.es" tvg-name="ES219:Movistar Estrenos 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES219MovistarEstrenos.png" group-title="1_mes", Movistar Estrenos 2
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52388
+#EXTINF:-1 tvg-id="beteve.es" tvg-name="ES220:Beteve" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES220" group-title="1_mes", Beteve
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52387
+#EXTINF:-1 tvg-id="comedy.central.es" tvg-name="ES221:M+ Laliga Smartbank TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES221" group-title="1_mes", M+ Laliga Smartbank TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52386
+#EXTINF:-1 tvg-id="nautical.es" tvg-name="ES223:Nautical" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES223" group-title="1_mes", Nautical
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52384
+#EXTINF:-1 tvg-id="movistar.series.es" tvg-name="ES224:Movistar Series FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES224MoviestarSeries.png" group-title="1_mes", Movistar Series FHD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52383
+#EXTINF:-1 tvg-id="" tvg-name="ES225:Levante TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES225TelevisaHD.png" group-title="1_mes", Levante TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52382
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ES226:Energy SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES226Energy.png" group-title="1_mes", Energy SD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52381
+#EXTINF:-1 tvg-id="la.7.es" tvg-name="ES233:LA 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES233" group-title="1_mes", LA 7
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52374
+#EXTINF:-1 tvg-id="dark.es" tvg-name="ES236:Dark HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES236DarkHD.png" group-title="1_mes", Dark HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52371
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES237:TVG Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES237" group-title="1_mes", TVG Cultura
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52370
+#EXTINF:-1 tvg-id="movistar.el.partidazo.es" tvg-name="ES241:Movistar Partidazo HD (event only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES241MovistarPartidazoHD(eventonly).png" group-title="1_mes", Movistar Partidazo HD (event only)
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52366
+#EXTINF:-1 tvg-id="movistar.f1.es" tvg-name="ES242:DAZN Formula 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES242MovistarF1.png" group-title="1_mes", DAZN Formula 1 HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52365
+#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="ES243:Real Madrid TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES243RealMadridTV.png" group-title="1_mes", Real Madrid TV SD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52364
+#EXTINF:-1 tvg-id="m.liga.campeones.11.es" tvg-name="ES250:M+ Liga de Campeones 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="1_mes", M+ Liga de Campeones 11
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52357
+#EXTINF:-1 tvg-id="movistar.deportes.2.es" tvg-name="ES251:Multi Deporte" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES251CanalDeportes.png" group-title="1_mes", Multi Deporte
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52356
+#EXTINF:-1 tvg-id="es." tvg-name="ES252:PPV 5 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES252" group-title="1_mes", PPV 5 (LIVE EVENT)
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52355
+#EXTINF:-1 tvg-id="24.horas.es" tvg-name="ES253:AMC Crime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES253" group-title="1_mes", AMC Crime
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52354
+#EXTINF:-1 tvg-id="" tvg-name="ES256:Nortevision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES256" group-title="1_mes", Nortevision
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52351
+#EXTINF:-1 tvg-id="bein.sports.es" tvg-name="ES257:BeinSport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES257BeinSportHD.png" group-title="1_mes", BeinSport HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52350
+#EXTINF:-1 tvg-id="movistar.laliga.es" tvg-name="ES258:DAZN 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES258DAZN2.png" group-title="1_mes", DAZN 4
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52349
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES263:Movistar GOLF SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES263CANALGOLF.png" group-title="1_mes", Movistar GOLF SD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52344
+#EXTINF:-1 tvg-id="popular.murcia.es" tvg-name="ES268:Popular TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES268" group-title="1_mes", Popular TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52339
+#EXTINF:-1 tvg-id="" tvg-name="ES273:XTRM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES273DWHD.png" group-title="1_mes", XTRM HD
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52334
+#EXTINF:-1 tvg-id="m.liga.campeones.12.es" tvg-name="ES274:M+ Liga de Campeones 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="1_mes", M+ Liga de Campeones 12
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52333
+#EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="ES275:Molahits TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES275" group-title="1_mes", Molahits TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52332
+#EXTINF:-1 tvg-id="la.1.es" tvg-name="ES277:Bon Dia TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES277" group-title="1_mes", Bon Dia TV
+http://kun0515es.cularu.com:8880/1mms0023/31498741/52330
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="IPTV_1", LA 1
 http://91.126.182.211:9981/stream/channelid/1481653854?profile=pass
 #EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="IPTV_1", LA 2
