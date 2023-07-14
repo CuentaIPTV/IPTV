@@ -1,2155 +1,401 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="es." tvg-name="ES001:#0 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES001#0 HD.png" group-title="1_mes", #0 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2603
-#EXTINF:-1 tvg-id="24.horas.es" tvg-name="ES002:24 Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES002 24Horas.png" group-title="1_mes", 24 Horas
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2602
-#EXTINF:-1 tvg-id="a.e.es" tvg-name="ES003:A&E ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES003A&EES.png" group-title="1_mes", A&E ES
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2601
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES004:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES004AMCES.png" group-title="1_mes", AMC HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2600
-#EXTINF:-1 tvg-id="antena.3.es" tvg-name="ES005:Antena 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES005Antena3.png" group-title="1_mes", Antena 3 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2599
-#EXTINF:-1 tvg-id="axn.es" tvg-name="ES006:AXN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES006AXNES.png" group-title="1_mes", AXN HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2598
-#EXTINF:-1 tvg-id="axn.white.es" tvg-name="ES007:AXN White HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES007AXNWhite.png" group-title="1_mes", AXN White HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2597
-#EXTINF:-1 tvg-id="baby.es" tvg-name="ES008:Baby TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES008BabyTV.png" group-title="1_mes", Baby TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2596
-#EXTINF:-1 tvg-id="barca.es" tvg-name="ES009:Barca TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES009BarcaTV.png" group-title="1_mes", Barca TV HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2595
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES010:M Liga de Campeones HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES010MLigadeCam.png" group-title="1_mes", M Liga de Campeones HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2594
-#EXTINF:-1 tvg-id="boing.es" tvg-name="ES011:Boing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES011Boing.png" group-title="1_mes", Boing
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2593
-#EXTINF:-1 tvg-id="calle.13.es" tvg-name="ES012:Calle 13 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES012Calle13.png" group-title="1_mes", Calle 13 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2592
-#EXTINF:-1 tvg-id="YesAction.il" tvg-name="ES013:Movistar Accion HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES013MAction.png" group-title="1_mes", Movistar Accion HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2591
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES014:M Deportes 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES014MDeportes2.png" group-title="1_mes", M Deportes 2
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2590
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES015:M Deportes 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES015MDeportes1.png" group-title="1_mes", M Deportes 1
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2589
-#EXTINF:-1 tvg-id="movistar.estrenos.es" tvg-name="ES016:Movistar Estrenos HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES016MEstrenos.png" group-title="1_mes", Movistar Estrenos HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2588
-#EXTINF:-1 tvg-id="m..deportes.1.es" tvg-name="ES017:M.Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES017MFutbol.png" group-title="1_mes", M.Deportes
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2587
-#EXTINF:-1 tvg-id="movistar.golf.es" tvg-name="ES018:Movistar GOLF HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES018MGolf.png" group-title="1_mes", Movistar GOLF HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2586
-#EXTINF:-1 tvg-id="movistar.series.xtra.es" tvg-name="ES019:Movistar Series Xtra HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES019MSeriesXtra.png" group-title="1_mes", Movistar Series Xtra HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2585
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES020:Toros TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES020Toros.png" group-title="1_mes", Toros TV HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2584
-#EXTINF:-1 tvg-id="movistar.xtra.es" tvg-name="ES021:Movistar Xtra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES021MXtra.png" group-title="1_mes", Movistar Xtra
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2583
-#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES022:Cocina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES022Cocina.png" group-title="1_mes", Cocina
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2582
-#EXTINF:-1 tvg-id="movistar.dcine.es" tvg-name="ES023:Movistar Dcine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES023MDcine.png" group-title="1_mes", Movistar Dcine
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2581
-#EXTINF:-1 tvg-id="decasa.es" tvg-name="ES024:DeCasa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES024DeCasa.png" group-title="1_mes", DeCasa
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2580
-#EXTINF:-1 tvg-id="movistar.series.es" tvg-name="ES025:Movistar Series 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES025MSERIESHD.png" group-title="1_mes", Movistar Series 2 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2579
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES026:Movistar Formula 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES026MFormula1.png" group-title="1_mes", Movistar Formula 1 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2578
-#EXTINF:-1 tvg-id="moto.gp.es" tvg-name="ES027:Movistar MotoGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES027MMotoGP.png" group-title="1_mes", Movistar MotoGP
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2577
-#EXTINF:-1 tvg-id="caza.y.pesca.es" tvg-name="ES028:Caza Y Pesca HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES028CazaYPesca.png" group-title="1_mes", Caza Y Pesca HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2576
-#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES029:Clan Tve" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES029ClanTve.png" group-title="1_mes", Clan Tve
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2575
-#EXTINF:-1 tvg-id="comedy.central.es" tvg-name="ES030:Comedy Central HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES030ComedyCentral.png" group-title="1_mes", Comedy Central HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2574
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES031:Cosmo HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES031Cosmo.png" group-title="1_mes", Cosmo HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2573
-#EXTINF:-1 tvg-id="crimen.investigacion.es" tvg-name="ES032:Crimen+ Investigacion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES032CrimenInvestigation.png" group-title="1_mes", Crimen+ Investigacion
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2572
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES033:Cuatro HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES033Cuatro.png" group-title="1_mes", Cuatro HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2571
-#EXTINF:-1 tvg-id="discovery.es" tvg-name="ES034:Discovery Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES034DiscoveryES.png" group-title="1_mes", Discovery Channel HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2570
-#EXTINF:-1 tvg-id="disney.es" tvg-name="ES035:Disney Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES035DisneyES.png" group-title="1_mes", Disney Channel HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2569
-#EXTINF:-1 tvg-id="disney.junior.es" tvg-name="ES036:Disney JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES036DisneyJRES.png" group-title="1_mes", Disney JR HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2568
-#EXTINF:-1 tvg-id="disney.xd.se" tvg-name="ES037:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES037DisneyXDES.png" group-title="1_mes", Disney XD HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2567
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES038:Divinity HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES038Divinity.png" group-title="1_mes", Divinity HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2566
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ES039:Energy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES039Energy.png" group-title="1_mes", Energy HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2565
-#EXTINF:-1 tvg-id="eurosport.1.es" tvg-name="ES040:EUROSPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES040EuroSport1.png" group-title="1_mes", EUROSPORT 1 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2564
-#EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="ES041:EUROSPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES041EuroSport2.png" group-title="1_mes", EUROSPORT 2 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2563
-#EXTINF:-1 tvg-id="fdf.telecinco.es" tvg-name="ES042:FDF TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES042FDF.png" group-title="1_mes", FDF TV HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2562
-#EXTINF:-1 tvg-id="fox.es" tvg-name="ES043:Fox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES043FoxES.png" group-title="1_mes", Fox HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2561
-#EXTINF:-1 tvg-id="fox.life.es" tvg-name="ES044:Fox Life HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES044FoxLifeES.png" group-title="1_mes", Fox Life HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2560
-#EXTINF:-1 tvg-id="gol.es" tvg-name="ES045:GOL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES045GOLTV.png" group-title="1_mes", GOL TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2559
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES046:Historia HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES046Historia.png" group-title="1_mes", Historia HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2558
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES047:Hollywood" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES047Hollywood.png" group-title="1_mes", Hollywood
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2557
-#EXTINF:-1 tvg-id="iberalia.es" tvg-name="ES048:Iberalia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES048Iberalia.png" group-title="1_mes", Iberalia
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2556
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES049:LA 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES049LA1.png" group-title="1_mes", LA 1 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2555
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES050:LA 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES050LA2.png" group-title="1_mes", LA 2 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2554
-#EXTINF:-1 tvg-id="laliga.es" tvg-name="ES051:LaLiga TV Bar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES051LaLigaTV.png" group-title="1_mes", LaLiga TV Bar
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2553
-#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES052:La Sexta HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES052LaSexta.png" group-title="1_mes", La Sexta HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2552
-#EXTINF:-1 tvg-id="movistar.comedia.es" tvg-name="ES053:Movistar Comedia HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES053MComedia.png" group-title="1_mes", Movistar Comedia HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2551
-#EXTINF:-1 tvg-id="mega.es" tvg-name="ES054:Mega HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES054Mega.png" group-title="1_mes", Mega HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2550
-#EXTINF:-1 tvg-id="mtv.es" tvg-name="ES055:MTV ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES055MTVES.png" group-title="1_mes", MTV ES
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2549
-#EXTINF:-1 tvg-id="nat.geo.wild.es" tvg-name="ES056:NAT GEO WILD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES056NATGEOWILDES.png" group-title="1_mes", NAT GEO WILD HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2548
-#EXTINF:-1 tvg-id="national.geographic.es" tvg-name="ES057:NAT GEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES057NATGEOES.png" group-title="1_mes", NAT GEO HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2547
-#EXTINF:-1 tvg-id="neox.es" tvg-name="ES058:NEOX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES058NEOX.png" group-title="1_mes", NEOX HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2546
-#EXTINF:-1 tvg-id="nick.jr.es" tvg-name="ES059:NICK JR ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES059NICKJRES.png" group-title="1_mes", NICK JR ES
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2545
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES060:Nickelodeon HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES060NickelodeonES.png" group-title="1_mes", Nickelodeon HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2544
-#EXTINF:-1 tvg-id="canal.decasa.es" tvg-name="ES061:Canal De Casa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES061CanalDECase.png" group-title="1_mes", Canal De Casa
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2543
-#EXTINF:-1 tvg-id="nova.es" tvg-name="ES062:NOVA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES062NOVA.png" group-title="1_mes", NOVA
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2542
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES063:Odisea" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES063Odisea.png" group-title="1_mes", Odisea
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2541
-#EXTINF:-1 tvg-id="canal.panda.es" tvg-name="ES064:Panda" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES064Panda.png" group-title="1_mes", Panda
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2540
-#EXTINF:-1 tvg-id="paramount.es" tvg-name="ES065:Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES065Paramount.png" group-title="1_mes", Paramount
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2539
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES066:Syfy ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES066SyfyES.png" group-title="1_mes", Syfy ES
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2538
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES067:TCM ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES067TCMES.png" group-title="1_mes", TCM ES
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2537
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES068:Telecinco HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES068Telecinco.png" group-title="1_mes", Telecinco HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2536
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES069:Teledeport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES069Teledeport.png" group-title="1_mes", Teledeport
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2535
-#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES070:TNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES070TNTES.png" group-title="1_mes", TNT HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2534
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES071:Viajar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES071Viajar.png" group-title="1_mes", Viajar
-http://kun0515es.cularu.com:8880/1mms0023/31498741/2533
-#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES073:DKISS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES073DKISS.png" group-title="1_mes", DKISS
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29319
-#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES074:Extremadura HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES074ExtremaduraHD.png" group-title="1_mes", Extremadura HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29318
-#EXTINF:-1 tvg-id="cazavision.es" tvg-name="ES075:CazavisiÓn" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES075" group-title="1_mes", CazavisiÓn
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29317
-#EXTINF:-1 tvg-id="mezzo.live.es" tvg-name="ES076:MEZZO LIVE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES076MEZZOLIVEHD.png" group-title="1_mes", MEZZO LIVE HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29316
-#EXTINF:-1 tvg-id="movistar.cine.espanol.es" tvg-name="ES077:MoviStar Cine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES077MoviStarCine.png" group-title="1_mes", MoviStar Cine
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29315
-#EXTINF:-1 tvg-id="ten.es" tvg-name="ES078:TEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES078MovistarCineDoc&Roll.png" group-title="1_mes", TEN
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29314
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES079:Vamos HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES079Vamos.png" group-title="1_mes", Vamos HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29313
-#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES080:Blaze TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES080BLAZE.png" group-title="1_mes", Blaze TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29312
-#EXTINF:-1 tvg-id="somos.es" tvg-name="ES081:SOMOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES081SOMOS.png" group-title="1_mes", SOMOS
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29311
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES083:Esperanza TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES083" group-title="1_mes", Esperanza TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29309
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES084:M. LaLiga FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES084MLaLIGA.png" group-title="1_mes", M. LaLiga FHD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29308
-#EXTINF:-1 tvg-id="canal.futbol.replay.es" tvg-name="ES085:M+ Liga de Campeones 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES085M LigadeCampeones.png" group-title="1_mes", M+ Liga de Campeones 9
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29307
-#EXTINF:-1 tvg-id="m.deportes.3.es" tvg-name="ES086:M+ Deportes 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES086CanalDEPORTESHD.png" group-title="1_mes", M+ Deportes 3
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29306
-#EXTINF:-1 tvg-id="m.deportes.4.es" tvg-name="ES087:M+ Deportes 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES087CanalDEPORTES2HD.png" group-title="1_mes", M+ Deportes 4
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29305
-#EXTINF:-1 tvg-id="" tvg-name="ES089:M+ Dazn LaLiga 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES089" group-title="1_mes", M+ Dazn LaLiga 1
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29303
-#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES091:Alquiler HD 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES091MovistarAlquiler4.png" group-title="1_mes", Alquiler HD 1
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29301
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES092:M. LaLiga HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES092MOVISTARLiga.png" group-title="1_mes", M. LaLiga HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29300
-#EXTINF:-1 tvg-id="40tv.es" tvg-name="ES093:SOFY TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES09340" group-title="1_mes", SOFY TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29299
-#EXTINF:-1 tvg-id="m.laliga.1.es" tvg-name="ES095:M+ LaLiga 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES095MOVISTAR LaLiga.png" group-title="1_mes", M+ LaLiga 1
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29297
-#EXTINF:-1 tvg-id="m.laliga.2.es" tvg-name="ES096:M+ LaLiga 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES096MOVISTAR Laliga.png" group-title="1_mes", M+ LaLiga 2
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29296
-#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES097:DMAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES097DMAX.png" group-title="1_mes", DMAX
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29295
-#EXTINF:-1 tvg-id="" tvg-name="ES098:Taquilla 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES098TAQUILLA1.png" group-title="1_mes", Taquilla 1 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29294
-#EXTINF:-1 tvg-id="" tvg-name="ES099:Taquilla 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES099TAQUILLA10.png" group-title="1_mes", Taquilla 2 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29293
-#EXTINF:-1 tvg-id="" tvg-name="ES100:Taquilla 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES100TAQUILLA2.png" group-title="1_mes", Taquilla 3 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29292
-#EXTINF:-1 tvg-id="" tvg-name="ES101:Taquilla 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES101TAQUILLA3.png" group-title="1_mes", Taquilla 4 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29291
-#EXTINF:-1 tvg-id="" tvg-name="ES102:Taquilla 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES102TAQUILLA4.png" group-title="1_mes", Taquilla 5 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29290
-#EXTINF:-1 tvg-id="" tvg-name="ES103:Taquilla 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES103TAQUILLA5.png" group-title="1_mes", Taquilla 6 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29289
-#EXTINF:-1 tvg-id="" tvg-name="ES104:Taquilla 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES104TAQUILLA6.png" group-title="1_mes", Taquilla 7 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29288
-#EXTINF:-1 tvg-id="" tvg-name="ES105:Taquilla 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES105TAQUILLA7.png" group-title="1_mes", Taquilla 8 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29287
-#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES108:Canal Cocina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="1_mes", Canal Cocina
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29284
-#EXTINF:-1 tvg-id="canal.sur.es" tvg-name="ES109:Canal Sur Andalucia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES109CANALSURA.png" group-title="1_mes", Canal Sur Andalucia
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29283
-#EXTINF:-1 tvg-id="alquiler.1.es" tvg-name="ES110:Alquiler HD 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES110Alquiler1.png" group-title="1_mes", Alquiler HD 2
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29282
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES112:Alquiler HD 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES112Alquiler3.png" group-title="1_mes", Alquiler HD 3
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29280
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES113:Alquiler HD 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES113Alquiler4.png" group-title="1_mes", Alquiler HD 4
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29279
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES114:Alquiler HD 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES114Alquiler5.png" group-title="1_mes", Alquiler HD 5
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29278
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES115:Alquiler HD 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES115Alquiler6.png" group-title="1_mes", Alquiler HD 6
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29277
-#EXTINF:-1 tvg-id="" tvg-name="ES116:Alquiler HD 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES116Alquiler7.png" group-title="1_mes", Alquiler HD 7
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29276
-#EXTINF:-1 tvg-id="" tvg-name="ES117:Alquiler HD 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES117Alquiler9.png" group-title="1_mes", Alquiler HD 8
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29275
-#EXTINF:-1 tvg-id="andalucia.es" tvg-name="ES118:Andalucia TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES118AndaluciaTV.png" group-title="1_mes", Andalucia TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29274
-#EXTINF:-1 tvg-id="la.resistencia.es" tvg-name="ES121:La Resistencia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES121" group-title="1_mes", La Resistencia
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29271
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES122:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES122MOVISTAR LaLiga.png" group-title="1_mes", DAZN 1
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29270
-#EXTINF:-1 tvg-id="m.laliga.3.es" tvg-name="ES123:M+ LaLiga 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES123MLaliga6.png" group-title="1_mes", M+ LaLiga 3
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29269
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES124:TRECE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES124SyfyHD.png" group-title="1_mes", TRECE
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29268
-#EXTINF:-1 tvg-id="m.laliga.4.es" tvg-name="ES125:M+ LaLiga 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES125MLaliga7.png" group-title="1_mes", M+ LaLiga 4
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29267
-#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES129:Star TVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES129" group-title="1_mes", Star TVE
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29263
-#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES130:Alquiler HD 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES130MovistarAlquiler1.png" group-title="1_mes", Alquiler HD 9
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29262
-#EXTINF:-1 tvg-id="m.laliga.5.es" tvg-name="ES131:M+ LaLiga 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES131MLaliga8.png" group-title="1_mes", M+ LaLiga 5
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29261
-#EXTINF:-1 tvg-id="m.deportes.5.es" tvg-name="ES133:M+ Deportes 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES133M. DEPORTES 1.png" group-title="1_mes", M+ Deportes 5
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29259
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES134:#VolverEsGanar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES134M. DEPORTES 2.png" group-title="1_mes", #VolverEsGanar
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29258
-#EXTINF:-1 tvg-id="m.deportes.6.es" tvg-name="ES135:M+ Deportes 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES135M. DEPORTES 3.png" group-title="1_mes", M+ Deportes 6
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29257
-#EXTINF:-1 tvg-id="m.fest.es" tvg-name="ES136:M+ Fest" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES136MLaLiga1.png" group-title="1_mes", M+ Fest
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29256
-#EXTINF:-1 tvg-id="bein.laliga.es" tvg-name="ES138:BeiN La Liga" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES138MLaLiga3.png" group-title="1_mes", BeiN La Liga
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29254
-#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES139:Alquiler HD 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES139MovistarAlquiler5.png" group-title="1_mes", Alquiler HD 10
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29253
-#EXTINF:-1 tvg-id="canal.las.estrellas.es" tvg-name="ES141:Canal de las Estrellas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES141CanaldelasEstrellas.png" group-title="1_mes", Canal de las Estrellas
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29251
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES145:Gol Mundial" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="1_mes", Gol Mundial
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29247
-#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES146:Alquiler HD 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES146MovistarAlquiler2.png" group-title="1_mes", Alquiler HD 11
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29246
-#EXTINF:-1 tvg-id="classica.es" tvg-name="ES147:Classica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES147Classica.png" group-title="1_mes", Classica
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29245
-#EXTINF:-1 tvg-id="" tvg-name="ES148:TVE LA 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES148TVELA2HD.png" group-title="1_mes", TVE LA 2 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29244
-#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="ES151:Real Madrid TVHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES151RealMadridTV.png" group-title="1_mes", Real Madrid TVHD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29241
-#EXTINF:-1 tvg-id="" tvg-name="ES152:Esperanza TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES152EsperanzaTV.png" group-title="1_mes", Esperanza TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29240
-#EXTINF:-1 tvg-id="barca.es" tvg-name="ES153:Barca TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES153BARCATV.png" group-title="1_mes", Barca TV SD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29239
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES154:Galicia TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES154GALICIATV.png" group-title="1_mes", Galicia TV HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29238
-#EXTINF:-1 tvg-id="" tvg-name="ES155:ETB 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES155AztecaHonduras.png" group-title="1_mes", ETB 1
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29237
-#EXTINF:-1 tvg-id="laliga.123.es" tvg-name="ES156:M+ Dazn LaLiga 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES156" group-title="1_mes", M+ Dazn LaLiga 2
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29236
-#EXTINF:-1 tvg-id="mezzo.live.es" tvg-name="ES157:ETB 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES157MEZZOLIVEFHD.png" group-title="1_mes", ETB 2
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29235
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES159:PPV 1 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES159" group-title="1_mes", PPV 1 (LIVE EVENT)
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29233
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES160:Telecinco FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES160Telecinco.png" group-title="1_mes", Telecinco FHD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29232
-#EXTINF:-1 tvg-id="la.otra.es" tvg-name="ES161:La Otra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES161" group-title="1_mes", La Otra
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29231
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES162:Telecinco SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES162Telecinco.png" group-title="1_mes", Telecinco SD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29230
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES163:Teledeporte HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES163Teledeporte.png" group-title="1_mes", Teledeporte HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29229
-#EXTINF:-1 tvg-id="" tvg-name="ES164:PPV 2 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES164" group-title="1_mes", PPV 2 (LIVE EVENT)
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29228
-#EXTINF:-1 tvg-id="" tvg-name="ES165:PPV 3 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES165" group-title="1_mes", PPV 3 (LIVE EVENT)
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29227
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES166:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES166DAZNMOTOGP.png" group-title="1_mes", DAZN 2
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29226
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES167:Sundance TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES167SUNDANCEFHD.png" group-title="1_mes", Sundance TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29225
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES172:Dazn ES ( Match time only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES172:DaznES.png" group-title="1_mes", Dazn ES ( Match time only)
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29220
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES173:M+ Liga de Campeones 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES173MLigadeCampeones4.png" group-title="1_mes", M+ Liga de Campeones 10
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29219
-#EXTINF:-1 tvg-id="40.graus.br" tvg-name="ES174:DAZN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES174M.LIGADECAMPEONES6.png" group-title="1_mes", DAZN 3
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29218
-#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="ES175:Telemadrid FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES175TELEMADRIDFHD.png" group-title="1_mes", Telemadrid FHD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29217
-#EXTINF:-1 tvg-id="telesur.es" tvg-name="ES176:Canal Sur" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES176TELESURHD.png" group-title="1_mes", Canal Sur
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29216
-#EXTINF:-1 tvg-id="eitb.basque.es" tvg-name="ES177:ETB Basque" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES177" group-title="1_mes", ETB Basque
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29215
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES178:TV3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES178TVGalicia.png" group-title="1_mes", TV3 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29214
-#EXTINF:-1 tvg-id="tv3.cat.es" tvg-name="ES179:TV3 Cat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES179TV3Cat.png" group-title="1_mes", TV3 Cat
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29213
-#EXTINF:-1 tvg-id="" tvg-name="ES180:TVE 24H" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES180TVE24H.png" group-title="1_mes", TVE 24H
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29212
-#EXTINF:-1 tvg-id="tve.internacional.es" tvg-name="ES181:TVE Internacional" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES181TVEInternacional.png" group-title="1_mes", TVE Internacional
-http://kun0515es.cularu.com:8880/1mms0023/31498741/29211
-#EXTINF:-1 tvg-id="m.liga.campeones.1.es" tvg-name="ES182:M+ Liga de Campeones 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES182M1.png" group-title="1_mes", M+ Liga de Campeones 1
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52425
-#EXTINF:-1 tvg-id="m.liga.campeones.2.es" tvg-name="ES183:M+ Liga de Campeones  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES183M2.png" group-title="1_mes", M+ Liga de Campeones  2
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52424
-#EXTINF:-1 tvg-id="m.liga.campeones.3.es" tvg-name="ES184:M+ Liga de Campeones 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES184M3.png" group-title="1_mes", M+ Liga de Campeones 3
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52423
-#EXTINF:-1 tvg-id="m.liga.campeones.4.es" tvg-name="ES185:M+ Liga de Campeones 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES185M4.png" group-title="1_mes", M+ Liga de Campeones 4
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52422
-#EXTINF:-1 tvg-id="m.liga.campeones.5.es" tvg-name="ES186:M+ Liga de Campeones 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES186M5.png" group-title="1_mes", M+ Liga de Campeones 5
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52421
-#EXTINF:-1 tvg-id="m.liga.campeones.6.es" tvg-name="ES187:M+ Liga de Campeones 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES187Movistar Ligade Campeones.png" group-title="1_mes", M+ Liga de Campeones 6
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52420
-#EXTINF:-1 tvg-id="m.liga.campeones.7.es" tvg-name="ES188:M+ Liga de Campeones 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES188MovistarLigadeCampeones 2.png" group-title="1_mes", M+ Liga de Campeones 7
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52419
-#EXTINF:-1 tvg-id="m.liga.campeones.8.es" tvg-name="ES189:M+ Liga de Campeones 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES189M8.png" group-title="1_mes", M+ Liga de Campeones 8
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52418
-#EXTINF:-1 tvg-id="movistar.golf.es" tvg-name="ES190:Movistar GOLF FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES190MGOLFHD.png" group-title="1_mes", Movistar GOLF FHD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52417
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES191:Movistar Formula 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES191MFORMULA1HD.png" group-title="1_mes", Movistar Formula 1 FHD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52416
-#EXTINF:-1 tvg-id="euronews.es" tvg-name="ES192:Euronews" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES192" group-title="1_mes", Euronews
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52415
-#EXTINF:-1 tvg-id="baby.es" tvg-name="ES200:13 TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="1_mes", 13 TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52407
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES204:Alcarria TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES204" group-title="1_mes", Alcarria TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52403
-#EXTINF:-1 tvg-id="canal.sur.2.es" tvg-name="ES206:Canal Sur 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES206" group-title="1_mes", Canal Sur 2
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52401
-#EXTINF:-1 tvg-id="canal.parlamento.es" tvg-name="ES207:ESPN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES207ESPN.png" group-title="1_mes", ESPN
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52400
-#EXTINF:-1 tvg-id="a.punt.es" tvg-name="ES208:A Punt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES208" group-title="1_mes", A Punt
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52399
-#EXTINF:-1 tvg-id="fox.es" tvg-name="ES210:Gracia TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES210" group-title="1_mes", Gracia TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52397
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES211:8TV Madrid" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES211AXNWhiteHD.png" group-title="1_mes", 8TV Madrid
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52396
-#EXTINF:-1 tvg-id="bom.cine.es" tvg-name="ES212:BOM CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="1_mes", BOM CINE
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52395
-#EXTINF:-1 tvg-id="calle.13.es" tvg-name="ES213:Calle 13 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES213Calle13HD.png" group-title="1_mes", Calle 13 FHD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52394
-#EXTINF:-1 tvg-id="movistar.accion.es" tvg-name="ES214:Movistar Accion SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES214MovistarAccion.png" group-title="1_mes", Movistar Accion SD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52393
-#EXTINF:-1 tvg-id="movistar.xtra.es" tvg-name="ES217:Movistar Drama HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES217MovistarXtra.png" group-title="1_mes", Movistar Drama HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52390
-#EXTINF:-1 tvg-id="movistar.estrenos.es" tvg-name="ES219:Movistar Estrenos 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES219MovistarEstrenos.png" group-title="1_mes", Movistar Estrenos 2
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52388
-#EXTINF:-1 tvg-id="beteve.es" tvg-name="ES220:Beteve" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES220" group-title="1_mes", Beteve
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52387
-#EXTINF:-1 tvg-id="comedy.central.es" tvg-name="ES221:M+ Laliga Smartbank TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES221" group-title="1_mes", M+ Laliga Smartbank TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52386
-#EXTINF:-1 tvg-id="nautical.es" tvg-name="ES223:Nautical" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES223" group-title="1_mes", Nautical
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52384
-#EXTINF:-1 tvg-id="movistar.series.es" tvg-name="ES224:Movistar Series FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES224MoviestarSeries.png" group-title="1_mes", Movistar Series FHD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52383
-#EXTINF:-1 tvg-id="" tvg-name="ES225:Levante TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES225TelevisaHD.png" group-title="1_mes", Levante TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52382
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ES226:Energy SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES226Energy.png" group-title="1_mes", Energy SD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52381
-#EXTINF:-1 tvg-id="la.7.es" tvg-name="ES233:LA 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES233" group-title="1_mes", LA 7
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52374
-#EXTINF:-1 tvg-id="dark.es" tvg-name="ES236:Dark HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES236DarkHD.png" group-title="1_mes", Dark HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52371
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES237:TVG Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES237" group-title="1_mes", TVG Cultura
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52370
-#EXTINF:-1 tvg-id="movistar.el.partidazo.es" tvg-name="ES241:Movistar Partidazo HD (event only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES241MovistarPartidazoHD(eventonly).png" group-title="1_mes", Movistar Partidazo HD (event only)
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52366
-#EXTINF:-1 tvg-id="movistar.f1.es" tvg-name="ES242:DAZN Formula 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES242MovistarF1.png" group-title="1_mes", DAZN Formula 1 HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52365
-#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="ES243:Real Madrid TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES243RealMadridTV.png" group-title="1_mes", Real Madrid TV SD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52364
-#EXTINF:-1 tvg-id="m.liga.campeones.11.es" tvg-name="ES250:M+ Liga de Campeones 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="1_mes", M+ Liga de Campeones 11
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52357
-#EXTINF:-1 tvg-id="movistar.deportes.2.es" tvg-name="ES251:Multi Deporte" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES251CanalDeportes.png" group-title="1_mes", Multi Deporte
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52356
-#EXTINF:-1 tvg-id="es." tvg-name="ES252:PPV 5 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES252" group-title="1_mes", PPV 5 (LIVE EVENT)
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52355
-#EXTINF:-1 tvg-id="24.horas.es" tvg-name="ES253:AMC Crime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES253" group-title="1_mes", AMC Crime
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52354
-#EXTINF:-1 tvg-id="" tvg-name="ES256:Nortevision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES256" group-title="1_mes", Nortevision
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52351
-#EXTINF:-1 tvg-id="bein.sports.es" tvg-name="ES257:BeinSport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES257BeinSportHD.png" group-title="1_mes", BeinSport HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52350
-#EXTINF:-1 tvg-id="movistar.laliga.es" tvg-name="ES258:DAZN 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES258DAZN2.png" group-title="1_mes", DAZN 4
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52349
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES263:Movistar GOLF SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES263CANALGOLF.png" group-title="1_mes", Movistar GOLF SD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52344
-#EXTINF:-1 tvg-id="popular.murcia.es" tvg-name="ES268:Popular TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES268" group-title="1_mes", Popular TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52339
-#EXTINF:-1 tvg-id="" tvg-name="ES273:XTRM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES273DWHD.png" group-title="1_mes", XTRM HD
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52334
-#EXTINF:-1 tvg-id="m.liga.campeones.12.es" tvg-name="ES274:M+ Liga de Campeones 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="1_mes", M+ Liga de Campeones 12
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52333
-#EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="ES275:Molahits TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES275" group-title="1_mes", Molahits TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52332
-#EXTINF:-1 tvg-id="la.1.es" tvg-name="ES277:Bon Dia TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES277" group-title="1_mes", Bon Dia TV
-http://kun0515es.cularu.com:8880/1mms0023/31498741/52330
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="IPTV_1", LA 1
-http://91.126.182.211:9981/stream/channelid/1481653854?profile=pass
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="IPTV_1", LA 2
-http://91.126.182.211:9981/stream/channelid/1591417709?profile=pass
-#EXTINF:-1 tvg-logo=" https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="IPTV_1", ANTENA 3
-http://91.126.182.211:9981/stream/channelid/2028569190?profile=pass
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="IPTV_1", CUATRO
-http://91.126.182.211:9981/stream/channelid/578614384?profile=pass
-#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="IPTV_1", TELECINCO
-http://91.126.182.211:9981/stream/channelid/1780379446?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="IPTV_1", LA SEXTA
-http://91.126.182.211:9981/stream/channelid/835495895?profile=pass
-#EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" group-title="IPTV_1", FDF
-http://91.126.182.211:9981/stream/channelid/985066626?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="IPTV_1", NEOX
-http://91.126.182.211:9981/stream/channelid/299845058?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" group-title="IPTV_1", ENERGY
-http://91.126.182.211:9981/stream/channelid/775894541?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" group-title="IPTV_1", MEGA
-http://91.126.182.211:9981/stream/channelid/1934455848?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="IPTV_1", ATRESERIES
-http://91.126.182.211:9981/stream/channelid/1769777880?profile=pass
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA", Nova
-http://91.126.182.211:9981/stream/channelid/1803535058?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="IPTV_1", DIVINITY
-http://91.126.182.211:9981/stream/channelid/1221746786?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="IPTV_1", BE MAD
-http://91.126.182.211:9981/stream/channelid/1474330923?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/448px-DKiss.svg.png" group-title="IPTV_1", DKISS
-http://91.126.182.211:9981/stream/channelid/1862249458?profile=pass
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="IPTV_1", DMAX
-http://91.126.182.211:9981/stream/channelid/673466142?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_La_Resistencia.png/640px-Logo_La_Resistencia.png" group-title="IPTV_1", MOVISTAR La Resistencia
-http://91.126.182.211:9981/stream/channelid/1296034809?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="IPTV_1", M. ESTRENOS
-http://91.126.182.211:9981/stream/channelid/1384605787?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="IPTV_1", M. ESTRENOS 2
-http://91.126.182.211:9981/stream/channelid/133041949?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="IPTV_1", M. CLASICOS
-http://91.126.182.211:9981/stream/channelid/2000258757?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="IPTV_1", M. ACCION
-http://91.126.182.211:9981/stream/channelid/249993271?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="IPTV_1", M. COMEDIA
-http://91.126.182.211:9981/stream/channelid/108126109?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="IPTV_1", M. DRAMA
-http://91.126.182.211:9981/stream/channelid/125118391?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="IPTV_1", M. CINE Ñ
-http://91.126.182.211:9981/stream/channelid/1199729987?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="IPTV_1",  M. FEST
-http://91.126.182.211:9981/stream/channelid/967563663?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="IPTV_1", M. SERIES
-http://91.126.182.211:9981/stream/channelid/2017651828?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="IPTV_1", M. SERIES 2
-http://91.126.182.211:9981/stream/channelid/638309047?profile=pass
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC", Canal Cocina
-http://91.126.182.211:9981/stream/channelid/1349783680?profile=pass
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA", Canal Decasa
-http://91.126.182.211:9981/stream/channelid/2022731172?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="IPTV_1", CANAL Enfamilia
-http://91.126.182.211:9981/stream/channelid/881682523?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="IPTV_1", AMC BREAK
-http://91.126.182.211:9981/stream/channelid/777574468?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="IPTV_1", FOX
-http://91.126.182.211:9981/stream/channelid/1083569034?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="IPTV_1", AXN WHITE
-http://91.126.182.211:9981/stream/channelid/1814606998?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="IPTV_1", WARNER TV
-http://91.126.182.211:9981/stream/channelid/1784949419?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="IPTV_1", COMEDY CENTRAL
-http://91.126.182.211:9981/stream/channelid/1252749659?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="IPTV_1", CALLE 13
-http://91.126.182.211:9981/stream/channelid/1601665190?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="IPTV_1", COSMO
-http://91.126.182.211:9981/stream/channelid/1177129123?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="IPTV_1", AMC
-http://91.126.182.211:9981/stream/channelid/1454274294?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="IPTV_1", SYFY
-http://91.126.182.211:9981/stream/channelid/203662261?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="IPTV_1", HOLLYWOOD
-http://91.126.182.211:9981/stream/channelid/754528997?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="IPTV_1", SUNDANCE
-http://91.126.182.211:9981/stream/channelid/919050149?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="IPTV_1", PARAMOUNT CHANNEL
-http://91.126.182.211:9981/stream/channelid/343914200?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="IPTV_1", NATIONAL GEOGRAPHIC
-http://91.126.182.211:9981/stream/channelid/1774093782?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="IPTV_1", NAT GEO WILD
-http://91.126.182.211:9981/stream/channelid/2002577688?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" group-title="IPTV_1", HISTORIA
-http://91.126.182.211:9981/stream/channelid/554718047?profile=pass
-#EXTINF:-1 tvg-logo="https://www.tradingpedia.com/wp-content/uploads/2017/01/discovery-channel.png" group-title="IPTV_1", DISCOVERY CHANNEL
-http://91.126.182.211:9981/stream/channelid/1707164053?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="IPTV_1", ODISEA
-http://91.126.182.211:9981/stream/channelid/1768513451?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="IPTV_1", AMC CRIME
-http://91.126.182.211:9981/stream/channelid/1361961981?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="IPTV_1", SOMOS
-http://91.126.182.211:9981/stream/channelid/673227219?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png" group-title="IPTV_1", #0
-http://91.126.182.211:9981/stream/channelid/1383452667?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png" group-title="IPTV_1", #VAMOS
-http://91.126.182.211:9981/stream/channelid/1399294887?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="IPTV_1", M. LA LIGA
-http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="IPTV_1", 2-M. LA LIGA
-http://91.126.182.211:9981/stream/channelid/1576358286?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="IPTV_1", 3- M. LA LIGA
-http://91.126.182.211:9981/stream/channelid/305773654?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="IPTV_1", DAZN LA LIGA
-http://91.126.182.211:9981/stream/channelid/1825843097?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="IPTV_1", DAZN LA LIGA 2
-http://91.126.182.211:9981/stream/channelid/299665662?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="IPTV_1", LALIGA SMARTBANK
-http://91.126.182.211:9981/stream/channelid/572607087?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="IPTV_1", LALIGA SMARTBANK 2
-http://91.126.182.211:9981/stream/channelid/499025282?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="IPTV_1", LALIGA SMARTBANK 3
-http://91.126.182.211:9981/stream/channelid/1159002733?profile=pass
-#EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="IPTV_1", M. DEPORTES
-http://91.126.182.211:9981/stream/channelid/536601568?profile=pass
-#EXTINF:-1 tvg-logo="https://imgbox.es/images/2020/01/24/movistar_es_deportes_2701a75b2077322e9.png" group-title="IPTV_1", M. DEPORTES 2
-http://91.126.182.211:9981/stream/channelid/1593058061?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="IPTV_1", M. DEPORTES 3
-http://91.126.182.211:9981/stream/channelid/1659899874?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="IPTV_1", M. DEPORTES 4
-http://91.126.182.211:9981/stream/channelid/1727041668?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="IPTV_1", M. DEPORTES 5
-http://91.126.182.211:9981/stream/channelid/1397241615?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="IPTV_1", MOVISTAR ELLAS
-http://91.126.182.211:9981/stream/channelid/1048254491?profile=pass
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7a/ca/6f/7aca6ffec719da865eb46d6aaf8741ed.jpg" group-title="IPTV_1", M. DAZN 1
-http://91.126.182.211:9981/stream/channelid/767462378?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.jpg" group-title="IPTV_1", M. DAZN 2
-http://91.126.182.211:9981/stream/channelid/231014827?profile=pass
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="IPTV_1", M. DAZN 3
-http://91.126.182.211:9981/stream/channelid/1821619927?profile=pass
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="IPTV_1", M. DAZN 4
-http://91.126.182.211:9981/stream/channelid/2136441687?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="IPTV_1", DAZN F1
-http://91.126.182.211:9981/stream/channelid/1224119598?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="IPTV_1", 4-M. CAMPEONES
-http://91.126.182.211:9981/stream/channelid/2012287585?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="IPTV_1", M. CAMPEONES 2
-http://91.126.182.211:9981/stream/channelid/831567445?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="IPTV_1", M. CAMPEONES 3
-http://91.126.182.211:9981/stream/channelid/1184226047?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="IPTV_1", M. CAMPEONES 4
-http://91.126.182.211:9981/stream/channelid/2112928519?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="IPTV_1", 1M. CAMPEONES 5
-http://91.126.182.211:9981/stream/channelid/1701144748?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="IPTV_1", M. CAMPEONES
-http://91.126.182.211:9981/stream/channelid/1370682926?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="IPTV_1", M. CAMPEONES 7
-http://91.126.182.211:9981/stream/channelid/2086853041?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="IPTV_1", M. CAMPEONES 8
-http://91.126.182.211:9981/stream/channelid/887704088?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" group-title="IPTV_1", M. CAMPEONES 9
-http://91.126.182.211:9981/stream/channelid/1083685514?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" group-title="IPTV_1", M. CAMPEONES 10
-http://91.126.182.211:9981/stream/channelid/306322600?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" group-title="IPTV_1", M. CAMPEONES 12
-http://91.126.182.211:9981/stream/channelid/140597735?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" group-title="IPTV_1", M. CAMPEONES 13
-http://91.126.182.211:9981/stream/channelid/1059960509?profile=pass
-#EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="IPTV_1", M. DEPORTES 6
-http://91.126.182.211:9981/stream/channelid/554226443?profile=pass
-#EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="IPTV_1", M. DEPORTES 7
-http://91.126.182.211:9981/stream/channelid/1205411394?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="IPTV_1", M. GOLF
-http://91.126.182.211:9981/stream/channelid/1274228543?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="IPTV_1", EUROSPORT 1
-http://91.126.182.211:9981/stream/channelid/354032384?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="IPTV_1", EUROSPORT 2
-http://91.126.182.211:9981/stream/channelid/1383612804?profile=pass
-#EXTINF:-1 tvg-logo="https://www.noticanarias.com/wp-content/uploads/2020/06/Logo-GOL.jpg" group-title="IPTV_1", GOL TV
-http://91.126.182.211:9981/stream/channelid/635853308?profile=pass
-#EXTINF:-1 tvg-logo="" group-title="IPTV_1", Real Madrid TV
-http://91.126.182.211:9981/stream/channelid/1048631351?profile=pass
-#EXTINF:-1 tvg-logo="http://storage.anacondatv.me/logos/spain/Caza_y_Pesca.jpg" group-title="IPTV_1", CAZA Y PESCA
-http://91.126.182.211:9981/stream/channelid/646516821?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="IPTV_1", MUNDOTORO HD
-http://91.126.182.211:9981/stream/channelid/1526059946?profile=pass
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV", Canal Sur Andalucia
-http://91.126.182.211:9981/stream/channelid/322004869?profile=pass
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON", Aragon TV Int
-http://91.126.182.211:9981/stream/channelid/1866453911?profile=pass
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/702/13/png-transparent-nickelodeon-logo-wikipedia-logo-nickelodeon-movies-speechlanguage-pathology-nickelodeon-splat-orange-text-line.png" group-title="IPTV_1", NICKELODEON
-http://91.126.182.211:9981/stream/channelid/497509915?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="IPTV_1", Disney Channel
-http://91.126.182.211:9981/stream/channelid/1908222456?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="IPTV_1", Disney Channel
-http://91.126.182.211:9981/stream/channelid/2102239398?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="IPTV_1", DREAMWORKS
-http://91.126.182.211:9981/stream/channelid/1030964347?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="IPTV_1", Nick Jr
-http://91.126.182.211:9981/stream/channelid/630484874?profile=pass
-
-
-#EXTINF:0 group-title="IPTV_4", #0ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48632
-#EXTINF:0 group-title="IPTV_4", #0ⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48674
-#EXTINF:0 group-title="IPTV_4", #0ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48703
-#EXTINF:0 group-title="IPTV_4", #0ⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48704
-#EXTINF:0 group-title="IPTV_4", 1 Music Hungriaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94231
-#EXTINF:0 group-title="IPTV_4", 101 TV Málagaⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93391
-#EXTINF:0 group-title="IPTV_4", 24 Horasⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49365
-#EXTINF:0 group-title="IPTV_4", 24 Horasⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48687
-#EXTINF:0 group-title="IPTV_4", 24 Horasⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/529
-#EXTINF:0 group-title="IPTV_4", 25 TV Cataluñaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93513
-#EXTINF:0 group-title="IPTV_4", 28 Kanalaⓧ OFFLINE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94211
-#EXTINF:0 group-title="IPTV_4", 324 Cataluñaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93501
-#EXTINF:0 group-title="IPTV_4", 33TV Cataluñaⓧ OFFLINE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93502
-#EXTINF:0 group-title="IPTV_4", 3ABNⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95116
-#EXTINF:0 group-title="IPTV_4", 4FUN TV Poloniaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94227
-#EXTINF:0 group-title="IPTV_4", 7 La Riojaⓧ OFFLINE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94204
-#EXTINF:0 group-title="IPTV_4", 7 TeleValenciaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93855
-#EXTINF:0 group-title="IPTV_4", 7 TV Murciaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49367
-#EXTINF:0 group-title="IPTV_4", 8 La Marina TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93860
-#EXTINF:0 group-title="IPTV_4", 8 TV Cádizⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93471
-#EXTINF:0 group-title="IPTV_4", A&Eⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93274
-#EXTINF:0 group-title="IPTV_4", A3 Series Internacionalⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48727
-#EXTINF:0 group-title="IPTV_4", A3 Seriesⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48649
-#EXTINF:0 group-title="IPTV_4", A3 Seriesⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48728
-#EXTINF:0 group-title="IPTV_4", ABC Australia ENⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95972
-#EXTINF:0 group-title="IPTV_4", ABC TV Paraguayⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95137
-#EXTINF:0 group-title="IPTV_4", Activa TV Españaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94216
-#EXTINF:0 group-title="IPTV_4", Al Jazeera ENⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95138
-#EXTINF:0 group-title="IPTV_4", Alacantí TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93861
-#EXTINF:0 group-title="IPTV_4", Alcarria TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93492
-#EXTINF:0 group-title="IPTV_4", AMCⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48642
-#EXTINF:0 group-title="IPTV_4", AMCⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/497
-#EXTINF:0 group-title="IPTV_4", AMCⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48790
-#EXTINF:0 group-title="IPTV_4", AMCⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48791
-#EXTINF:0 group-title="IPTV_4", Andalucia TVⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93268
-#EXTINF:0 group-title="IPTV_4", Andalucia TVⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49369
-#EXTINF:0 group-title="IPTV_4", Antena 3ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/2409
-#EXTINF:0 group-title="IPTV_4", Antena 3ⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/525
-#EXTINF:0 group-title="IPTV_4", Antena 3ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48695
-#EXTINF:0 group-title="IPTV_4", Antena 3ⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48696
-#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="Channels",ES | Aragon TV SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49370
-#EXTINF:0 group-title="IPTV_4", Aragon TVⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93475
-#EXTINF:0 group-title="IPTV_4", Aragon TVⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93269
-#EXTINF:0 group-title="IPTV_4", Armada TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93482
-#EXTINF:0 group-title="IPTV_4", ATV Andorraⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95119
-#EXTINF:0 group-title="IPTV_4", AXN Whiteⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48644
-#EXTINF:0 group-title="IPTV_4", AXN Whiteⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/500
-#EXTINF:0 group-title="IPTV_4", AXN Whiteⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48719
-#EXTINF:0 group-title="IPTV_4", AXN Whiteⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48720
-#EXTINF:0 group-title="IPTV_4", AXNⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48637
-#EXTINF:0 group-title="IPTV_4", AXNⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/499
-#EXTINF:0 group-title="IPTV_4", AXNⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48709
-#EXTINF:0 group-title="IPTV_4", AXNⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48708
-#EXTINF:0 group-title="IPTV_4", Baby TVⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48677
-#EXTINF:0 group-title="IPTV_4", Baby TVⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93270
-#EXTINF:0 group-title="IPTV_4", Bailén TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93457
-#EXTINF:0 group-title="IPTV_4", Barça TVⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/516
-#EXTINF:0 group-title="IPTV_4", Barça TVⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48847
-#EXTINF:0 group-title="IPTV_4", Be Madⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48676
-#EXTINF:0 group-title="IPTV_4", Be Madⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48775
-#EXTINF:0 group-title="IPTV_4", Be Madⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48774
-#EXTINF:0 group-title="IPTV_4", beIN Sports en Españolⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48876
-#EXTINF:0 group-title="IPTV_4", Betevéⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93271
-#EXTINF:0 group-title="IPTV_4", Blazeⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/503
-#EXTINF:0 group-title="IPTV_4", Blazeⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48778
-#EXTINF:0 group-title="IPTV_4", Blazeⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48888
-#EXTINF:0 group-title="IPTV_4", Bloomberg Europe ENⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95121
-#EXTINF:0 group-title="IPTV_4", Boingⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48683
-#EXTINF:0 group-title="IPTV_4", Boingⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48776
-#EXTINF:0 group-title="IPTV_4", Boingⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48777
-#EXTINF:0 group-title="IPTV_4", Boingⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93284
-#EXTINF:0 group-title="IPTV_4", Bon Dia TVⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93506
-#EXTINF:0 group-title="IPTV_4", C33 Madridⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93848
-#EXTINF:0 group-title="IPTV_4", Cadena Elite Españaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94217
-#EXTINF:0 group-title="IPTV_4", Calle 13ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48640
-#EXTINF:0 group-title="IPTV_4", Calle 13ⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/507
-#EXTINF:0 group-title="IPTV_4", Calle 13ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48713
-#EXTINF:0 group-title="IPTV_4", Calle 13ⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48714
-#EXTINF:0 group-title="IPTV_4", Campiña Sur TVⓧ OFFLINE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93465
-#EXTINF:0 group-title="IPTV_4", Canal 2000 La Solanaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93493
-#EXTINF:0 group-title="IPTV_4", Canal 25 Barbastro TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93477
-#EXTINF:0 group-title="IPTV_4", Canal 4 Tenerifeⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93481
-#EXTINF:0 group-title="IPTV_4", Canal 45ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93441
-#EXTINF:0 group-title="IPTV_4", Canal 56ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93870
-#EXTINF:0 group-title="IPTV_4", Canal 6 Multimedios Mexicoⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95131
-#EXTINF:0 group-title="IPTV_4", Canal Antigua Guatemalaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95135
-#EXTINF:0 group-title="IPTV_4", Canal Capital Colombiaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95132
-#EXTINF:0 group-title="IPTV_4", Canal Cocinaⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48806
-#EXTINF:0 group-title="IPTV_4", Canal Cocinaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48813
-#EXTINF:0 group-title="IPTV_4", Canal Cocinaⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93286
-#EXTINF:0 group-title="IPTV_4", Canal Costaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93446
-#EXTINF:0 group-title="IPTV_4", Canal Coínⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93469
-#EXTINF:0 group-title="IPTV_4", Canal Extremaduraⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93877
-#EXTINF:0 group-title="IPTV_4", Canal Historiaⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48760
-#EXTINF:0 group-title="IPTV_4", Canal Historiaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93277
-#EXTINF:0 group-title="IPTV_4", Canal Historiaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48761
-#EXTINF:0 group-title="IPTV_4", Canal Historiaⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48840
-#EXTINF:0 group-title="IPTV_4", Canal Málagaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93460
-#EXTINF:0 group-title="IPTV_4", Canal Pandaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48796
-#EXTINF:0 group-title="IPTV_4", Canal Pandaⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48679
-#EXTINF:0 group-title="IPTV_4", Canal Parlamentoⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93394
-#EXTINF:0 group-title="IPTV_4", Canal San Roqueⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93448
-#EXTINF:0 group-title="IPTV_4", Canal Sierra de Cádizⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93442
-#EXTINF:0 group-title="IPTV_4", Canal Taronjaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93510
-#EXTINF:0 group-title="IPTV_4", Cancionero TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93472
-#EXTINF:0 group-title="IPTV_4", Caza y Pescaⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48665
-#EXTINF:0 group-title="IPTV_4", Caza y Pescaⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/513
-#EXTINF:0 group-title="IPTV_4", Caza y Pescaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48752
-#EXTINF:0 group-title="IPTV_4", Caza y Pescaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48753
-#EXTINF:0 group-title="IPTV_4", Cazavision PTⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48801
-#EXTINF:0 group-title="IPTV_4", CGTN en Españolⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93886
-#EXTINF:0 group-title="IPTV_4", Clanⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93038
-#EXTINF:0 group-title="IPTV_4", Clanⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48804
-#EXTINF:0 group-title="IPTV_4", Clanⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48805
-#EXTINF:0 group-title="IPTV_4", Clanⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48684
-#EXTINF:0 group-title="IPTV_4", Classicaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93358
-#EXTINF:0 group-title="IPTV_4", CMMⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93488
-#EXTINF:0 group-title="IPTV_4", CNN Internacionalⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95120
-#EXTINF:0 group-title="IPTV_4", Comedy Centralⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48712
-#EXTINF:0 group-title="IPTV_4", Comedy Centralⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93290
-#EXTINF:0 group-title="IPTV_4", Comedy Centralⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48639
-#EXTINF:0 group-title="IPTV_4", Comedy Centralⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48789
-#EXTINF:0 group-title="IPTV_4", Congreso de los Diputadosⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93419
-#EXTINF:0 group-title="IPTV_4", Cosmoⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48641
-#EXTINF:0 group-title="IPTV_4", Cosmoⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/510
-#EXTINF:0 group-title="IPTV_4", Cosmoⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48715
-#EXTINF:0 group-title="IPTV_4", Cosmoⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48716
-#EXTINF:0 group-title="IPTV_4", Costa del Sol TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93456
-#EXTINF:0 group-title="IPTV_4", Costa Noroeste TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93443
-#EXTINF:0 group-title="IPTV_4", Crimen+Investigacionⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48886
-#EXTINF:0 group-title="IPTV_4", Crimen+Investigacionⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48765
-#EXTINF:0 group-title="IPTV_4", Crimen+Investigacionⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/509
-#EXTINF:0 group-title="IPTV_4", Cuatroⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48629
-#EXTINF:0 group-title="IPTV_4", Cuatroⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48884
-#EXTINF:0 group-title="IPTV_4", Cuatroⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48697
-#EXTINF:0 group-title="IPTV_4", Cuatroⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48698
-#EXTINF:0 group-title="IPTV_4", Córdoba TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93444
-#EXTINF:0 group-title="IPTV_4", Dark Redⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48779
-#EXTINF:0 group-title="IPTV_4", Dark Redⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93289
-#EXTINF:0 group-title="IPTV_4", Dark Redⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93288
-#EXTINF:0 group-title="IPTV_4", DAZN 1ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48879
-#EXTINF:0 group-title="IPTV_4", DAZN 1ⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104699
-#EXTINF:0 group-title="IPTV_4", DAZN 1ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104721
-#EXTINF:0 group-title="IPTV_4", DAZN 1ⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104698
-#EXTINF:0 group-title="IPTV_4", DAZN 2ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48858
-#EXTINF:0 group-title="IPTV_4", DAZN 2ⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48881
-#EXTINF:0 group-title="IPTV_4", DAZN 2ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104700
-#EXTINF:0 group-title="IPTV_4", DAZN 2ⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104701
-#EXTINF:0 group-title="IPTV_4", DAZN 3ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48880
-#EXTINF:0 group-title="IPTV_4", DAZN 4ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48882
-#EXTINF:0 group-title="IPTV_4", Decasa SDⓧ HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48887
-#EXTINF:0 group-title="IPTV_4", Decasaⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48672
-#EXTINF:0 group-title="IPTV_4", Decasaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49240
-#EXTINF:0 group-title="IPTV_4", Decasaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48807
-#EXTINF:0 group-title="IPTV_4", Diez TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93455
-#EXTINF:0 group-title="IPTV_4", Discovery Channelⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48885
-#EXTINF:0 group-title="IPTV_4", Discovery Channelⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48799
-#EXTINF:0 group-title="IPTV_4", Discovery Channelⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48795
-#EXTINF:0 group-title="IPTV_4", Discovery Channelⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/518
-#EXTINF:0 group-title="IPTV_4", Disney Channelⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48682
-#EXTINF:0 group-title="IPTV_4", Disney Channelⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48826
-#EXTINF:0 group-title="IPTV_4", Disney Channelⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48802
-#EXTINF:0 group-title="IPTV_4", Disney Channelⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48803
-#EXTINF:0 group-title="IPTV_4", Disney Juniorⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48678
-#EXTINF:0 group-title="IPTV_4", Disney Juniorⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/524
-#EXTINF:0 group-title="IPTV_4", Distrito TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93849
-#EXTINF:0 group-title="IPTV_4", Divinity SDⓧ HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48769
-#EXTINF:0 group-title="IPTV_4", Divinityⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48673
-#EXTINF:0 group-title="IPTV_4", Divinityⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48768
-#EXTINF:0 group-title="IPTV_4", DKissⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93275
-#EXTINF:0 group-title="IPTV_4", DKissⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93276
-#EXTINF:0 group-title="IPTV_4", DMAXⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93291
-#EXTINF:0 group-title="IPTV_4", DMAXⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48814
-#EXTINF:0 group-title="IPTV_4", Dreamworks Animationⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93115
-#EXTINF:0 group-title="IPTV_4", Durangaldeko TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94212
-#EXTINF:0 group-title="IPTV_4", DW Alemaniaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95126
-#EXTINF:0 group-title="IPTV_4", Déjate de Historias TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93850
-#EXTINF:0 group-title="IPTV_4", ETB Basqueⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94215
-#EXTINF:0 group-title="IPTV_4", El Sembrador TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95112
-#EXTINF:0 group-title="IPTV_4", El Toro TVⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93292
-#EXTINF:0 group-title="IPTV_4", El Toro TVⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48688
-#EXTINF:0 group-title="IPTV_4", El Toro Valencia TVⓧ OFFLINE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93874
-#EXTINF:0 group-title="IPTV_4", Elche 7 TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49366
-#EXTINF:0 group-title="IPTV_4", Emmanuel TV Africaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95114
-#EXTINF:0 group-title="IPTV_4", Energyⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48650
-#EXTINF:0 group-title="IPTV_4", Energyⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48729
-#EXTINF:0 group-title="IPTV_4", Energyⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48730
-#EXTINF:0 group-title="IPTV_4", Energyⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/504
-#EXTINF:0 group-title="IPTV_4", eSport 3ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115833
-#EXTINF:0 group-title="IPTV_4", eSport 3ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115834
-#EXTINF:0 group-title="IPTV_4", Estepona TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93452
-#EXTINF:0 group-title="IPTV_4", ETB 1ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94206
-#EXTINF:0 group-title="IPTV_4", ETB 2ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94207
-#EXTINF:0 group-title="IPTV_4", ETB Satⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94208
-#EXTINF:0 group-title="IPTV_4", Eurosport 1ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48841
-#EXTINF:0 group-title="IPTV_4", Eurosport 1ⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48838
-#EXTINF:0 group-title="IPTV_4", Eurosport 1ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48662
-#EXTINF:0 group-title="IPTV_4", Eurosport 1ⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48663
-#EXTINF:0 group-title="IPTV_4", Eurosport 2ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104724
-#EXTINF:0 group-title="IPTV_4", Eurosport 2ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/2531
-#EXTINF:0 group-title="IPTV_4", Eurosport 2ⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48842
-#EXTINF:0 group-title="IPTV_4", EWTN España ENⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94256
-#EXTINF:0 group-title="IPTV_4", FDFⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48647
-#EXTINF:0 group-title="IPTV_4", FDFⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48723
-#EXTINF:0 group-title="IPTV_4", FDFⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48724
-#EXTINF:0 group-title="IPTV_4", FDFⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93285
-#EXTINF:0 group-title="IPTV_4", Fibracat TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93507
-#EXTINF:0 group-title="IPTV_4", Fibwiⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94203
-#EXTINF:0 group-title="IPTV_4", First Music Channel Bielorrusiaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94236
-#EXTINF:0 group-title="IPTV_4", FOX News ENⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/520
-#EXTINF:0 group-title="IPTV_4", FOXⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48636
-#EXTINF:0 group-title="IPTV_4", FOXⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/505
-#EXTINF:0 group-title="IPTV_4", FOXⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48707
-#EXTINF:0 group-title="IPTV_4", FOXⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48788
-#EXTINF:0 group-title="IPTV_4", France 24 Franciaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95122
-#EXTINF:0 group-title="IPTV_4", Fuengirola TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93468
-#EXTINF:0 group-title="IPTV_4", Garage TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95974
-#EXTINF:0 group-title="IPTV_4", Geo News Pakistanⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95139
-#EXTINF:0 group-title="IPTV_4", Gol TVⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/502
-#EXTINF:0 group-title="IPTV_4", Gol TVⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/521
-#EXTINF:0 group-title="IPTV_4", Gol TVⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48828
-#EXTINF:0 group-title="IPTV_4", Hamaika TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94209
-#EXTINF:0 group-title="IPTV_4", Hispan TV Iranⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95141
-#EXTINF:0 group-title="IPTV_4", Hit Music Hungriaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94232
-#EXTINF:0 group-title="IPTV_4", Hollywoodⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48818
-#EXTINF:0 group-title="IPTV_4", Hollywoodⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93287
-#EXTINF:0 group-title="IPTV_4", Hollywoodⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104836
-#EXTINF:0 group-title="IPTV_4", Hollywoodⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48797
-#EXTINF:0 group-title="IPTV_4", Iberalia TVⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48691
-#EXTINF:0 group-title="IPTV_4", Iberalia TVⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/527
-#EXTINF:0 group-title="IPTV_4", Imás TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93491
-#EXTINF:0 group-title="IPTV_4", India Today ENⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95140
-#EXTINF:0 group-title="IPTV_4", Interalmería TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93445
-#EXTINF:0 group-title="IPTV_4", Intercomarcal TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93857
-#EXTINF:0 group-title="IPTV_4", Islatelⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93466
-#EXTINF:0 group-title="IPTV_4", LA 1 Aragónⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93476
-#EXTINF:0 group-title="IPTV_4", LA 1 Canariasⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93479
-#EXTINF:0 group-title="IPTV_4", LA 1 Cataluñaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93503
-#EXTINF:0 group-title="IPTV_4", LA 1ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48627
-#EXTINF:0 group-title="IPTV_4", LA 1ⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/92195
-#EXTINF:0 group-title="IPTV_4", LA 1ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48692
-#EXTINF:0 group-title="IPTV_4", LA 1ⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48693
-#EXTINF:0 group-title="IPTV_4", LA 2 Cataluñaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93504
-#EXTINF:0 group-title="IPTV_4", LA 2ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48628
-#EXTINF:0 group-title="IPTV_4", LA 2ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/92196
-#EXTINF:0 group-title="IPTV_4", LA 2ⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/528
-#EXTINF:0 group-title="IPTV_4", LA 2ⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48694
-#EXTINF:0 group-title="IPTV_4", La 7 Castilla y Leónⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93494
-#EXTINF:0 group-title="IPTV_4", La 8 Ávilaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93495
-#EXTINF:0 group-title="IPTV_4", La 8 Bierzoⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93496
-#EXTINF:0 group-title="IPTV_4", La 8 Burgosⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93497
-#EXTINF:0 group-title="IPTV_4", La 8 Leónⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93498
-#EXTINF:0 group-title="IPTV_4", La 8 Zamoraⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93499
-#EXTINF:0 group-title="IPTV_4", La Resistenciaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104696
-#EXTINF:0 group-title="IPTV_4", La Sextaⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48631
-#EXTINF:0 group-title="IPTV_4", La Sextaⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48770
-#EXTINF:0 group-title="IPTV_4", La Sextaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48701
-#EXTINF:0 group-title="IPTV_4", La Sextaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48702
-#EXTINF:0 group-title="IPTV_4", LaLiga TV Barⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49230
-#EXTINF:0 group-title="IPTV_4", LaLiga TV Barⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/514
-#EXTINF:0 group-title="IPTV_4", Lancelot TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93486
-#EXTINF:0 group-title="IPTV_4", LaOtraⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93845
-#EXTINF:0 group-title="IPTV_4", Lebrija TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93449
-#EXTINF:0 group-title="IPTV_4", Levante TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93864
-#EXTINF:0 group-title="IPTV_4", LN24 Bélgica FRⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95128
-#EXTINF:0 group-title="IPTV_4", Locomotion TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95973
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 01ⓧ FHD (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48875
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 01ⓧ HD (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48874
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 02ⓧ FHD (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48873
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 02ⓧ HD (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48872
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 03ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48852
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 04ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48871
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 05ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48870
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 06ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48869
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 07ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48868
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 08ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48867
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 09ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104717
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 10ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104718
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 11ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104719
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 12ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104720
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeonesⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48851
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeonesⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48865
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeonesⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48831
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeonesⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48866
-#EXTINF:0 group-title="IPTV_4", M. DAZN F1ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48830
-#EXTINF:0 group-title="IPTV_4", M. DAZN F1ⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/495
-#EXTINF:0 group-title="IPTV_4", M. DAZN F1ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48832
-#EXTINF:0 group-title="IPTV_4", M. DAZN F1ⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104702
-#EXTINF:0 group-title="IPTV_4", m2o Italiaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94229
-#EXTINF:0 group-title="IPTV_4", M95 Marbellaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93440
-#EXTINF:0 group-title="IPTV_4", Maestrat TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93872
-#EXTINF:0 group-title="IPTV_4", Marbella TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93453
-#EXTINF:0 group-title="IPTV_4", María Visión Mexicoⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95113
-#EXTINF:0 group-title="IPTV_4", Megaⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48675
-#EXTINF:0 group-title="IPTV_4", Megaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48772
-#EXTINF:0 group-title="IPTV_4", Megaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48773
-#EXTINF:0 group-title="IPTV_4", Melilla TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94205
-#EXTINF:0 group-title="IPTV_4", Melody Channel Colombiaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94252
-#EXTINF:0 group-title="IPTV_4", Mezzo Liveⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48686
-#EXTINF:0 group-title="IPTV_4", Mezzoⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48660
-#EXTINF:0 group-title="IPTV_4", Mijas 3.40 TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93439
-#EXTINF:0 group-title="IPTV_4", Movistar Acciónⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48653
-#EXTINF:0 group-title="IPTV_4", Movistar Acciónⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/501
-#EXTINF:0 group-title="IPTV_4", Movistar Acciónⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48798
-#EXTINF:0 group-title="IPTV_4", Movistar Acciónⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/487
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 01ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48808
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 02ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48809
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 03ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48810
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 04ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48811
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 05ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48812
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 06ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93120
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 07ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93121
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 08ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93122
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 09ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93123
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 10ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93124
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 11ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93125
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 12ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93126
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 13ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48862
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 14ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48861
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler 15ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48860
-#EXTINF:0 group-title="IPTV_4", Movistar Alquiler Presentationⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95106
-#EXTINF:0 group-title="IPTV_4", Movistar Cine Españolⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48656
-#EXTINF:0 group-title="IPTV_4", Movistar Cine Españolⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/523
-#EXTINF:0 group-title="IPTV_4", Movistar Classicosⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115835
-#EXTINF:0 group-title="IPTV_4", Movistar Classicosⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115836
-#EXTINF:0 group-title="IPTV_4", Movistar Comediaⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48654
-#EXTINF:0 group-title="IPTV_4", Movistar Comediaⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/488
-#EXTINF:0 group-title="IPTV_4", Movistar Comediaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48792
-#EXTINF:0 group-title="IPTV_4", Movistar Comediaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48793
-#EXTINF:0 group-title="IPTV_4", Movistar Deportes 1ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48659
-#EXTINF:0 group-title="IPTV_4", Movistar Deportes 2ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93116
-#EXTINF:0 group-title="IPTV_4", Movistar Deportes 3ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93117
-#EXTINF:0 group-title="IPTV_4", Movistar Deportes 4ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93118
-#EXTINF:0 group-title="IPTV_4", Movistar Deportes 5ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93119
-#EXTINF:0 group-title="IPTV_4", Movistar Deportesⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48864
-#EXTINF:0 group-title="IPTV_4", Movistar Deportesⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93131
-#EXTINF:0 group-title="IPTV_4", Movistar Deportesⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/493
-#EXTINF:0 group-title="IPTV_4", Movistar Deportesⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48834
-#EXTINF:0 group-title="IPTV_4", Movistar Disney+ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48827
-#EXTINF:0 group-title="IPTV_4", Movistar Dramaⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48655
-#EXTINF:0 group-title="IPTV_4", Movistar Dramaⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93130
-#EXTINF:0 group-title="IPTV_4", Movistar Dramaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/489
-#EXTINF:0 group-title="IPTV_4", Movistar Dramaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48823
-#EXTINF:0 group-title="IPTV_4", Movistar Estrenos 2ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48652
-#EXTINF:0 group-title="IPTV_4", Movistar Estrenos 2ⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48822
-#EXTINF:0 group-title="IPTV_4", Movistar Estrenos 2ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48821
-#EXTINF:0 group-title="IPTV_4", Movistar Estrenos 2ⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104716
-#EXTINF:0 group-title="IPTV_4", Movistar Estrenosⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48651
-#EXTINF:0 group-title="IPTV_4", Movistar Estrenosⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/490
-#EXTINF:0 group-title="IPTV_4", Movistar Estrenosⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48731
-#EXTINF:0 group-title="IPTV_4", Movistar Estrenosⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48732
-#EXTINF:0 group-title="IPTV_4", Movistar Festⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115839
-#EXTINF:0 group-title="IPTV_4", Movistar Festⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115840
-#EXTINF:0 group-title="IPTV_4", Movistar Golfⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48850
-#EXTINF:0 group-title="IPTV_4", Movistar Golfⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93132
-#EXTINF:0 group-title="IPTV_4", Movistar Golfⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/496
-#EXTINF:0 group-title="IPTV_4", Movistar Golfⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48661
-#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 01ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48855
-#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 02ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48829
-#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 03ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/74444
-#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 04ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/74445
-#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 05ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/74446
-#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 06ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/74447
-#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 07ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/74448
-#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 08ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/74449
-#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 09ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/99093
-#EXTINF:0 group-title="IPTV_4", Movistar LaLiga 10ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/99094
-#EXTINF:0 group-title="IPTV_4", Movistar LaLigaⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48853
-#EXTINF:0 group-title="IPTV_4", Movistar LaLigaⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93133
-#EXTINF:0 group-title="IPTV_4", Movistar LaLigaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48854
-#EXTINF:0 group-title="IPTV_4", Movistar LaLigaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/494
-#EXTINF:0 group-title="IPTV_4", Movistar Multideporteⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48857
-#EXTINF:0 group-title="IPTV_4", Movistar Multideporteⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/491
-#EXTINF:0 group-title="IPTV_4", Movistar Series 2ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48635
-#EXTINF:0 group-title="IPTV_4", Movistar Series 2ⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93129
-#EXTINF:0 group-title="IPTV_4", Movistar Series 2ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/492
-#EXTINF:0 group-title="IPTV_4", Movistar Series 2ⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48787
-#EXTINF:0 group-title="IPTV_4", Movistar Seriesⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48634
-#EXTINF:0 group-title="IPTV_4", Movistar Seriesⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93128
-#EXTINF:0 group-title="IPTV_4", Movistar Seriesⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93127
-#EXTINF:0 group-title="IPTV_4", Movistar Seriesⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48784
-#EXTINF:0 group-title="IPTV_4", Movistar Golf 2ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48843
-#EXTINF:0 group-title="IPTV_4", Movistar Deportes 6ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48816
-#EXTINF:0 group-title="IPTV_4", Movistar Golf 2ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48844
-#EXTINF:0 group-title="IPTV_4", Movistar Golf 2ⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/2447
-#EXTINF:0 group-title="IPTV_4", Movistar Vamosⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48633
-#EXTINF:0 group-title="IPTV_4", Movistar Vamosⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48820
-#EXTINF:0 group-title="IPTV_4", Movistar Vamosⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48785
-#EXTINF:0 group-title="IPTV_4", Movistar Vamosⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48786
-#EXTINF:0 group-title="IPTV_4", MTV 00sⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48685
-#EXTINF:0 group-title="IPTV_4", MTV 90sⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93357
-#EXTINF:0 group-title="IPTV_4", MTV Españaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48646
-#EXTINF:0 group-title="IPTV_4", MTV Españaⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93360
-#EXTINF:0 group-title="IPTV_4", MTV Hits Europeⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/2597
-#EXTINF:0 group-title="IPTV_4", My Time Movie Networkⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116083
-#EXTINF:0 group-title="IPTV_4", Mírame TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93480
-#EXTINF:0 group-title="IPTV_4", Nat Geo Wildⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48759
-#EXTINF:0 group-title="IPTV_4", Nat Geo Wildⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48819
-#EXTINF:0 group-title="IPTV_4", Nat Geo Wildⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93363
-#EXTINF:0 group-title="IPTV_4", Nat Geo Wildⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48758
-#EXTINF:0 group-title="IPTV_4", National Geographicⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48666
-#EXTINF:0 group-title="IPTV_4", National Geographicⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48817
-#EXTINF:0 group-title="IPTV_4", National Geographicⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93362
-#EXTINF:0 group-title="IPTV_4", National Geographicⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/519
-#EXTINF:0 group-title="IPTV_4", Navarra TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93852
-#EXTINF:0 group-title="IPTV_4", Negocios TVⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93390
-#EXTINF:0 group-title="IPTV_4", Neoxⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104715
-#EXTINF:0 group-title="IPTV_4", Neoxⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48726
-#EXTINF:0 group-title="IPTV_4", Neoxⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48725
-#EXTINF:0 group-title="IPTV_4", Nick JRⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93272
-#EXTINF:0 group-title="IPTV_4", Nick JRⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93273
-#EXTINF:0 group-title="IPTV_4", Nickelodeonⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48680
-#EXTINF:0 group-title="IPTV_4", Nickelodeonⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93359
-#EXTINF:0 group-title="IPTV_4", Nickelodeonⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93361
-#EXTINF:0 group-title="IPTV_4", Nickelodeonⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/522
-#EXTINF:0 group-title="IPTV_4", Niusⓧ OFFLINE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93389
-#EXTINF:0 group-title="IPTV_4", Noroeste TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93484
-#EXTINF:0 group-title="IPTV_4", NORTEvisiónⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93483
-#EXTINF:0 group-title="IPTV_4", Novaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93045
-#EXTINF:0 group-title="IPTV_4", Novaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48771
-#EXTINF:0 group-title="IPTV_4", Novaⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/526
-#EXTINF:0 group-title="IPTV_4", Ocko Chequiaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94228
-#EXTINF:0 group-title="IPTV_4", Odiseaⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48670
-#EXTINF:0 group-title="IPTV_4", Odiseaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48762
-#EXTINF:0 group-title="IPTV_4", Odiseaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48763
-#EXTINF:0 group-title="IPTV_4", Odiseaⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/511
-#EXTINF:0 group-title="IPTV_4", Oizmendi TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94213
-#EXTINF:0 group-title="IPTV_4", Olympic Channel ENGⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48856
-#EXTINF:0 group-title="IPTV_4", ON TV Portugalⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94230
-#EXTINF:0 group-title="IPTV_4", Onda 15 TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93873
-#EXTINF:0 group-title="IPTV_4", Onda Algeciras TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93450
-#EXTINF:0 group-title="IPTV_4", Onda Cadizⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93392
-#EXTINF:0 group-title="IPTV_4", Onda Digital Perúⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94246
-#EXTINF:0 group-title="IPTV_4", Onda Madridⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93846
-#EXTINF:0 group-title="IPTV_4", Paramount Networkⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48740
-#EXTINF:0 group-title="IPTV_4", Paramount Networkⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48658
-#EXTINF:0 group-title="IPTV_4", Parlamento de Andalucíaⓧ (Not 24/7)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93474
-#EXTINF:0 group-title="IPTV_4", Popular TV Cantabriaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93487
-#EXTINF:0 group-title="IPTV_4", Portal Foxmix Colombiaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94251
-#EXTINF:0 group-title="IPTV_4", Power TV Turquíaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94233
-#EXTINF:0 group-title="IPTV_4", PTV Córdobaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93467
-#EXTINF:0 group-title="IPTV_4", PTV Granadaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93464
-#EXTINF:0 group-title="IPTV_4", PTV Sevillaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93470
-#EXTINF:0 group-title="IPTV_4", QMusic Holandaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94226
-#EXTINF:0 group-title="IPTV_4", Quran TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95117
-#EXTINF:0 group-title="IPTV_4", Radio 21 Rock'n Pop Alemaniaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94234
-#EXTINF:0 group-title="IPTV_4", Radio Nacional de Españaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93424
-#EXTINF:0 group-title="IPTV_4", Rai News 24 Italia ITⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95125
-#EXTINF:0 group-title="IPTV_4", Rakuten TV Familyⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104839
-#EXTINF:0 group-title="IPTV_4", Rakuten TV Top 1ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104837
-#EXTINF:0 group-title="IPTV_4", Rakuten TV Top 2ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104838
-#EXTINF:0 group-title="IPTV_4", Real Betis TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/122226
-#EXTINF:0 group-title="IPTV_4", Real Madrid TV ENGⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104697
-#EXTINF:0 group-title="IPTV_4", Real Madrid TVⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/515
-#EXTINF:0 group-title="IPTV_4", Real Madrid TVⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48837
-#EXTINF:0 group-title="IPTV_4", Redevida Brasil PTⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95115
-#EXTINF:0 group-title="IPTV_4", Retro Plus TV Chileⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94240
-#EXTINF:0 group-title="IPTV_4", Ribera TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93859
-#EXTINF:0 group-title="IPTV_4", RT en Españolⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95130
-#EXTINF:0 group-title="IPTV_4", RTV Mogánⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93485
-#EXTINF:0 group-title="IPTV_4", RTVCEⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93842
-#EXTINF:0 group-title="IPTV_4", Runtimeⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116082
-#EXTINF:0 group-title="IPTV_4", Sal TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93458
-#EXTINF:0 group-title="IPTV_4", Sevilla FC TVⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48859
-#EXTINF:0 group-title="IPTV_4", Sky News UK ENⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95127
-#EXTINF:0 group-title="IPTV_4", Solidaria TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95107
-#EXTINF:0 group-title="IPTV_4", Somosⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48690
-#EXTINF:0 group-title="IPTV_4", Sophia TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/98956
-#EXTINF:0 group-title="IPTV_4", Star TVEⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104723
-#EXTINF:0 group-title="IPTV_4", Star TVEⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104722
-#EXTINF:0 group-title="IPTV_4", Sundance TVⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48794
-#EXTINF:0 group-title="IPTV_4", Sundance TVⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48648
-#EXTINF:0 group-title="IPTV_4", Sunnah TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95118
-#EXTINF:0 group-title="IPTV_4", SYFYⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48645
-#EXTINF:0 group-title="IPTV_4", SYFYⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/508
-#EXTINF:0 group-title="IPTV_4", SYFYⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48721
-#EXTINF:0 group-title="IPTV_4", SYFYⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48722
-#EXTINF:0 group-title="IPTV_4", TBN Españaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95109
-#EXTINF:0 group-title="IPTV_4", TCMⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48657
-#EXTINF:0 group-title="IPTV_4", TCMⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/498
-#EXTINF:0 group-title="IPTV_4", TCMⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48738
-#EXTINF:0 group-title="IPTV_4", TCMⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48739
-#EXTINF:0 group-title="IPTV_4", TEFⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94202
-#EXTINF:0 group-title="IPTV_4", Tele 7 País Vascoⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94210
-#EXTINF:0 group-title="IPTV_4", TeleAmazonas Ecuadorⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95136
-#EXTINF:0 group-title="IPTV_4", Telecincoⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48630
-#EXTINF:0 group-title="IPTV_4", Telecincoⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48883
-#EXTINF:0 group-title="IPTV_4", Telecincoⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48700
-#EXTINF:0 group-title="IPTV_4", Telecincoⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/512
-#EXTINF:0 group-title="IPTV_4", Teledeporteⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48835
-#EXTINF:0 group-title="IPTV_4", Teledeporteⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48664
-#EXTINF:0 group-title="IPTV_4", Teledeporteⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48751
-#EXTINF:0 group-title="IPTV_4", Teledeporteⓧ SD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/517
-#EXTINF:0 group-title="IPTV_4", Teleganésⓧ OFFLINE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93847
-#EXTINF:0 group-title="IPTV_4", TeleGilenaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93459
-#EXTINF:0 group-title="IPTV_4", Telemadridⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93843
-#EXTINF:0 group-title="IPTV_4", Telemúsica Colombiaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94250
-#EXTINF:0 group-title="IPTV_4", Telenovelasⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48846
-#EXTINF:0 group-title="IPTV_4", TeleRiberaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93854
-#EXTINF:0 group-title="IPTV_4", Telesaforⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93869
-#EXTINF:0 group-title="IPTV_4", Telesur Madridⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93851
-#EXTINF:0 group-title="IPTV_4", Televisión de Alicanteⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93875
-#EXTINF:0 group-title="IPTV_4", Tenⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48815
-#EXTINF:0 group-title="IPTV_4", Tevecatⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93508
-#EXTINF:0 group-title="IPTV_4", TNTⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48710
-#EXTINF:0 group-title="IPTV_4", TNTⓧ Full HD HEVC
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93364
-#EXTINF:0 group-title="IPTV_4", TNTⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48638
-#EXTINF:0 group-title="IPTV_4", TNTⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48711
-#EXTINF:0 group-title="IPTV_4", Top Latino TV Perúⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94243
-#EXTINF:0 group-title="IPTV_4", Torrevisiónⓧ OFFLINE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93454
-#EXTINF:0 group-title="IPTV_4", Trebujena TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93473
-#EXTINF:0 group-title="IPTV_4", Treceⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/2696
-#EXTINF:0 group-title="IPTV_4", Treceⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104695
-#EXTINF:0 group-title="IPTV_4", TRT World Turquía ENⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95129
-#EXTINF:0 group-title="IPTV_4", Tuya La Janda TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93451
-#EXTINF:0 group-title="IPTV_4", TV 4 Vall de Uxóⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93867
-#EXTINF:0 group-title="IPTV_4", TV Artequatreⓧ OFFLINE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93862
-#EXTINF:0 group-title="IPTV_4", TV Canariaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93478
-#EXTINF:0 group-title="IPTV_4", TV Centro Andalucíaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93447
-#EXTINF:0 group-title="IPTV_4", TV de San Vicenteⓧ OFFLINE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93865
-#EXTINF:0 group-title="IPTV_4", TV Extremeñaⓧ OFFLINE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93878
-#EXTINF:0 group-title="IPTV_4", TV Hellínⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93489
-#EXTINF:0 group-title="IPTV_4", TV Perú Noticiasⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95133
-#EXTINF:0 group-title="IPTV_4", TV3 Cataluñaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93500
-#EXTINF:0 group-title="IPTV_4", TV3 Cataluña Ràdioⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93505
-#EXTINF:0 group-title="IPTV_4", TV5Monde Francia FRⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95124
-#EXTINF:0 group-title="IPTV_4", TVG Culturaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94200
-#EXTINF:0 group-title="IPTV_4", TVG Musigalⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94199
-#EXTINF:0 group-title="IPTV_4", TVG Xabarinⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94198
-#EXTINF:0 group-title="IPTV_4", TVGⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93879
-#EXTINF:0 group-title="IPTV_4", UDTV Las Palmasⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93393
-#EXTINF:0 group-title="IPTV_4", Une Vinalopóⓧ OFFLINE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93876
-#EXTINF:0 group-title="IPTV_4", Urban Revolution Españaⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94218
-#EXTINF:0 group-title="IPTV_4", Urola TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94214
-#EXTINF:0 group-title="IPTV_4", V2Beat TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/94221
-#EXTINF:0 group-title="IPTV_4", Venezolana de Televisiónⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/95134
-#EXTINF:0 group-title="IPTV_4", Ventdelnord TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/122066
-#EXTINF:0 group-title="IPTV_4", Visión 6 TVⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93490
-#EXTINF:0 group-title="IPTV_4", Vos Tvⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/122011
-#EXTINF:0 group-title="IPTV_4", XTRMⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48689
-#EXTINF:0 group-title="IPTV_4", À Puntⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49368
-#EXTINF:0 group-title="IPTV_4", DAZN LaLigaⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104713
-#EXTINF:0 group-title="IPTV_4", DAZN LaLiga 2ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104712
-#EXTINF:0 group-title="IPTV_4", DAZN LaLigaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104711
-#EXTINF:0 group-title="IPTV_4", DAZN LaLigaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104710
-#EXTINF:0 group-title="IPTV_4", M Liga de Campeones 13ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141654
-#EXTINF:0 group-title="IPTV_4", LaLiga SmartBank 1ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141655
-#EXTINF:0 group-title="IPTV_4", LaLiga SmartBank 2ⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141656
-#EXTINF:0 group-title="IPTV_4", LaLiga SmartBank 1ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141657
-#EXTINF:0 group-title="IPTV_4", LaLiga SmartBank 2ⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141658
-#EXTINF:0 group-title="IPTV_4", Footters 1ⓧ  (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141665
-#EXTINF:0 group-title="IPTV_4", Footters 2ⓧ  (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141666
-#EXTINF:0 group-title="IPTV_4", Footters 3ⓧ  (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141667
-#EXTINF:0 group-title="IPTV_4", Footters 4ⓧ  (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141668
-#EXTINF:0 group-title="IPTV_4", Footters 5ⓧ  (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141669
-#EXTINF:0 group-title="IPTV_4", Footters 6ⓧ  (Solo Eventos)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141670
-#EXTINF:0 group-title="IPTV_4", Taquilla 1ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129168
-#EXTINF:0 group-title="IPTV_4", Taquilla 2ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129169
-#EXTINF:0 group-title="IPTV_4", Taquilla 3ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129170
-#EXTINF:0 group-title="IPTV_4", Taquilla 4ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129171
-#EXTINF:0 group-title="IPTV_4", Taquilla 5ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129172
-#EXTINF:0 group-title="IPTV_4", Taquilla 6ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129173
-#EXTINF:0 group-title="IPTV_4", Taquilla 7ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129174
-#EXTINF:0 group-title="IPTV_4", Taquilla 8ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129175
-#EXTINF:0 group-title="IPTV_4", Taquilla 9ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129176
-#EXTINF:0 group-title="IPTV_4", Taquilla 10ⓧ
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/129177
-#EXTINF:0 group-title="IPTV_4", Gol Mundialⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/145980
-#EXTINF:0 group-title="IPTV_4", M Supercopaⓧ SD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/151096
-#EXTINF:0 group-title="IPTV_4", M Supercopaⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/151097
-#EXTINF:0 group-title="IPTV_4", M Supercopaⓧ FHD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/151098
-#EXTINF:0 group-title="IPTV_4", Mundotoro TVⓧ HD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/163063
-
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/la1.png" group-title="TEST_1", LA 1
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5622.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5622.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/la2.png" group-title="TEST_1", LA 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5623.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5623.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/antena-3-es.png" group-title="TEST_1", ANTENA 3
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5555.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5555.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/cuatro-es.png" group-title="TEST_1", CUATRO
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5588.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5588.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/telecinco-es.png" group-title="TEST_1", Telecinco
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5734.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5734.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="TEST_1", LA SEXTA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5625.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5625.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/fdf-es.png" group-title="TEST_1", Factoría de Ficción
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5611.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5611.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/neox-es.png" group-title="TEST_1", NEOX
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5718.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5718.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/energy-es.png" group-title="TEST_1", ENERGY
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5603.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5603.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dmax-es.png" group-title="TEST_1", DISCOVERY MAX
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5601.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5601.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/mega-es.png" group-title="TEST_1", MEGA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5688.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5688.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dkiss-es.png" group-title="TEST_1", DKISS
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5600.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5600.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Atreseries.png" group-title="TEST_1", Atreseries
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25952.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25952.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/nova-es.png" group-title="TEST_1", NOVA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5723.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5723.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/divinity-es.png" group-title="TEST_1", DIVINITY
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5599.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5599.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/trece-es.png" group-title="TEST_1", TRECE
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5741.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5741.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/be-mad-tv-es.png" group-title="TEST_1", BE MAD
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5561.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5561.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/24h-es.png" group-title="TEST_1", 24 HORAS
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5550.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5550.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/ten-es.png" group-title="TEST_1", TEN
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5738.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5738.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/La_Resistencia.png" group-title="TEST_1", La Resistencia
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25938.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25938.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Cracks.png" group-title="TEST_1", M+ Cracks
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25940.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25940.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-accion-es.png" group-title="TEST_1", M+ Acción
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5632.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5632.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-comedia-es.png" group-title="TEST_1", M+ COMEDIA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5636.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5636.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-cine-espanol-es.png" group-title="TEST_1", M+ Cine Español
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5633.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5633.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Clasicos.png" group-title="TEST_1", M+ Clásicos
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5634.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5634.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-drama-es.png" group-title="TEST_1", M+ DRAMA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5644.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5644.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Estrenos.png" group-title="TEST_1", M+ ESTRENOS
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5645.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5645.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Estrenos2.png" group-title="TEST_1", M+ ESTRENOS 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5646.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5646.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-series-es.png" group-title="TEST_1", M+ SERIES
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5675.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5675.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Series_2.png" group-title="TEST_1", M+ SERIES 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5673.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5673.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/canal-hollywood-es.png" group-title="TEST_1", HOLLYWOOD
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5619.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5619.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/axn-es.png" group-title="TEST_1", AXN
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5557.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5557.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/axn-white-es.png" group-title="TEST_1", AXN WHITE
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5558.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5558.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/tnt-es.png" group-title="TEST_1", TNT
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5739.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5739.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/fox-es.png" group-title="TEST_1", FOX
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5612.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5612.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/fox-life-es.png" group-title="TEST_1", FOX LIFE
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5613.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5613.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/calle-13-es.png" group-title="TEST_1", CALLE 13
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5567.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5567.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/amc-es.png" group-title="TEST_1", AMC
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5553.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5553.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/comedy-central-es.png" group-title="TEST_1", COMEDY CENTRAL
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5584.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5584.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/cosmo-es.png" group-title="TEST_1", COSMO
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5585.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5585.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/syfy-es.png" group-title="TEST_1", SYFY
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5732.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5732.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/DARK.png" group-title="TEST_1", DARK
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25930.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25930.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/xtrm-es.png" group-title="TEST_1", XTRM
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5751.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5751.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/paramount-network-es.png" group-title="TEST_1", PARAMOUNT CHANNEL
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5727.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5727.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/somos-es.png" group-title="TEST_1", SOMOS
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5730.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5730.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/bom-cine-es.png" group-title="TEST_1", BOM CINE
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5566.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5566.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/tcm-es.png" group-title="TEST_1", TCM
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5733.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5733.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/sundance-tv-es.png" group-title="TEST_1", SUNDANCE
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5731.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5731.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/canal-cocina-es.png" group-title="TEST_1", CANAL COCINA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5570.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5570.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/decasa-es.png" group-title="TEST_1", CANAL DECASA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5571.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5571.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/AMC_Break.png" group-title="TEST_1", AMC Break
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25926.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25926.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/blaze-es.png" group-title="TEST_1", BLAZE
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5564.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5564.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/canal-panda-es.png" group-title="TEST_1", CANAL PANDA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5726.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5726.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/historia-es.png" group-title="TEST_1", HISTORIA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5618.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5618.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/national-geographic-es.png" group-title="TEST_1", NAT GEO
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5714.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5714.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/national-geographic-wild-es.png" group-title="TEST_1", NAT GEO WILD
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5715.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5715.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/AMC_Crime.png" group-title="TEST_1", AMC Crime
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25927.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25927.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Crime_investigation.png" group-title="TEST_1", CRIME INVESTIGATION
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5586.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5586.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/odisea-es.png" group-title="TEST_1", ODISEA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5724.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5724.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/caza-y-pesca-es.png" group-title="TEST_1", CAZA Y PESCA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5578.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5578.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/discovery-channel-es.png" group-title="TEST_1", DISCOVERY
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5594.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5594.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/iberalia-tv-es.png" group-title="TEST_1", IBERALIA TV
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5621.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5621.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/ALERTA_POLICIA.png" group-title="TEST_1", 091 ALERTA POLICIA 24/7
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29665.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29665.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-multideporte-es.png" group-title="TEST_1", MULTI DEPORTE
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5713.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5713.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dazn-1-es.png" group-title="TEST_1", DAZN 1
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5589.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5589.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dazn-2-es.png" group-title="TEST_1", DAZN 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5590.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5590.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dazn-3-es.png" group-title="TEST_1", DAZN 3
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5591.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5591.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dazn-4-es.png" group-title="TEST_1", DAZN 4
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5592.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5592.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="TEST_1", DAZN F1
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5593.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5593.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="TEST_1", DAZN LALIGA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25125.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25125.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="TEST_1", DAZN LALIGA FHD
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/54668.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/54668.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga_2.png" group-title="TEST_1", DAZN LALIGA 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25127.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25127.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-es.png" group-title="TEST_1", M+ LALIGA  (UHD)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/54535.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/54535.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-es.png" group-title="TEST_1", M+ LALIGA (HD)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5758.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5758.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-es.png" group-title="TEST_1", M+ LALIGA (FHD)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/54532.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/54532.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-2-es.png" group-title="TEST_1", M+ LALIGA 2 (MATCH TIME)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5651.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5651.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-3-es.png" group-title="TEST_1", M+ LALIGA 3 (MATCH TIME)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5652.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5652.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/LaLigaTVBAR.png" group-title="TEST_1", M+ LALIGATV BAR
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5661.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5661.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/LaLiga_SmartbankTV.png" group-title="TEST_1", M+ Laliga SmartBankTV
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25128.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25128.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/LaLiga_SmartbankTV.png" group-title="TEST_1", M+ Laliga SmartBankTV （line2）
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/56087.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/56087.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/LaLiga_SmartbankTV_M2.png" group-title="TEST_1", M+ LaLiga Smartbank TV M2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25953.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25953.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/LaLiga_SmartbankTV_M3.png" group-title="TEST_1", M+ LaLiga Smartbank TV M3
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25954.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25954.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_0.png" group-title="TEST_1", M+ #0
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5546.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5546.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="TEST_1", M+ LIGA DE CAMPEONES (HD)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5671.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5671.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="TEST_1", M+ LIGA DE CAMPEONES (FHD)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/54531.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/54531.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_2.png" group-title="TEST_1", M+ LIGA DE CAMPEONES 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5663.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5663.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_3.png" group-title="TEST_1", M+ LIGA DE CAMPEONES 3
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5664.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5664.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_4.png" group-title="TEST_1", M+ LIGA DE CAMPEONES 4
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5665.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5665.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_5.png" group-title="TEST_1", M+ LIGA DE CAMPEONES 5
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5666.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5666.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_6.png" group-title="TEST_1", M+ LIGA DE CAMPEONES 6
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5667.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5667.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_7.png" group-title="TEST_1", M+ LIGA DE CAMPEONES 7
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5668.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5668.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_8.png" group-title="TEST_1", M+ LIGA DE CAMPEONES 8
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5669.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5669.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_9.png" group-title="TEST_1", M+ LIGA DE CAMPEONES 9
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5670.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5670.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_10.png" group-title="TEST_1", M+ LIGA DE CAMPEONES 10
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5685.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5685.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_11.png" group-title="TEST_1", M+ LIGA DE CAMPEONES 11
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5686.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5686.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_12.png" group-title="TEST_1", M+ LIGA DE CAMPEONES 12
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5687.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5687.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_13.png" group-title="TEST_1", M+ LIGA DE CAMPEONES 13
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29360.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29360.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-es.png" group-title="TEST_1", M+ DEPORTES
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5643.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5643.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-1-es.png" group-title="TEST_1", M+ DEPORTES 1
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5638.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5638.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-2-es.png" group-title="TEST_1", M+ DEPORTES 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5639.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5639.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-3-es.png" group-title="TEST_1", M+ DEPORTES 3
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5640.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5640.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-4-es.png" group-title="TEST_1", M+ DEPORTES 4
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5641.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5641.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-5-es.png" group-title="TEST_1", M+ DEPORTES 5
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5681.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5681.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-6-es.png" group-title="TEST_1", M+ DEPORTES 6
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5682.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5682.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-7-es.png" group-title="TEST_1", M+ DEPORTES 7
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5683.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5683.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-8-es.png" group-title="TEST_1", M+ DEPORTES 8
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29667.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29667.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/beinsportsenespanol.png" group-title="TEST_1", BEIN SPORTS ESPANA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/24040.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/24040.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar-golf-es.png" group-title="TEST_1", M+ GOLF
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5649.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5649.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/GolMundial.png" group-title="TEST_1", Gol Play
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/40862.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/40862.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/GolMundial.png" group-title="TEST_1", Gol Mundial 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/49555.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/49555.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/espn.png" group-title="TEST_1", ESPN DEPORTES
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5605.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5605.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/eurosport-1-es.png" group-title="TEST_1", EUROSPORT 1
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5607.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5607.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/eurosport-2-es.png" group-title="TEST_1", EUROSPORT 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5608.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5608.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/mundotoro.png" group-title="TEST_1", MUNDOTORO (1)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/55943.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/55943.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/mundotoro.png" group-title="TEST_1",  MUNDOTORO (2)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/56009.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/56009.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/mundotoro.png" group-title="TEST_1",  MUNDOTORO (3)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/56010.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/56010.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/toros-es.png" group-title="TEST_1", TOROS
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5740.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5740.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/barca-tv-es.png" group-title="TEST_1", BARCA TV
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5560.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5560.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Ellas_V.png" group-title="TEST_1", M+ ELLAS #V
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29333.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29333.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/real-madrid-tv-es.png" group-title="TEST_1", REAL MADRID TV
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5729.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5729.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/SEVILLA_FC.png" group-title="TEST_1", SEVILLA FC
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29340.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29340.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/teledeporte.png" group-title="TEST_1", Teledeporte
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5735.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5735.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Vamos.png" group-title="TEST_1", M+ #VAMOS
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5630.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5630.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/gol-es.png" group-title="TEST_1", GOL TV
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5617.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5617.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/CAZAVISION.png" group-title="TEST_1", CAZAVISIÓN
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29358.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29358.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="TEST_1", PPV 1 (LIVE EVENT)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/24103.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/24103.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="TEST_1", PPV 2 (LIVE EVENT)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/24107.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/24107.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="TEST_1", PPV 3 (LIVE EVENT)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/24104.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/24104.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="TEST_1", PPV 4 (LIVE EVENT)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/24105.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/24105.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="TEST_1", PPV 5 (LIVE EVENT)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/24106.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/24106.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1", MOVISTAR ALQUILER 1 (MULTIAUDIO)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5690.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5690.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1", MOVISTAR ALQUILER 2 (MULTIAUDIO)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5691.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5691.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1", MOVISTAR ALQUILER 3 (MULTIAUDIO)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5692.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5692.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1", MOVISTAR ALQUILER 4 (MULTIAUDIO)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5693.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5693.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1", MOVISTAR ALQUILER 5 (MULTIAUDIO)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5694.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5694.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1", MOVISTAR ALQUILER 6 (MULTIAUDIO)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5695.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5695.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1", MOVISTAR ALQUILER 7 (MULTIAUDIO)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5696.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5696.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1", MOVISTAR ALQUILER 8 (MULTIAUDIO)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5697.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5697.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1", MOVISTAR ALQUILER 9 (MULTIAUDIO)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5698.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5698.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1", MOVISTAR ALQUILER 10 (MULTIAUDIO)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5699.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5699.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1", MOVISTAR ALQUILER 11 (MULTIAUDIO)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5764.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5764.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1", MOVISTAR ALQUILER 12 (MULTIAUDIO)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5765.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5765.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="TEST_1", MOVISTAR ALQUILER 18 (MULTIAUDIO)
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5771.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5771.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Action
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29311.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29311.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Action 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29312.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29312.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Box Office
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29313.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29313.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Box Office 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29314.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29314.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Comedy
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29315.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29315.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Discovery
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29317.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29317.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Drama
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29318.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29318.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Horror
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29319.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29319.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Horror 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29320.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29320.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Kids
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29321.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29321.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Kids 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29322.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29322.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Movies
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29323.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29323.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Movies 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29324.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29324.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Thriller
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29325.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29325.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="TEST_1", Netflix Thriller 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29326.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29326.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_1.png" group-title="TEST_1", TAQUILLA 1
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29327.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29327.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_2.png" group-title="TEST_1", TAQUILLA 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29328.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29328.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_3.png" group-title="TEST_1", TAQUILLA 3
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29329.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29329.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_4.png" group-title="TEST_1", TAQUILLA 4
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29330.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29330.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_5.png" group-title="TEST_1", TAQUILLA 5
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29331.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29331.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_5.png" group-title="TEST_1", TAQUILLA 6
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29332.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29332.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/RAKUTEN.png" group-title="TEST_1", RAKUTEN 1
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29343.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29343.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/RAKUTEN.png" group-title="TEST_1", RAKUTEN 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29342.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29342.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/RAKUTEN_3.png" group-title="TEST_1", RAKUTEN 3
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29341.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29341.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/andalucia-tv-es.png" group-title="TEST_1", ANDALUCIA TV
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5554.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5554.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/aragon-tv-es.png" group-title="TEST_1", ARAGON TV
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5556.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5556.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/canal26.png" group-title="TEST_1", CANAL 26
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5569.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5569.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Canal_Sur.png" group-title="TEST_1", CANAL SUR
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5575.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5575.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Canal_Sur_Andalucia.png" group-title="TEST_1", CANAL SUR ANDALUCIA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5576.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5576.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/ESPRANZA_TV.png" group-title="TEST_1", ESPERANZA TV
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5606.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5606.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/canal-extremadura-es.png" group-title="TEST_1", EXTREMADURA TV
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5609.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5609.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/La_Otra.png" group-title="TEST_1", La Otra
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25939.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25939.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Telesur_Madrid.png" group-title="TEST_1", Telesur Madrid
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29310.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29310.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/STAR_TVE.png" group-title="TEST_1", STAR TVE
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29338.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29338.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/CANAL_SUR_2.png" group-title="TEST_1", CANAL SUR 2
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/29334.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/29334.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Castilla_la_Mancha_TV.png" group-title="TEST_1", Castilla La Mancha Media
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25929.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25929.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/tveinternacionalamericai.png" group-title="TEST_1", TVE INTERNACIONAL
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5745.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5745.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/tele-madrid-es.png" group-title="TEST_1", Telemadrid
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5736.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5736.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/galicia-es.png" group-title="TEST_1", TVG -TV Galicia
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5742.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5742.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/baby-tv-es.png" group-title="TEST_1", BABY TV
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5559.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5559.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/boing-es.png" group-title="TEST_1", BOING
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5565.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5565.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/disney-channel-es.png" group-title="TEST_1", DISNEY CHANNEL
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5596.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5596.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/disney-junior-es.png" group-title="TEST_1", DISNEY JUNIOR
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5597.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5597.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/dreamworks-channel-es.png" group-title="TEST_1", DREAMWORKS
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5602.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5602.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/nick-jr-es.png" group-title="TEST_1", NICK JR
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5720.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5720.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/nickelodeon-es.png" group-title="TEST_1", NICKELODEON
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5721.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5721.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/clan-es.png" group-title="TEST_1", CLAN
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5580.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5580.ts
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/Classica.png" group-title="TEST_1", CLASSICA
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5545.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5545.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/mezzo-live-hd-es.png" group-title="TEST_1", MEZZO LIVE
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5689.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5689.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/M_Fest.png" group-title="TEST_1", M+ FEST
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5648.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5648.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/MTV_00s.png" group-title="TEST_1", MTV 00s
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/25941.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/25941.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/mtv-es.png" group-title="TEST_1", MTV
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5712.ts
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5712.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/vh1.png" group-title="TEST_1", VH1
-http://test.pikademon.cfd:8080/live/5171686038434634/2191686038434634/5749.ts
-
-
-
-
+http://test.treevv.monster:8080/live/2261689321602291/7881689321602291/5749.ts
